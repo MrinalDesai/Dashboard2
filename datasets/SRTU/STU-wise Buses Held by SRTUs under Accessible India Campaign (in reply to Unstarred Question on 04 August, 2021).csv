@@ -1,0 +1,64 @@
+Sl. No.,Name of the STU,Fleet Held (Vehicles in Operation),Intercity - Intercity Operational Fleet ,Intercity - Fully Accessible with wheel chair,Intercity - Accessible,Intercity - Not Accessible,Urban - Urban Operational Fleet,Urban - Fully Accessible with wheel chair,Urban - Accessible,Urban - Not Accessible
+1,GSRTC,8281,5798,0,95,5703,2483,0,1655,828
+2,APSRTC,11696,10543,0,0,10543,1153,0,64,1089
+3,BMTC,6664,0,0,0,NA,6664,1126,5538,0
+4,NEKRTC,4714,4195,0,0,4195,519,265,0,254
+5,NWKRTC,5080,4372,NA,720,3652,708,102,0,606
+6,SETC,1164,1164,0,815,349,0,0,0,0
+7,DTC,3762,0,0,0,0,3762,3762,0,0
+8,Jaipur City TSL,293,85,0,85,0,208,0,208,0
+9,DIMTS,2847,0,0,0,0,2847,1168,0,1679
+10,RSRTC,4878,4878,0,0,4878,0,0,0,0
+11,TN-KUMB,3471,2186,0,2186,0,1285,0,1285,0
+12,TN-TNV,1762,1064,0,354,710,698,0,52,646
+13,NMMT,397,0,0,0,0,397,157,240,0
+14,OSRTC,436,436,0,0,436,0,0,0,0
+15,TN-MDU,2166,1554,0,379,1175,612,0,40,572
+16,MTC-Ch,3476,0,0,0,0,3476,13,1660,1803
+17,Kadamba TCL,540,494,0,0,494,46,2,44,0
+18,TN-VPM,3373,2289,0,1140,1149,1084,0,0,1084
+19,TN-CBE,2850,1568,0,880,688,1282,0,178,1104
+20,ST HARYANA,3630,3630,0,0,3630,0,0,0,0
+21,NB STC,965,937,0,0,937,28,0,28,0
+22,TN-SALEM,2131,1294,0,860,434,837,0,0,837
+23,Arunachal Pradesh State Transport Deptt.,255,255,0,0,255,0,0,0,0
+24,Bihar State Road Transport Corporation,414,414,0,105,309,0,0,0,0
+25,Himachal Road Transport Corporation,3000,3000,0,85,2915,0,0,0,0
+26,Jammu & Kashmir State Road Transport Corporation,570,512,0,0,512,58,0,0,58
+27,Meghalaya transport Corporation,62,62,0,0,62,0,0,0,0
+28,Mizoram State Transport,40,40,0,0,40,0,0,0,0
+29,Nagaland State Transport,232,204,0,5,199,28,0,0,28
+30,Pepsu Road Transport Corporation,1045,1045,0,20,1025,0,0,0,0
+31,State Transport Punjab,646,646,0,0,646,0,0,0,0
+32,Punjab State Bus Stand Management Co.,1116,1116,0,0,1116,0,0,0,0
+33,Sikkim Nationalized Transport,97,97,0,0,97,0,0,0,0
+34,Telangana State Road Tpt. Corpn,9691,6790,0,0,6790,2901,0,122,2779
+35,Tripura Road Transport Corporation,63,63,0,0,63,0,0,0,0
+36,Uttar Pradesh State Road Transport Corporaioon,9219,9219,0,5692,3527,0,0,0,0
+37,Uttarakhand Transport Corporation,1225,1225,0,0,1225,0,0,0,0
+38,South Bengal State Transport Corporation,661,661,0,0,661,0,0,0,0
+39,West Bengal Surface TCL,92,92,0,92,0,0,0,0,0
+40,Andaman & Nicobar Administration,257,170,0,170,0,87,0,87,0
+41,Ahmedabad Municipal Transport Service,741,0,0,0,0,741,0,650,91
+42,BEST Undertaking,3338,0,0,0,0,3338,0,25,3313
+43,Pune MahanagarParivahanMahamandal Ltd.,2652,0,0,0,0,2652,0,2652,0
+44,KohlapurMunipal Transport,135,0,0,0,0,135,0,75,60
+45,KalyanDombivli Municipal Tpt. Undertaking,218,0,0,0,0,218,0,40,178
+46,Sholapur MTU,44,0,0,0,0,44,0,35,9
+47,Thane MTU,353,0,0,0,0,353,0,170,183
+48,Bhubneshwar-PuriTpt. Services Ltd. (CURT),200,0,0,0,0,200,0,100,100
+49,Lucknow City Services Ltd.,260,0,0,0,0,260,260,0,0
+50,Meerut City Tpt. Services Ltd.,120,0,0,0,0,120,120,0,0
+51,Allahabad City Tpt. Services Ltd.,127,0,0,0,0,127,127,0,0
+52,Varanasi City Tpt. Sevices Ltd.,130,0,0,0,0,130,130,0,0
+53,Agra-Mathura Tpt. Services Ltd.,230,0,0,0,0,230,230,0,0
+54,Kanpur City Tpt. Sevices Ltd.,270,0,0,0,0,270,270,0,0
+55,Calcutta State Transport Corporation,718,0,0,0,0,718,0,632,86
+56,Chandigarh Transport Undertaking,587,229,0,0,229,358,298,0,60
+57,Puducherry Road Transport Corporation,110,0,0,0,0,110,10,0,100
+58,Kerala State Road Transport Corporation,5489,5092,0,5054,38,397,0,397,0
+59,Kerala Urban Road Tpt. Corpn.(A subsidiary of Kerala SRTC),719,399,110,289,0,320,80,240,0
+60,KAR SRTC,8820,6944,0,0,6944,1876,113,0,1763
+61,MSRTC,17900,17564,0,8000,9564,336,0,336,0
+62,Assam STC,674,207,100,107,0,467,0,467,0
+Total,Total,147096,102533,210,27133,75190,44563,8233,17020,19310

@@ -1,0 +1,6 @@
+﻿ID,ROUTE,BUS_NO,REVIEW,RATING,CREATED_AT
+1,345,2345,The journey was arduous,Negative,
+2,7689,2345,It was a bumpy ride,Negative,
+3,7689,2345,The bus was over crowded,Negative,
+101,12,2378,Reached my destination on time,Highly Positive,
+4,111,111,Smooth Journey,Positive,

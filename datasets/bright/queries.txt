@@ -1,0 +1,7 @@
+select 
+from GOOGLE_PLAY
+where LOWER(TITLE) LIKE '%trip%'
+limit 10;
+
+
+select* FROM PUBLIC.MYNTRA_PRODUCTS;

@@ -1,0 +1,2311 @@
+﻿IDENTIFIER,TITLE
+DMCBRBRABSGLA,Crude Birth Rate - Brazil
+DMCBRCHABSGLA,Crude Birth Rate - China
+DMCBREUABSGLA,Crude Birth Rate - Euro Area
+DMCBRFRABSGLA,Crude Birth Rate - France
+DMCBRGEABSGLA,Crude Birth Rate - Germany
+DMCBRIDABSGLA,Crude Birth Rate - Indonesia
+DMCBRINABSGLA,Crude Birth Rate - India
+DMCBRITABSGLA,Crude Birth Rate - Italy
+DMCBRJPABSGLA,Crude Birth Rate - Japan
+DMCBRPHABSGLA,Crude Birth Rate - Phillipines
+DMCBRPLABSGLA,Crude Birth Rate - Poland
+DMCBRSAABSGLA,Crude Birth Rate - South Africa
+DMCBRUKABSGLA,Crude Birth Rate - UK
+DMCBRUSABSGLA,Crude Birth Rate - USA
+DMCBRSKABSGLA,Crude Birth Rate - South Korea
+DMCBRTHABSGLA,Crude Birth Rate - Thailand
+DMCDRBRABSGLA,Crude Death Rate - Brazil
+DMCDREUABSGLA,Crude Death Rate - Euro Area
+DMCDRFRABSGLA,Crude Death Rate - France
+DMCDRGEABSGLA,Crude Death Rate - Germany
+DMCDRINABSGLA,Crude Death Rate - India
+DMCDRITABSGLA,Crude Death Rate - Italy
+DMCDRMXABSGLA,Crude Death Rate - Mexico
+DMCDRPLABSGLA,Crude Death Rate - Poland
+DMCDRRUABSGLA,Crude Death Rate - Russia
+DMCDRSKABSGLA,Crude Death Rate - South Korea
+DMCDRUKABSGLA,Crude Death Rate - UK
+DMIMRBRABSGLA,Infant Mortality Rate  - Brazil
+DMIMRCHABSGLA,Infant Mortality Rate  - China
+DMCDRSAABSGLA,Crude Death Rate - South Africa
+DMIMRGEABSGLA,Infant Mortality Rate  - Germany
+DMIMRIDABSGLA,Infant Mortality Rate  - Indonesia
+DMIMRINABSGLA,Infant Mortality Rate  - India
+DMIMRITABSGLA,Infant Mortality Rate  - Italy
+DMIMRJPABSGLA,Infant Mortality Rate  - Japan
+DMIMRMXABSGLA,Infant Mortality Rate  - Mexico
+DMIMRPHABSGLA,Infant Mortality Rate  - Phillipines
+DMIMRSAABSGLA,Infant Mortality Rate  - South Africa
+DMIMRSKABSGLA,Infant Mortality Rate  - South Korea
+DMLEBBRABSGLA,Life Expectancy at Birth - Brazil
+DMLEBEUABSGLA,Life Expectancy at Birth - Euro Area
+DMLEBITABSGLA,Life Expectancy at Birth - Italy
+DMLEBJPABSGLA,Life Expectancy at Birth - Japan
+DMLEBPLABSGLA,Life Expectancy at Birth - Poland
+DMLEBTHABSGLA,Life Expectancy at Birth - Thailand
+DMLEBUKABSGLA,Life Expectancy at Birth - UK
+DMMEAGEABSGLA,Median Age of Population - Germany
+DMMEACHABSGLA,Median Age of Population - China
+DMMEAUKABSGLA,Median Age of Population - UK
+DMPODPLABSGLA,Population Density - Poland
+DMPODSAABSGLA,Population Density - South Africa
+DMPODITABSGLA,Population Density - Italy
+DMPOPTHABSGLA,Total Population by Sex - Thailand
+DMSEREUABSGLA,Sex Ratio of the Total Population - Euro Area
+DMSERMXABSGLA,Sex Ratio of the Total Population - Mexico
+DMSERUSABSGLA,Sex Ratio of the Total Population - USA
+DMTFRINABSGLA,Total Fertility Rate - India
+DMSERFRABSGLA,Sex Ratio of the Total Population - France
+ENELCUTHSS11M,Monthly Capacity utilisation (PLF) - thermal power (state sector)
+ENELHYCCAP11M,"Monthly Electricity generation capacity (hydro, central sector)"
+DMCBRMXABSGLA,Crude Birth Rate - Mexico
+DMCBRRUABSGLA,Crude Birth Rate - Russia
+DMCDRCHABSGLA,Crude Death Rate - China
+DMCDRIDABSGLA,Crude Death Rate - Indonesia
+DMCDRJPABSGLA,Crude Death Rate - Japan
+DMCDRPHABSGLA,Crude Death Rate - Phillipines
+DMCDRTHABSGLA,Crude Death Rate - Thailand
+DMCDRUSABSGLA,Crude Death Rate - USA
+DMIMREUABSGLA,Infant Mortality Rate  - Euro Area
+DMIMRFRABSGLA,Infant Mortality Rate  - France
+DMIMRTHABSGLA,Infant Mortality Rate  - Thailand
+DMIMRUKABSGLA,Infant Mortality Rate  - UK
+DMIMRUSABSGLA,Infant Mortality Rate  - USA
+DMLEBCHABSGLA,Life Expectancy at Birth - China
+DMLEBIDABSGLA,Life Expectancy at Birth - Indonesia
+DMLEBINABSGLA,Life Expectancy at Birth - India
+DMLEBPHABSGLA,Life Expectancy at Birth - Phillipines
+DMLEBRUABSGLA,Life Expectancy at Birth - Russia
+DMLEBSAABSGLA,Life Expectancy at Birth - South Africa
+DMMEABRABSGLA,Median Age of Population - Brazil
+DMMEAEUABSGLA,Median Age of Population - Euro Area
+DMMEAFRABSGLA,Median Age of Population - France
+DMMEAINABSGLA,Median Age of Population - India
+DMIMRRUABSGLA,Infant Mortality Rate  - Russia
+DMLEBGEABSGLA,Life Expectancy at Birth - Germany
+DMLEBUSABSGLA,Life Expectancy at Birth - USA
+DMMEAIDABSGLA,Median Age of Population - Indonesia
+DMMEAITABSGLA,Median Age of Population - Italy
+DMMEAJPABSGLA,Median Age of Population - Japan
+DMMEAMXABSGLA,Median Age of Population - Mexico
+DMMEAPHABSGLA,Median Age of Population - Phillipines
+DMMEAPLABSGLA,Median Age of Population - Poland
+DMMEASAABSGLA,Median Age of Population - South Africa
+DMMEAUSABSGLA,Median Age of Population - USA
+DMPODBRABSGLA,Population Density - Brazil
+DMPODGEABSGLA,Population Density - Germany
+DMPODINABSGLA,Population Density - India
+DMPODJPABSGLA,Population Density - Japan
+DMPODTHABSGLA,Population Density - Thailand
+DMPODUKABSGLA,Population Density - UK
+DMPODUSABSGLA,Population Density - USA
+DMPOPEUABSGLA,Total Population by Sex - Euro Area
+DMPOPFRABSGLA,Total Population by Sex - France
+DMPOPIDABSGLA,Total Population by Sex - Indonesia
+DMPOPINABSGLA,Total Population by Sex - India
+DMPOPITABSGLA,Total Population by Sex - Italy
+DMPOPJPABSGLA,Total Population by Sex - Japan
+DMPOPPLABSGLA,Total Population by Sex - Poland
+DMPOPRUABSGLA,Total Population by Sex - Russia
+DMPOPSAABSGLA,Total Population by Sex - South Africa
+DMSERBRABSGLA,Sex Ratio of the Total Population - Brazil
+DMSERCHABSGLA,Sex Ratio of the Total Population - China
+DMSERGEABSGLA,Sex Ratio of the Total Population - Germany
+DMSERIDABSGLA,Sex Ratio of the Total Population - Indonesia
+DMSERINABSGLA,Sex Ratio of the Total Population - India
+DMSERPHABSGLA,Sex Ratio of the Total Population - Phillipines
+DMSERRUABSGLA,Sex Ratio of the Total Population - Russia
+DMSERSKABSGLA,Sex Ratio of the Total Population - South Korea
+DMSERUKABSGLA,Sex Ratio of the Total Population - UK
+DMTFRBRABSGLA,Total Fertility Rate - Brazil
+DMTFRGEABSGLA,Total Fertility Rate - Germany
+DMTFRIDABSGLA,Total Fertility Rate - Indonesia
+DMTFRITABSGLA,Total Fertility Rate - Italy
+DMTFRJPABSGLA,Total Fertility Rate - Japan
+DMTFRMXABSGLA,Total Fertility Rate - Mexico
+DMTFRPHABSGLA,Total Fertility Rate - Phillipines
+DMTFRSAABSGLA,Total Fertility Rate - South Africa
+DMTFRUKABSGLA,Total Fertility Rate - UK
+ENELCENGEN11M,Monthly Electricity generation (Central sector)
+ENELCONGEN11M,Monthly Electricity generation (conventional sources)
+ENELCUNUCL11M,Monthly Capacity utilisation (PLF) - nuclear power
+ENELCUTHCS11M,Monthly Capacity utilisation (PLF) - thermal power (central sector)
+ENELCUTHIP11M,Monthly Capacity utilisation (PLF) - thermal power (IPPs)
+ENELDEMAND11M,Electricity Demand (Monthly)
+ENELHYCGEN11M,"Monthly Electricity generation (hydro, central sector)"
+ENELHYICAP11M,"Monthly Electricity generation capacity (hydro, IPPs)"
+ENELHYSCAP11M,"Monthly Electricity generation capacity (hydro, state sector)"
+ENELHYVCAP11M,"Monthly Electricity generation capacity (hydro, private utilities)"
+ENELIMPBHU11M,Monthly Electricity generation (imports from Bhutan)
+ENELIPPCAP11M,Monthly Electricity generation capacity (IPPs sector)
+ENELIPPGEN11M,Monthly Electricity generation (IPPs sector)
+ENELPVTGEN11M,Monthly Electricity generation (Private sector)
+ENELSTACAP11M,Monthly Electricity generation capacity (State sector)
+ENELTHECAP11M,Monthly Electricity generation capacity (thermal energy)
+ENELTHICAP11M,"Monthly Electricity generation capacity (thermal, IPPs)"
+ENELTHPGEN11M,"Monthly Electricity generation (thermal, private sector)"
+ENELTHSGEN11M,"Monthly Electricity generation (thermal, state sector)"
+ENELTHVGEN11M,"Monthly Electricity generation (thermal, private utilities)"
+ENELTOTGEN11M,Electricity Generation (Monthly)
+ENELTTGNCA11M,Monthly Total Electricity Generation (CEA)
+ENPTATFEXP11A,Exports of Petroleum Products (Volume) - Aviation Turbine Fuel (Annual)
+ENPTATFPRO11A,Production of Petroleum Products - Aviation Turbine Fuel (Annual)
+ENPTBITCON11M,Consumption of Petroleum Products - Bitumen (Monthly)
+ENELTHVCAP11M,"Monthly Electricity generation capacity (thermal, private utilities)"
+ENPTBITEXP11A,Exports of Petroleum Products (Volume) - Bitumen (Annual)
+ENPTBITIMP11M,Imports of Petroleum Products (Volume) - Bitumen (Monthly)
+ENPTCOKPRO11A,Production of Petroleum Products - Petroleum Coke (Annual)
+ENPTCRUPRO11A,Domestic Crude Oil Production (Annual)
+ENPTDSINTP11M,Diesel FOB International Price
+ENPTFOLPRO11M,Production of Petroleum Products - Fuel Oil & LSHS (Monthly)
+ENPTFOLEXP11M,Exports of Petroleum Products (Volume) - Fuel Oil (Monthly)
+DMIMRPLABSGLA,Infant Mortality Rate  - Poland
+DMLEBFRABSGLA,Life Expectancy at Birth - France
+DMLEBMXABSGLA,Life Expectancy at Birth - Mexico
+DMLEBSKABSGLA,Life Expectancy at Birth - South Korea
+DMMEARUABSGLA,Median Age of Population - Russia
+DMMEASKABSGLA,Median Age of Population - South Korea
+DMMEATHABSGLA,Median Age of Population - Thailand
+DMPODEUABSGLA,Population Density - Euro Area
+DMPODFRABSGLA,Population Density - France
+DMPODMXABSGLA,Population Density - Mexico
+DMPODPHABSGLA,Population Density - Phillipines
+DMPODRUABSGLA,Population Density - Russia
+DMPODSKABSGLA,Population Density - South Korea
+DMPOPBRABSGLA,Total Population by Sex - Brazil
+DMPOPCHABSGLA,Total Population by Sex - China
+DMPOPGEABSGLA,Total Population by Sex - Germany
+DMPOPPHABSGLA,Total Population by Sex - Phillipines
+DMPOPSKABSGLA,Total Population by Sex - South Korea
+DMPOPUSABSGLA,Total Population by Sex - USA
+DMSERITABSGLA,Sex Ratio of the Total Population - Italy
+DMSERJPABSGLA,Sex Ratio of the Total Population - Japan
+DMSERPLABSGLA,Sex Ratio of the Total Population - Poland
+DMSERSAABSGLA,Sex Ratio of the Total Population - South Africa
+DMSERTHABSGLA,Sex Ratio of the Total Population - Thailand
+DMTFRCHABSGLA,Total Fertility Rate - China
+DMTFREUABSGLA,Total Fertility Rate - Euro Area
+DMTFRFRABSGLA,Total Fertility Rate - France
+DMTFRPLABSGLA,Total Fertility Rate - Poland
+DMTFRSKABSGLA,Total Fertility Rate - South Korea
+DMTFRTHABSGLA,Total Fertility Rate - Thailand
+DMPOPUKABSGLA,Total Population by Sex - UK
+DMTFRRUABSGLA,Total Fertility Rate - Russia
+DMTFRUSABSGLA,Total Fertility Rate - USA
+ENCOTOTPRO11M,Coal Production (Monthly)
+ENELCENCAP11M,Monthly Electricity generation capacity (Central sector)
+ENELCONCAP11M,Monthly Electricity generation capacity (conventional sources)
+ENELCONSMD11M,Electricity Consumed (Monthly)
+ENELCUTHPU11M,Monthly Capacity utilisation (PLF) - thermal power (private utilities)
+ENELHYDCAP11M,Monthly Electricity generation capacity (hydro energy)
+ENELHYDGEN11M,Monthly Electricity generation (hydro energy)
+ENELHYIGEN11M,"Monthly Electricity generation (hydro, IPPs)"
+ENELHYPCAP11M,"Monthly Electricity generation capacity (hydro, private sector)"
+ENELHYVGEN11M,"Monthly Electricity generation (hydro, private utilities)"
+ENELNUCCAP11M,Monthly Electricity generation capacity (nuclear energy)
+ENELNUCGEN11M,Monthly Electricity generation (nuclear energy)
+ENELPUTCAP11M,Monthly Electricity generation capacity (Private utilities)
+ENELPUTGEN11M,Monthly Electricity generation (Private utilities)
+ENELPVTCAP11M,Monthly Electricity generation capacity (Private sector)
+ENELSTAGEN11M,Monthly Electricity generation (State sector)
+ENELTHCCAP11M,"Monthly Electricity generation capacity (thermal, central sector)"
+ENELTHCGEN11M,"Monthly Electricity generation (thermal, central sector)"
+ENELTHEGEN11M,Monthly Electricity generation (thermal energy)
+ENELTHIGEN11M,"Monthly Electricity generation (thermal, IPPs)"
+ENELTHSCAP11M,"Monthly Electricity generation capacity (thermal, state sector)"
+ENPTATFCON11A,Consumption of Petroleum Products - Aviation Turbine Fuel (Annual)
+ENPTATFCON11M,Consumption of Petroleum Products - Aviation Turbine Fuel (Monthly)
+ENPTATFEXP11M,Exports of Petroleum Products (Volume) - Aviation Turbine Fuel (Monthly)
+ENPTATFIMP11A,Imports of Petroleum Products (Volume) - Aviation Turbine Fuel (Annual)
+ENPTATFIMP11M,Imports of Petroleum Products (Volume) - Aviation Turbine Fuel (Monthly)
+ENPTATFPRO11M,Production of Petroleum Products - Aviation Turbine Fuel (Monthly)
+ENPTBITCON11A,Consumption of Petroleum Products - Bitumen (Annual)
+ENELTHPCAP11M,"Monthly Electricity generation capacity (thermal, private sector)"
+ENPTBITEXP11M,Exports of Petroleum Products (Volume) - Bitumen (Monthly)
+ENPTBITIMP11A,Imports of Petroleum Products (Volume) - Bitumen (Annual)
+ENPTBITPRO11A,Production of Petroleum Products - Bitumen (Annual)
+ENPTBITPRO11M,Production of Petroleum Products - Bitumen (Monthly)
+ENPTCOKCON11A,Consumption of Petroleum Products - Petroleum Coke (Annual)
+ENPTCOKCON11M,Consumption of Petroleum Products - Petroleum Coke (Monthly)
+ENPTCOKEXP11M,Exports of Petroleum Products (Volume) - Petroleum Coke (Monthly)
+ENPTCOKIMP11A,Imports of Petroleum Products (Volume) - Petroleum Coke (Annual)
+ENPTCOKIMP11M,Imports of Petroleum Products (Volume) - Petroleum Coke (Monthly)
+ENPTCRUDPR11M,Crude Oil Production (Monthly)
+ENPTDSLCON11A,Consumption of Petroleum Products - Diesel (Annual)
+ENPTDSLIMP11A,Imports of Petroleum Products (Volume) - Diesel (Annual)
+ENPTDSLIMP11M,Imports of Petroleum Products (Volume) - Diesel (Monthly)
+ENPTDSLPRO11M,Production of Petroleum Products - Diesel (Monthly)
+ENPTFOLCON11M,Consumption of Petroleum Products - Fuel Oil & LSHS (Monthly)
+ENPTFOLEXP11A,Exports of Petroleum Products (Volume) - Fuel Oil (Annual)
+ENPTFOLIMP11A,Imports of Petroleum Products (Volume) - Fuel Oil (Annual)
+ENPTHSDCON11A,State wise Diesel sales (annual)
+ENPTIBCRPR11M,Average price of Indian basket of Crude Oil (Monthly)
+ENPTKERCON11A,Consumption of Petroleum Products - Kerosene (Annual)
+DMPODIDABSGLA,Population Density - Indonesia
+DMPOPMXABSGLA,Total Population by Sex - Mexico
+DMPODCHABSGLA,Population Density - China
+ENELCUTHRM11M,Monthly Capacity utilisation (PLF) - thermal power
+ENELHYPGEN11M,"Monthly Electricity generation (hydro, private sector)"
+ENELHYSGEN11M,"Monthly Electricity generation (hydro, state sector)"
+ENELPOWDEF11M,Electricity Supply Deficit (Monthly)
+ENELRENGEN11M,Monthly Electricity Generation (renewable sources)
+ENPTCOKEXP11A,Exports of Petroleum Products (Volume) - Petroleum Coke (Annual)
+ENPTCOKPRO11M,Production of Petroleum Products - Petroleum Coke (Monthly)
+ENPTCRUIMP11A,"Imports of Crude Oil (Volume, Annual)"
+ENPTCRUIMP11M,"Imports of Crude Oil (Volume, Monthly)"
+ENPTDSLCON11M,Consumption of Petroleum Products - Diesel (Monthly)
+ENPTDSLEXP11A,Exports of Petroleum Products (Volume) - Diesel (Annual)
+ENPTFOLIMP11M,Imports of Petroleum Products (Volume) - Fuel Oil (Monthly)
+ENPTFOLPRO11A,Production of Petroleum Products - Fuel Oil & LSHS (Annual)
+ENPTDSLPRO11A,Production of Petroleum Products - Diesel (Annual)
+ENPTFOLCON11A,Consumption of Petroleum Products - Fuel Oil & LSHS (Annual)
+ENPTDSLEXP11M,Exports of Petroleum Products (Volume) - Diesel (Monthly)
+ENPTKERCON11M,Consumption of Petroleum Products - Kerosene (Monthly)
+ENPTKEREXP11A,Exports of Petroleum Products (Volume) - Kerosene (Annual)
+ENPTKEREXP11M,Exports of Petroleum Products (Volume) - Kerosene (Monthly)
+ENPTKERIMP11A,Imports of Petroleum Products (Volume) - Kerosene (Annual)
+ENPTKERIMP11M,Imports of Petroleum Products (Volume) - Kerosene (Monthly)
+ENPTKERPRO11A,Production of Petroleum Products - Kerosene (Annual)
+ENPTKERPRO11M,Production of Petroleum Products - Kerosene (Monthly)
+ENPTLDOCON11A,Consumption of Petroleum Products - Light Diesel Oil (Annual)
+ENPTLDOCON11M,Consumption of Petroleum Products - Light Diesel Oil (Monthly)
+ENPTLDOEXP11A,Exports of Petroleum Products (Volume) - Light Diesel Oil (Annual)
+ENPTLDOEXP11M,Exports of Petroleum Products (Volume) - Light Diesel Oil (Monthly)
+ENPTLDOPRO11A,Production of Petroleum Products - Light Diesel Oil (Annual)
+ENPTLDOPRO11M,Production of Petroleum Products - Light Diesel Oil (Monthly)
+ENPTLPGCNS11A,State wise LPG sales (annual)
+ENPTLPGCON11A,Consumption of Petroleum Products - LPG (Annual)
+ENPTLPGCON11M,Consumption of Petroleum Products - LPG (Monthly)
+ENPTLPGEXP11A,Exports of Petroleum Products (Volume) - LPG (Annual)
+ENPTLPGEXP11M,Exports of Petroleum Products (Volume) - LPG (Monthly)
+ENPTLPGIMP11A,Imports of Petroleum Products (Volume) - LPG (Annual)
+ENPTLPGIMP11M,Imports of Petroleum Products (Volume) - LPG (Monthly)
+ENPTLPGPRO11A,Production of Petroleum Products - LPG (Annual)
+ENPTLPGPRO11M,Production of Petroleum Products - LPG (Monthly)
+ENPTLUBCON11A,Consumption of Petroleum Products - Lubricants & Greases (Annual)
+ENPTLUBCON11M,Consumption of Petroleum Products - Lubricants & Greases (Monthly)
+ENPTLUBEXP11A,Exports of Petroleum Products (Volume) - Lube Oil & LOBs (Annual)
+ENPTLUBEXP11M,Exports of Petroleum Products (Volume) - Lube Oil & LOBs (Monthly)
+ENPTLUBIMP11A,Imports of Petroleum Products (Volume) - Lube Oil & LOBs (Annual)
+ENPTLUBIMP11M,Imports of Petroleum Products (Volume) - Lube Oil & LOBs (Monthly)
+ENPTLUBPRO11A,Production of Petroleum Products - Lubricants & Greases (Annual)
+ENPTLUBPRO11M,Production of Petroleum Products - Lubricants & Greases (Monthly)
+ENPTMSSCON11A,State wise Petrol sales (annual)
+ENPTNAPCON11A,Consumption of Petroleum Products - Naphtha (Annual)
+ENPTNAPCON11M,Consumption of Petroleum Products - Naphtha (Monthly)
+ENPTNAPEXP11M,Exports of Petroleum Products (Volume) - Naphtha (Monthly)
+ENPTNAPIMP11A,Imports of Petroleum Products (Volume) - Naphtha (Annual)
+ENPTNAPIMP11M,Imports of Petroleum Products (Volume) - Naphtha (Monthly)
+ENPTNAPPRO11A,Production of Petroleum Products - Naphtha (Annual)
+ENPTNAPPRO11M,Production of Petroleum Products - Naphtha (Monthly)
+ENPTNETIMP11A,"Net Petroleum Imports (Volume, Annual)"
+ENPTNETIMP11M,"Net Imports of All Petroleum Products (Volume, Monthly)"
+ENPTNGASPR11M,Natural Gas Production (Monthly)
+ENPTNTGCON11A,Domestic Natural Gas Consumption (Annual)
+ENPTNTGCON11M,Domestic Natural Gas Consumption (Monthly)
+ENPTNTGIMP11A,Natural Gas Imports (Annual)
+ENPTNTGIMP11M,Natural Gas Imports (Monthly)
+ENPTNTGPRO11A,"Domestic Natural Gas Production (PPAC, Annual)"
+ENPTNTGPRO11M,"Domestic Natural Gas Production (PPAC, Monthly)"
+ENPTOTRCON11M,Consumption of Petroleum Products - Others (Monthly)
+ENPTOTREXP11A,Exports of Petroleum Products (Volume) - Others (Annual)
+ENPTOTREXP11M,Exports of Petroleum Products (Volume) - Others (Monthly)
+ENPTOTRIMP11A,Imports of Petroleum Products (Volume) - Others (Annual)
+ENPTOTRIMP11M,Imports of Petroleum Products (Volume) - Others (Monthly)
+ENPTOTRPRO11A,Production of Petroleum Products - Others (Annual)
+ENPTOTRPRO11M,Production of Petroleum Products - Others (Monthly)
+ENPTPETCON11A,Consumption of Petroleum Products - Petrol (Annual)
+ENPTPETCON11M,Consumption of Petroleum Products - Petrol (Monthly)
+ENPTPETEXP11A,Exports of Petroleum Products (Volume) - Petrol (Annual)
+ENPTPETEXP11M,Exports of Petroleum Products (Volume) - Petrol (Monthly)
+ENPTPETIMP11A,Imports of Petroleum Products (Volume) - Petrol (Annual)
+ENPTPETIMP11M,Imports of Petroleum Products (Volume) - Petrol (Monthly)
+ENPTPETPRO11A,Production of Petroleum Products - Petrol (Annual)
+ENPTPETPRO11M,Production of Petroleum Products - Petrol (Monthly)
+ENPTPRDEXP11A,"Exports of All Petroleum Products (Volume, Annual)"
+ENPTPRDIMP11M,"Imports of All Petroleum Products (Volume, Monthly)"
+ENPTPTINTP11M,Petrol FOB International Price
+ENPTREFCAP11A,All India Installed Refinery Capacity
+ENPTREFIPR11M,Petroleum Product Production (Monthly)
+ENPTRETOUT11A,Number of Retail Fuel Outlets
+ENPTSKOCON11A,State wise Kerosene sales (annual)
+ENPTSTACON11A,State wise Petroleum product sales (annual)
+ENPTTOTCON11A,Consumption of All Petroleum Products (Annual)
+ENPTTOTCON11M,Consumption of All Petroleum Products (Monthly)
+ENPTTOTIMP11A,"Total Petroleum Imports (Volume, Annual)"
+ENPTTOTIMP11M,"Total Petroleum Imports (Volume, Monthly)"
+ENPTTOTPRO11A,"Production of All Petroleum Products (PPAC, Annual)"
+ENPTTOTPRO11M,"Production of All Petroleum Products (PPAC, Monthly)"
+IFCAASAVKM11M,Number of Total Passenger Kilometers available on Scheduled Flights of Domestic Indian Airlines (Monthly)
+IFCAASCRGO11A,Total Cargo carried on Scheduled Flights of Domestic Indian Airlines (Annual)
+IFCAASCRGO11M,Total Cargo carried on Scheduled Flights of Domestic Indian Airlines (Monthly)
+IFCAASFLKM11A,Number of Total Scheduled Flight Kilometers of Domestic Indian Airlines (Annual)
+IFCAASHRFL11A,Number of Total Scheduled Flight Hours of Domestic Indian Airlines (Annual)
+IFCAASHRFL11M,Number of Total Scheduled Flight Hours of Domestic Indian Airlines (Monthly)
+IFCAASLOAD11A,Average Total Passenger Load Factor on Scheduled Flights of Domestic Indian Airlines (Annual)
+IFCAASLOAD11M,Average Total Passenger Load Factor on Scheduled Flights of Domestic Indian Airlines (Monthly)
+IFCAASNFLG11A,Number of All Scheduled Flights by Public Sector Airlines (Annual)
+IFCAASNFLP11A,Number of All Scheduled Flights by Private Indian Airlines (Annual)
+IFCAASNPAG11A,Number of Passengers carried by Public Sector Airlines on All Scheduled Flights (Annual)
+IFCAASNPAP11A,Number of Passengers carried by Private Indian Airlines on All Scheduled Flights (Annual)
+IFCAASNUFL11A,Number of Total Scheduled Flights of Domestic Indian Airlines (Annual)
+IFCAASNUFL11M,Number of Total Scheduled Flights of Domestic Indian Airlines (Monthly)
+IFCAASPASS11A,Number of Total Passengers on Scheduled Flights of Domestic Indian Airlines (Annual)
+IFCAASPSKM11A,Number of Total Passenger Kilometers on Scheduled Flights of Domestic Indian Airlines (Annual)
+IFCAASPSKM11M,Number of Total Passenger Kilometers on Scheduled Flights of Domestic Indian Airlines (Monthly)
+IFCADPSGNS11M,Number of Domestic Passengers carried by Scheduled Operators on Non-Scheduled Flights (Monthly)
+IFCADPSGTT11M,Number of Domestic Passengers carried by Scheduled Operators (Monthly)
+IFCADSAVKM11A,Number of Domestic Passenger Kilometers available on Scheduled Flights (Annual)
+IFCADSAVKM11M,Number of Domestic Passenger Kilometers available on Scheduled Flights (Monthly)
+IFCADSCRGO11A,Total Domestic Cargo carried on Scheduled Flights (Annual)
+IFCADSFLKM11A,Number of Domestic Scheduled Flight Kilometers (Annual)
+IFCADSFLKM11M,Number of Domestic Scheduled Flight Kilometers (Monthly)
+IFCADSHRFL11A,Number of Domestic Scheduled Flight Hours (Annual)
+IFCADSHRFL11M,Number of Domestic Scheduled Flight Hours (Monthly)
+IFCADSLOAD11A,Average Domestic Passenger Load Factor on Scheduled Flights (Annual)
+IFCADSLOAD11M,Average Domestic Passenger Load Factor on Scheduled Flights (Monthly)
+IFCADSNFLG11A,Number of Domestic Scheduled Flights by Public Sector Airlines (Annual)
+IFCADSNPAG11A,Number of Passengers carried by Public Sector Airlines on Scheduled Domestic Flights (Annual)
+IFCADSNPAP11A,Number of Passengers carried by Private Airlines on Scheduled Domestic Flights (Annual)
+IFCADSNSFL11A,Fleet size of Non-Scheduled Aircraft Operators
+IFCADSNSOP11A,Number of Non-Scheduled Aircraft Operators
+IFCADSNUFL11A,Number of Domestic Scheduled Flights (Annual)
+IFCADSNUFL11M,Number of Domestic Scheduled Flights (Monthly)
+IFCADSPASS11A,Number of Domestic Passengers on Scheduled Flights (Annual)
+IFCADSPASS11M,Number of Domestic Passengers on Scheduled Flights (Monthly)
+IFCADSPSKM11A,Number of Domestic Passenger Kilometers on Scheduled Flights (Annual)
+IFCADSPSKM11M,Number of Domestic Passenger Kilometers on Scheduled Flights (Monthly)
+IFCADSSCFL11A,Fleet size of Scheduled Domestic Aircraft Operators
+IFCADSSCOP11A,Number of Scheduled Aircraft Operators
+IFCAISAVKM11A,Number of International Passenger Kilometers available on Scheduled Flights of Indian Airlines (Annual)
+IFCAISAVKM11M,Number of International Passenger Kilometers available on Scheduled Flights of Indian Airlines (Monthly)
+IFCAISFDAR11A,International Freight Arriving into India through Indian carriers (Annual)
+IFCAISFDAR11M,International Freight Arriving into India through Indian carriers (Monthly)
+IFCAISFDDP11A,International Freight Departing from India through Indian carriers (Annual)
+IFCAISFDDP11M,International Freight Departing from India through Indian carriers (Monthly)
+IFCAISFDTT11A,Total International Freight (Arrival plus Departure) through Indian carriers (Annual)
+IFCAISFDTT11M,Total International Freight (Arrival plus Departure) through Indian carriers (Monthly)
+IFCAISFIAR11A,International Freight Arriving into India through International carriers (Annual)
+IFCAISFIAR11M,International Freight Arriving into India through International carriers (Monthly)
+IFCAISFIDP11A,International Freight Departing from India through International carriers (Annual)
+IFCAISFIDP11M,International Freight Departing from India through International carriers (Monthly)
+IFCAISFITT11A,Total International Freight (Arrival plus Departure) through International carriers (Annual)
+IFCAISFITT11M,Total International Freight (Arrival plus Departure) through International carriers (Monthly)
+IFCAISFLKM11A,Number of International Scheduled Flight Kilometers of Indian Airlines (Annual)
+IFCAISFLKM11M,Number of International Scheduled Flight Kilometers of Indian Airlines (Monthly)
+IFCAISFNTA11A,Net International Freight Arriving into India (Annual)
+IFCAISFNTA11M,Net International Freight Arriving into India (Monthly)
+IFCAISFTAR11A,Total International Freight Arriving into India (Annual)
+IFCAISFTAR11M,Total International Freight Arriving into India (Monthly)
+IFCAISFTDP11A,Total International Freight Departing from India (Annual)
+IFCAISFTDP11M,Total International Freight Departing from India (Monthly)
+IFCAISFTTT11A,Total International Freight Arriving into or Departing from India (Annual)
+IFCAISFTTT11M,Total International Freight Arriving into or Departing from India (Monthly)
+IFCAISHRFL11A,Number of International Scheduled Flight Hours of Indian Airlines (Annual)
+IFCAISHRFL11M,Number of International Scheduled Flight Hours of Indian Airlines (Monthly)
+IFCAISLOAD11M,Average International Passenger Load Factor on Scheduled Flights of Indian Airlines (Monthly)
+IFCAISNFLG11A,Number of International Scheduled Flights by Public Sector Airlines (Annual)
+IFCAISNPAG11A,Number of Passengers carried by Public Sector Airlines on Scheduled International Flights (Annual)
+IFCAISNPAP11A,Number of Passengers carried by Private Indian Airlines on Scheduled International Flights (Annual)
+IFCAISCRGO11M,Total International Cargo carried on Scheduled Flights of Indian Airlines (Monthly)
+IFCAISNFLP11A,Number of International Scheduled Flights by Private Indian Airlines (Annual)
+IFCAISNUFL11A,Number of International Scheduled Flights of Indian Airlines (Annual)
+IFCAISNUFL11M,Number of International Scheduled Flights of Indian Airlines (Monthly)
+IFCAISPASS11A,Number of International Passengers on Scheduled Flights of Indian Airlines (Annual)
+IFCAISPASS11M,Number of International Passengers on Scheduled Flights of Indian Airlines (Monthly)
+IFCAISPDAR11A,International Passengers Arriving into India through Indian carriers (Annual)
+IFCAISPDAR11M,International Passengers Arriving into India through Indian carriers (Monthly)
+IFCAISPDDP11A,International Passengers Departing from India through Indian carriers (Annual)
+IFCAISPDDP11M,International Passengers Departing from India through Indian carriers (Monthly)
+IFCAISPDTT11A,Total International Passengers (Arrivals plus Departures) through Indian carriers (Annual)
+IFCAISPIAR11A,International Passengers Arriving into India through International carriers (Annual)
+IFCAISPIAR11M,International Passengers Arriving into India through International carriers (Monthly)
+IFCAISPIDP11A,International Passengers Departing from India through International carriers (Annual)
+IFCAISPIDP11M,International Passengers Departing from India through International carriers (Monthly)
+IFCAISPITT11A,Total International Passengers (Arrivals plus Departures) through International carriers (Annual)
+IFCAISPITT11M,Total International Passengers (Arrivals plus Departures) through International carriers (Monthly)
+IFCAISPNTA11A,Net International Passengers Arriving into India (Annual)
+IFCAISPNTA11M,Net International Passengers Arriving into India (Monthly)
+IFCAISPSKM11A,Number of International Passenger Kilometers on Scheduled Flights of Indian Airlines (Annual)
+IFCAISPSKM11M,Number of International Passenger Kilometers on Scheduled Flights of Indian Airlines (Monthly)
+IFCAISPTAR11A,Total International Passengers Arriving into India (Annual)
+IFCAISPTAR11M,Total International Passengers Arriving into India (Monthly)
+IFCAISPTDP11A,Total International Passengers Departing from India (Annual)
+IFCAISPTDP11M,Total International Passengers Departing from India (Monthly)
+IFCAISPTTT11A,Total International Passengers Arriving into or Departing from India (Annual)
+IFCAISPTTT11M,Total International Passengers Arriving into or Departing from India (Monthly)
+IFIRASCAPC11A,Indian Railways - Capital at Charge
+IFIRASORTO11A,Indian Railways - Operating Ratio
+ENPTNAPEXP11A,Exports of Petroleum Products (Volume) - Naphtha (Annual)
+ENPTOTRCON11A,Consumption of Petroleum Products - Others (Annual)
+ENPTPRDEXP11M,"Exports of All Petroleum Products (Volume, Monthly)"
+ENPTPRDIMP11A,"Imports of All Petroleum Products (Volume, Annual)"
+IFCAASAVKM11A,Number of Total Passenger Kilometers available on Scheduled Flights of Domestic Indian Airlines (Annual)
+IFCAASFLKM11M,Number of Total Scheduled Flight Kilometers of Domestic Indian Airlines (Monthly)
+IFCAASPASS11M,Number of Total Passengers on Scheduled Flights of Domestic Indian Airlines (Monthly)
+IFCADSCRGO11M,Total Domestic Cargo carried on Scheduled Flights (Monthly)
+IFCAISCRGO11A,Total International Cargo carried on Scheduled Flights of Indian Airlines (Annual)
+IFCAISLOAD11A,Average International Passenger Load Factor on Scheduled Flights of Indian Airlines (Annual)
+IFCAISPDTT11M,Total International Passengers (Arrivals plus Departures) through Indian carriers (Monthly)
+IFCADSNFLP11A,Number of Domestic Scheduled Flights by Private Airlines (Annual)
+IFIRASRCAC11A,Indian Railways - Net Revenue to Capital at Charge ratio
+IFIRASTOTI11A,Indian Railways - Total Investment
+IFIRIFADTG11A,Indian Railways - Average number of goods trains run daily
+IFIRIFADTP11A,Indian Railways - Average number of passenger trains run daily
+IFIRIFAVDT11A,Indian Railways - Average number of trains run daily
+IFIRIFCOCH11A,Indian Railways - Number of coaching stock
+IFIRIFDLOC11A,Indian Railways - Number of locomotives (Diesel)
+IFIRIFELOC11A,Indian Railways - Number of locomotives (Electric)
+IFIRIFERLB11A,Indian Railways - Electrified Route Length (Broad Gauge)
+IFIRIFERLM11A,Indian Railways - Electrified Route Length (Meter Gauge)
+IFIRIFERUL11A,Indian Railways - Electrified Route Length
+IFIRIFLOCO11A,Indian Railways - Number of locomotives
+IFIRIFRULB11A,Indian Railways - Total Route Length (Broad Gauge)
+IFIRIFRULM11A,Indian Railways - Total Route Length (Meter Gauge)
+IFIRIFSLOC11A,Indian Railways - Number of locomotives (Steam)
+IFIRIFSTAF11A,Indian Railways - Number of employees
+IFIRIFSTAT11A,Indian Railways - Number of Stations
+IFIRIFSTFC11A,Indian Railways - Number of employees (Group C)
+IFIRIFSTFD11A,Indian Railways - Number of employees (Group D)
+IFIRIFSTFO11A,Indian Railways - Number of employees (Group A and B)
+IFIRIFTRKL11A,Indian Railways - Total Track Length
+IFIRIFTRLB11A,Indian Railways - Total Track Length (Broad Gauge)
+IFIRIFTRLM11A,Indian Railways - Total Track Length (Meter Gauge)
+IFIRIFTRLN11A,Indian Railways - Total Track Length (Narrow Gauge)
+IFIRIFWAGN11A,Indian Railways - Number of wagons
+IFIRISEDEP11A,Indian Railways - Transfer to Depreciation Reserve (Annual)
+IFIRISEDIV11A,Indian Railways - Dividend to General Revenues (Annual)
+IFIRISEOWE11A,Indian Railways - Ordinary Working Expenses (Annual)
+IFIRISEOWE11M,Indian Railways - Ordinary Working Expenses (Monthly)
+IFIRISEPEN11A,Indian Railways - Transfer to Pension Fund (Annual)
+IFIRISEREV11A,Indian Railways - Revenue Expenditure (Annual)
+IFIRIFROUL11A,Indian Railways - Total Route Length
+IFIRIFRULN11A,Indian Railways - Total Route Length (Narrow Gauge)
+IFIRISETWE11A,Indian Railways - Total Working Expenses (Annual)
+IFIRISFINE11A,Indian Railways - Fines collected from ticketless travel
+IFIRISRFRE11A,Indian Railways - Earnings from Goods traffic (Annual)
+IFIRISRFRE11M,Indian Railways - Earnings from Goods traffic (Monthly)
+IFIRISRGRS11A,Indian Railways - Gross Earnings (Annual)
+IFIRISRGRS11M,Indian Railways - Gross Earnings (Monthly)
+IFIRISRGTR11A,Indian Railways - Gross Traffic Receipts (Annual)
+IFIRISRMIS11A,Indian Railways - Net Miscellaneous Earnings (Annual)
+IFIRISRNRR11A,Indian Railways - Net Revenue Receipts (Annual)
+IFIRISRNTK11A,Indian Railways - Average revenue per tonne-kilometre
+IFIRISRNTR11A,Indian Railways - Net Traffic Receipts (Annual)
+IFIRISROTC11A,Indian Railways - Other Coaching Earnings (Annual)
+IFIRISROTC11M,Indian Railways - Other Coaching Earnings (Monthly)
+IFIRISRPKM11A,Indian Railways - Average revenue per passenger per kilometre
+IFIRISRREV11A,Indian Railways - Revenue Receipts (Annual)
+IFIRISRRPA11A,Indian Railways - Earnings from Passenger traffic (Annual)
+IFIRISRRPA11M,Indian Railways - Earnings from Passenger traffic (Monthly)
+IFIRISRRPN11A,Indian Railways - Earnings from Passenger traffic (Non-Suburban) (Annual)
+IFIRISRSPK11A,Indian Railways - Average revenue per suburban passenger per kilometre
+IFIRISRSUN11A,Indian Railways - Sundry Earnings (Annual)
+IFIRISRSUN11M,Indian Railways - Sundry Earnings (Monthly)
+IFIRISSURP11A,Indian Railways - Net Surplus (Annual)
+IFIRTRDFRE11A,Indian Railways - Average lead distance per tonne of revenue earning freight traffic
+IFIRTRDNPS11A,Indian Railways - Average distance travelled (non-suburban passenger)
+IFIRTRDPAS11A,Indian Railways - Average distance travelled (all passengers)
+IFIRTRDSPS11A,Indian Railways - Average distance travelled (suburban passenger)
+IFIRTRKFRE11A,Indian Railways - Total net tonne kilometres (NTKms) (Annual)
+IFIRTRKPAS11A,Indian Railways - Number of Passenger Kilometres (Annual)
+IFIRTRKSPS11A,Indian Railways - Number of Passenger Kilometres (Suburban) (Annual)
+IFIRTRVCEM11M,Indian Railways - Total volume of revenue earning freight - Cement (Monthly)
+IFIRTRVCOL11M,Indian Railways - Total volume of revenue earning freight - Coal (Monthly)
+IFIRTRVDCL11M,Indian Railways - Total volume of revenue earning freight - Domestic Coal (Monthly)
+IFIRTRVDCO11M,Indian Railways - Total volume of revenue earning freight - Domestic Containers (Monthly)
+IFIRTRVECO11M,Indian Railways - Total volume of revenue earning freight - EXIM Containers (Monthly)
+IFIRTRVFER11M,Indian Railways - Total volume of revenue earning freight - Fertilisers (Monthly)
+IFIRTRVFGR11M,Indian Railways - Total volume of revenue earning freight - Foodgrains (Monthly)
+IFIRTRVCON11M,Indian Railways - Total volume of revenue earning freight - Containers (Monthly)
+IFIRTRVFRE11A,Indian Railways - Total volume of revenue earning freight (Annual)
+IFIRTRVFRE11M,Indian Railways - Total volume of revenue earning freight (Monthly)
+IFIRTRVICL11M,Indian Railways - Total volume of revenue earning freight - Imported Coal (Monthly)
+IFIRTRVIOE11M,Indian Railways - Total volume of revenue earning freight - Iron ore for Export (Monthly)
+IFIRTRVIOO11M,Indian Railways - Total volume of revenue earning freight - Iron Ore for Other uses (Monthly)
+IFIRTRVIOR11M,Indian Railways - Total volume of revenue earning freight - Iron Ore (Monthly)
+IFIRTRVIOS11M,Indian Railways - Total volume of revenue earning freight - Iron ore for Steel plants (Monthly)
+IFIRTRVNPS11A,Indian Railways - Number of Passengers carried (Non-Suburban) (Annual)
+IFIRTRVNPS11M,Indian Railways - Number of Passengers carried (Non-Suburban) (Monthly)
+IFIRTRVOGD11M,Indian Railways - Total volume of revenue earning freight - Other Goods (Monthly)
+IFIRTRVPAS11M,Indian Railways - Number of Passengers carried (Monthly)
+IFIRTRVPET11M,Indian Railways - Total volume of revenue earning freight - Petroleum (Monthly)
+IFIRTRVPIS11M,"Indian Railways - Total volume of revenue earning freight - Pig Iron, Finished Steel (Monthly)"
+IFIRTRVSPS11A,Indian Railways - Number of Passengers carried (Suburban) (Annual)
+IFIRTRVSPS11M,Indian Railways - Number of Passengers carried (Suburban) (Monthly)
+IFIRTRVSRM11M,Indian Railways - Total volume of revenue earning freight - Steel Raw Material (excl Iron Ore) (Monthly)
+IFIRTRWOTK11A,Indian Railways - Number of ticketless persons travelling
+IFIWCMTGJW11A,Cargo Moved on Inland Waterways - Gujarat Waterways
+IFIWCMTGOW11A,Cargo Moved on Inland Waterways - Goa Waterways
+IFIWCMTICW11A,Cargo Moved on Inland Waterways - Icchamati and Other Waterways
+IFIWCMTMHW11A,Cargo Moved on Inland Waterways - Maharashtra Waterways
+IFIWCMTNW111A,Cargo Moved on Inland Waterways - National Waterway 1
+IFIWCMTNW211A,Cargo Moved on Inland Waterways - National Waterway 2
+IFIWCMTNW311A,Cargo Moved on Inland Waterways - National Waterway 3
+IFIWCMTNW411A,Cargo Moved on Inland Waterways - National Waterway 4
+IFIWCMTNWT11A,Cargo Moved on Inland Waterways - All National Waterways
+IFIWCMTSBM11A,"Cargo Carried on Inland National Waterways 1, 2, 3 - Building Materials"
+IFIWCMTSCH11A,"Cargo Carried on Inland National Waterways 1, 2, 3 - Chemicals"
+IFIWCMTSCO11A,"Cargo Carried on Inland National Waterways 1, 2, 3 - Coal"
+IFIWCMTSFE11A,"Cargo Carried on Inland National Waterways 1, 2, 3 - Fertilisers"
+IFIWCMTSFI11A,"Cargo Carried on Inland National Waterways 1, 2, 3 - Food Items"
+IFIWCMTSIS11A,"Cargo Carried on Inland National Waterways 1, 2, 3 - Iron and Steel"
+IFIWCMTSOC11A,"Cargo Carried on Inland National Waterways 1, 2, 3 - Other Commodities"
+IFIWCMTSOM11A,"Cargo Carried on Inland National Waterways 1, 2, 3 - Ores, Minerals"
+IFIWCMTSPP11A,"Cargo Carried on Inland National Waterways 1, 2, 3 - Petroleum Products"
+IFIWCMTSTT11A,"Cargo Carried on Inland National Waterways 1, 2, 3 - Total"
+IFIWCMTSUW11A,Cargo Moved on Inland Waterways - Sunderban Waterways
+IFIWCMTTIW11A,Cargo Moved on All Inland Waterways
+IFIWCTKGJW11A,Cargo Moved on Inland Waterways (tonne-kilometers) - Gujarat Waterways
+IFIWCTKGOW11A,Cargo Moved on Inland Waterways (tonne-kilometers) - Goa Waterways
+IFIWCTKMHW11A,Cargo Moved on Inland Waterways (tonne-kilometers) - Maharashtra Waterways
+IFIWCTKNW111A,Cargo Moved on Inland Waterways (tonne-kilometers) - National Waterway 1
+IFIWCTKNW211A,Cargo Moved on Inland Waterways (tonne-kilometers) - National Waterway 2
+IFIWCTKNW311A,Cargo Moved on Inland Waterways (tonne-kilometers) - National Waterway 3
+IFIWCTKNW411A,Cargo Moved on Inland Waterways (tonne-kilometers) - National Waterway 4
+IFIWCTKNWT11A,Cargo Moved on Inland Waterways (tonne-kilometers) - All National Waterways
+IFIWCTKSUW11A,Cargo Moved on Inland Waterways (tonne-kilometers) - Sunderban Waterways
+IFIWCTKTIW11A,Cargo Moved on All Inland Waterways (tonne-kilometers)
+IFRDLENALL11A,Length of All Roads
+IFRDLENANH11A,Length of Road Construction/Upgradation awarded during the year by NHAI
+IFRDLENCNH11A,Length of Roads Constructured/Upgraded during the year by NHAI
+IFRDLENCNH11M,Length of Roads Constructured/Upgraded during the month by NHAI
+IFRDLENCSP11M,Length of Roads Constructured/Upgraded during the month by State PWD or BRO
+IFRDLENCUP11M,Length of Roads Constructured/Upgraded during the month
+IFRDLENDNH11A,Length of National Highways - Double Lane
+IFRDLENDSH11A,Length of State Highways - Double Lane
+IFRDLENMNH11A,Length of National Highways - Multi Lane
+IFRDLENMSH11A,Length of State Highways - Multi Lane
+IFRDLENNHW11A,Length of National Highways
+IFIRTRVPAS11A,Indian Railways - Number of Passengers carried (Annual)
+IFIWCTKICW11A,Cargo Moved on Inland Waterways (tonne-kilometers) - Icchamati and Other Waterways
+IFRDLENRUR11A,Length of Rural Roads
+IFRDLENSHW11A,Length of State Highways
+IFRDLENSNH11A,Length of National Highways - Single Lane
+IFRDLENSSH11A,Length of State Highways - Single Lane
+IFRDLENURB11A,Length of Urban Roads
+IFSHNSHCST11A,Indian Shipping Fleet (number) - Coastal
+IFSHNSHDCB11A,Indian Shipping Fleet (number) - Dry Cargo Bulk
+IFSHNSHDCL11A,Indian Shipping Fleet (number) - Dry Cargo Liner
+IFSHNSHOBC11A,Indian Shipping Fleet (number) - Ore/Oil Bulk Carrier
+IFSHNSHOFS11A,Indian Shipping Fleet (number) - Off-shore Supply Vessel
+IFSHNSHOVS11A,Indian Shipping Fleet (number) - Overseas
+IFSHNSHPCC11A,Indian Shipping Fleet (number) - Passenger cum Cargo Vessel
+IFSHNSHSOF11A,Indian Shipping Fleet (number) - Specialised Offshore Services Vessel
+IFSHNSHTOT11A,Indian Shipping Fleet (number) - Total
+IFSHTSHCST11A,Indian Shipping Fleet (gross tonnage) - Coastal
+IFSHTSHDCB11A,Indian Shipping Fleet (gross tonnage) - Dry Cargo Bulk
+IFSHTSHDCL11A,Indian Shipping Fleet (gross tonnage) - Dry Cargo Liner
+IFSHTSHOBC11A,Indian Shipping Fleet (gross tonnage) - Ore/Oil Bulk Carrier
+IFSHTSHOFS11A,Indian Shipping Fleet (gross tonnage) - Off-shore Supply Vessel
+IFSHTSHOTK11A,Indian Shipping Fleet (gross tonnage) - Oil Tanker
+IFSHTSHOVS11A,Indian Shipping Fleet (gross tonnage) - Overseas
+IFSHTSHSOF11A,Indian Shipping Fleet (gross tonnage) - Specialised Offshore Services Vessel
+IFSHTSHTCR11A,Indian Shipping Fleet (gross tonnage) - Timber Carrier
+IFSHTSHTOT11A,Indian Shipping Fleet (gross tonnage) - Total
+IFSPAPCCLO11A,Coastal Cargo Handled by All Ports - Loaded
+IFSPAPCCTO11A,Coastal Cargo Handled by All Ports
+IFSPAPCCUN11A,Coastal Cargo Handled by All Ports - Unloaded
+IFSPAPOCLO11A,Overseas Cargo Handled by All Ports - Loaded
+IFSPAPOCUN11A,Overseas Cargo Handled by All Ports - Unloaded
+IFSPAPTCLO11A,Total Cargo Handled by All Ports - Loaded
+IFSPAPTCUN11A,Total Cargo Handled by All Ports - Unloaded
+IFSPAPTOTC11A,Total Cargo Handled by All Ports
+IFSPCHCCTO11A,Coastal Cargo Handled by Chennai Port
+IFSPCHCCUN11A,Coastal Cargo Handled by Chennai Port - Unloaded
+IFSPCHCOLO11A,Total Container Traffic Handled by Chennai Port - Loaded
+IFSPCHFDGR11A,Total Cargo Handled by Chennai Port - Foodgrains
+IFSPCHFEOR11A,Total Cargo Handled by Chennai Port - Iron Ore
+IFSPCHFERT11A,Total Cargo Handled by Chennai Port - Fertiliser
+IFSPCHOCLO11A,Overseas Cargo Handled by Chennai Port - Loaded
+IFSPCHOCUN11A,Overseas Cargo Handled by Chennai Port - Unloaded
+IFSPCHOTRS11A,Total Cargo Handled by Chennai Port - Others
+IFSPCHOVTO11A,Overseas Cargo Handled by Chennai Port
+IFSPCHRFER11A,Total Cargo Handled by Chennai Port - Fertiliser Raw Material
+IFSPCHTCLO11A,Total Cargo Handled by Chennai Port - Loaded
+IFSPCHTCUN11A,Total Cargo Handled by Chennai Port - Unloaded
+IFSPCHTOCO11A,Total Container Traffic Handled by Chennai Port
+IFSPCHTOTC11A,Total Cargo Handled by Chennai Port
+IFSPCOCCTO11A,Coastal Cargo Handled by Cochin Port
+IFSPCOCCUN11A,Coastal Cargo Handled by Cochin Port - Unloaded
+IFSPCOCOAL11A,Total Cargo Handled by Cochin Port - Coal
+IFSPCOCOLO11A,Total Container Traffic Handled by Cochin Port - Loaded
+IFSPCOCOUN11A,Total Container Traffic Handled by Cochin Port - Unloaded
+IFSPCOFDGR11A,Total Cargo Handled by Cochin Port - Foodgrains
+IFSPCOFEOR11A,Total Cargo Handled by Cochin Port - Iron Ore
+IFSPCOFERT11A,Total Cargo Handled by Cochin Port - Fertiliser
+IFSPCOOCLO11A,Overseas Cargo Handled by Cochin Port - Loaded
+IFSPCOOCUN11A,Overseas Cargo Handled by Cochin Port - Unloaded
+IFSPCOOTRS11A,Total Cargo Handled by Cochin Port - Others
+IFSPCOOVTO11A,Overseas Cargo Handled by Cochin Port
+IFSPCOTCLO11A,Total Cargo Handled by Cochin Port - Loaded
+IFSPCOTCUN11A,Total Cargo Handled by Cochin Port - Unloaded
+IFSPCOTOCO11A,Total Container Traffic Handled by Cochin Port
+IFSPENCCLO11A,Coastal Cargo Handled by Kamarajar (Ennore) Port - Loaded
+IFSPENCCTO11A,Coastal Cargo Handled by Kamarajar (Ennore) Port
+IFSPENCCUN11A,Coastal Cargo Handled by Kamarajar (Ennore) Port - Unloaded
+IFSPENCOAL11A,Total Cargo Handled by Kamarajar (Ennore) Port - Coal
+IFSPENCOLO11A,Total Container Traffic Handled by Kamarajar (Ennore) Port - Loaded
+IFIRISRNPK11A,Indian Railways - Average revenue per non-suburban passenger per kilometre
+IFIRISRRPS11A,Indian Railways - Earnings from Passenger traffic (Suburban) (Annual)
+IFIRTRKNPS11A,Indian Railways - Number of Passenger Kilometres (Non-Suburban) (Annual)
+IFSHNSHOTK11A,Indian Shipping Fleet (number) - Oil Tanker
+IFSHNSHTCR11A,Indian Shipping Fleet (number) - Timber Carrier
+IFSHTSHPCC11A,Indian Shipping Fleet (gross tonnage) - Passenger cum Cargo Vessel
+IFSPAPOVTO11A,Overseas Cargo Handled by All Ports
+IFSPCHCCLO11A,Coastal Cargo Handled by Chennai Port - Loaded
+IFSPCHCOAL11A,Total Cargo Handled by Chennai Port - Coal
+IFSPCHPETR11A,Total Cargo Handled by Chennai Port - POL (Crude and Products)
+IFSPCOCCLO11A,Coastal Cargo Handled by Cochin Port - Loaded
+IFSPCOPETR11A,Total Cargo Handled by Cochin Port - POL (Crude and Products)
+IFSPCORFER11A,Total Cargo Handled by Cochin Port - Fertiliser Raw Material
+IFSPCOTOTC11A,Total Cargo Handled by Cochin Port
+IFSPENCOUN11A,Total Container Traffic Handled by Kamarajar (Ennore) Port - Unloaded
+IFSPENFDGR11A,Total Cargo Handled by Kamarajar (Ennore) Port - Foodgrains
+IFSPENFEOR11A,Total Cargo Handled by Kamarajar (Ennore) Port - Iron Ore
+IFSPENFERT11A,Total Cargo Handled by Kamarajar (Ennore) Port - Fertiliser
+IFSPENOCLO11A,Overseas Cargo Handled by Kamarajar (Ennore) Port - Loaded
+IFSPENOCUN11A,Overseas Cargo Handled by Kamarajar (Ennore) Port - Unloaded
+IFSPENOTRS11A,Total Cargo Handled by Kamarajar (Ennore) Port - Others
+IFSPENOVTO11A,Overseas Cargo Handled by Kamarajar (Ennore) Port
+IFSPENPETR11A,Total Cargo Handled by Kamarajar (Ennore) Port - POL (Crude and Products)
+IFSPENRFER11A,Total Cargo Handled by Kamarajar (Ennore) Port - Fertiliser Raw Material
+IFSPENTCLO11A,Total Cargo Handled by Kamarajar (Ennore) Port - Loaded
+IFSPENTCUN11A,Total Cargo Handled by Kamarajar (Ennore) Port - Unloaded
+IFSPENTOCO11A,Total Container Traffic Handled by Kamarajar (Ennore) Port
+IFSPENTOTC11A,Total Cargo Handled by Kamarajar (Ennore) Port
+IFSPJNCCLO11A,Coastal Cargo Handled by JNPT Port - Loaded
+IFSPJNCCTO11A,Coastal Cargo Handled by JNPT Port
+IFSPJNCCUN11A,Coastal Cargo Handled by JNPT Port - Unloaded
+IFSPJNCOAL11A,Total Cargo Handled by JNPT Port - Coal
+IFSPJNCOLO11A,Total Container Traffic Handled by JNPT Port - Loaded
+IFSPJNCOUN11A,Total Container Traffic Handled by JNPT Port - Unloaded
+IFSPJNFDGR11A,Total Cargo Handled by JNPT Port - Foodgrains
+IFSPJNFEOR11A,Total Cargo Handled by JNPT Port - Iron Ore
+IFSPJNFERT11A,Total Cargo Handled by JNPT Port - Fertiliser
+IFSPJNOCLO11A,Overseas Cargo Handled by JNPT Port - Loaded
+IFSPJNOCUN11A,Overseas Cargo Handled by JNPT Port - Unloaded
+IFSPJNOTRS11A,Total Cargo Handled by JNPT Port - Others
+IFSPJNOVTO11A,Overseas Cargo Handled by JNPT Port
+IFSPJNPETR11A,Total Cargo Handled by JNPT Port - POL (Crude and Products)
+IFSPJNRFER11A,Total Cargo Handled by JNPT Port - Fertiliser Raw Material
+IFSPJNTCLO11A,Total Cargo Handled by JNPT Port - Loaded
+IFSPJNTCUN11A,Total Cargo Handled by JNPT Port - Unloaded
+IFSPJNTOCO11A,Total Container Traffic Handled by JNPT Port
+IFSPJNTOTC11A,Total Cargo Handled by JNPT Port
+IFSPKACCLO11A,Coastal Cargo Handled by Deendayal (Kandla) Port - Loaded
+IFSPKACCTO11A,Coastal Cargo Handled by Deendayal (Kandla) Port
+IFSPKACCUN11A,Coastal Cargo Handled by Deendayal (Kandla) Port - Unloaded
+IFSPKACOAL11A,Total Cargo Handled by Deendayal (Kandla) Port - Coal
+IFSPKACOUN11A,Total Container Traffic Handled by Deendayal (Kandla) Port - Unloaded
+IFSPKAFEOR11A,Total Cargo Handled by Deendayal (Kandla) Port - Iron Ore
+IFSPKAOCLO11A,Overseas Cargo Handled by Deendayal (Kandla) Port - Loaded
+IFSPKAOCUN11A,Overseas Cargo Handled by Deendayal (Kandla) Port - Unloaded
+IFSPKAOTRS11A,Total Cargo Handled by Deendayal (Kandla) Port - Others
+IFSPKAOVTO11A,Overseas Cargo Handled by Deendayal (Kandla) Port
+IFSPKAPETR11A,Total Cargo Handled by Deendayal (Kandla) Port - POL (Crude and Products)
+IFSPKARFER11A,Total Cargo Handled by Deendayal (Kandla) Port - Fertiliser Raw Material
+IFSPKATCLO11A,Total Cargo Handled by Deendayal (Kandla) Port - Loaded
+IFSPKATCUN11A,Total Cargo Handled by Deendayal (Kandla) Port - Unloaded
+IFSPCHCOUN11A,Total Container Traffic Handled by Chennai Port - Unloaded
+IFSPKACOLO11A,Total Container Traffic Handled by Deendayal (Kandla) Port - Loaded
+IFSPKAFDGR11A,Total Cargo Handled by Deendayal (Kandla) Port - Foodgrains
+IFSPKAFERT11A,Total Cargo Handled by Deendayal (Kandla) Port - Fertiliser
+IFSPKATOCO11A,Total Container Traffic Handled by Deendayal (Kandla) Port
+IFSPKATOTC11A,Total Cargo Handled by Deendayal (Kandla) Port
+IFSPKOCCLO11A,Coastal Cargo Handled by Kolkata/Haldia Port - Loaded
+IFSPKOCCTO11A,Coastal Cargo Handled by Kolkata/Haldia Port
+IFSPKOCCUN11A,Coastal Cargo Handled by Kolkata/Haldia Port - Unloaded
+IFSPKOCOAL11A,Total Cargo Handled by Kolkata/Haldia Port - Coal
+IFSPKOCOLO11A,Total Container Traffic Handled by Kolkata/Haldia Port - Loaded
+IFSPKOCOUN11A,Total Container Traffic Handled by Kolkata/Haldia Port - Unloaded
+IFSPKOFDGR11A,Total Cargo Handled by Kolkata/Haldia Port - Foodgrains
+IFSPKOFEOR11A,Total Cargo Handled by Kolkata/Haldia Port - Iron Ore
+IFSPKOFERT11A,Total Cargo Handled by Kolkata/Haldia Port - Fertiliser
+IFSPKOOCLO11A,Overseas Cargo Handled by Kolkata/Haldia Port - Loaded
+IFSPKOOCUN11A,Overseas Cargo Handled by Kolkata/Haldia Port - Unloaded
+IFSPKOOTRS11A,Total Cargo Handled by Kolkata/Haldia Port - Others
+IFSPKOOVTO11A,Overseas Cargo Handled by Kolkata/Haldia Port
+IFSPKOPETR11A,Total Cargo Handled by Kolkata/Haldia Port - POL (Crude and Products)
+IFSPKORFER11A,Total Cargo Handled by Kolkata/Haldia Port - Fertiliser Raw Material
+IFSPKOTCLO11A,Total Cargo Handled by Kolkata/Haldia Port - Loaded
+IFSPKOTCUN11A,Total Cargo Handled by Kolkata/Haldia Port - Unloaded
+IFSPKOTOCO11A,Total Container Traffic Handled by Kolkata/Haldia Port
+IFSPKOTOTC11A,Total Cargo Handled by Kolkata/Haldia Port
+IFSPMICCTO11A,Coastal Cargo Handled by Minor Ports
+IFSPMICCUN11A,Coastal Cargo Handled by Minor Ports - Unloaded
+IFSPMICOAL11M,Total Cargo Handled by Non-Major Ports - Coal (Monthly)
+IFSPMICONT11M,Total Cargo Handled by Non-Major Ports - Containers (Monthly)
+IFSPMIOCLO11A,Overseas Cargo Handled by Minor Ports - Loaded
+IFSPMIOCUN11A,Overseas Cargo Handled by Minor Ports - Unloaded
+IFSPMIORES11M,Total Cargo Handled by Non-Major Ports - Ores (Monthly)
+IFSPMIOTRC11M,Total Cargo Handled by Non-Major Ports - Other commodities (Monthly)
+IFSPMIOVTO11A,Overseas Cargo Handled by Minor Ports
+IFSPMITCLO11A,Total Cargo Handled by Minor Ports - Loaded
+IFSPMITCUN11A,Total Cargo Handled by Minor Ports - Unloaded
+IFSPMITOTC11A,Total Cargo Handled by Minor Ports
+IFSPMITOTC11M,Total Cargo Handled by Non-Major Ports (Monthly)
+IFSPMJCCLO11A,Coastal Cargo Handled by Major Ports - Loaded
+IFSPMJCCOL11M,Total Cargo Handled by Major Ports - Coking Coal (Monthly)
+IFSPMJCCTO11A,Coastal Cargo Handled by Major Ports
+IFSPMJCCUN11A,Coastal Cargo Handled by Major Ports - Unloaded
+IFSPMJCOAL11A,Total Cargo Handled by Major Ports - Coal
+IFSPMJCOLO11A,Total Container Traffic Handled by Major Ports - Loaded
+IFSPMJCONT11M,Total Cargo Handled by Major Ports - Containers (Monthly)
+IFSPMJCOUN11A,Total Container Traffic Handled by Major Ports - Unloaded
+IFSPMJFDGR11A,Total Cargo Handled by Major Ports - Foodgrains
+IFSPMJFEOR11A,Total Cargo Handled by Major Ports - Iron Ore
+IFSPMJFERT11A,Total Cargo Handled by Major Ports - Fertiliser
+IFSPMJFFER11M,Total Cargo Handled by Major Ports - Finished Fertilisers (Monthly)
+IFSPMJIRON11M,Total Cargo Handled by Major Ports - Iron Ore (Monthly)
+IFSPMJOCLO11A,Overseas Cargo Handled by Major Ports - Loaded
+IFSPMJOCUN11A,Overseas Cargo Handled by Major Ports - Unloaded
+IFSPMJOTRC11M,Total Cargo Handled by Major Ports - Other commodities (Monthly)
+IFSPMJOTRS11A,Total Cargo Handled by Major Ports - Others
+IFSPMJOVTO11A,Overseas Cargo Handled by Major Ports
+IFSPMJPETR11A,Total Cargo Handled by Major Ports - POL (Crude and Products)
+IFSPMJPOLP11M,Total Cargo Handled by Major Ports - Petroleum Products (Monthly)
+IFSPMJRFER11A,Total Cargo Handled by Major Ports - Fertiliser Raw Material
+IFSPMJRFER11M,Total Cargo Handled by Major Ports - Raw Fertilisers (Monthly)
+IFSPMJTCLO11A,Total Cargo Handled by Major Ports - Loaded
+IFSPMJTCOL11M,Total Cargo Handled by Major Ports - Thermal Coal (Monthly)
+IFSPMJTCUN11A,Total Cargo Handled by Major Ports - Unloaded
+IFSPMJTOCO11A,Total Container Traffic Handled by Major Ports
+IFSPMJTOTC11A,Total Cargo Handled by Major Ports
+IFSPMJTOTC11M,Total Cargo Handled by Major Ports (Monthly)
+IFSPMMTOTC11M,Total Cargo Handled by Ports (Monthly)
+IFSPMNCCLO11A,Coastal Cargo Handled by New Mangalore Port - Loaded
+IFSPMNCCTO11A,Coastal Cargo Handled by New Mangalore Port
+IFSPMNCCUN11A,Coastal Cargo Handled by New Mangalore Port - Unloaded
+IFSPMNCOAL11A,Total Cargo Handled by New Mangalore Port - Coal
+IFSPMNCOUN11A,Total Container Traffic Handled by Mangalore Port - Unloaded
+IFSPMNFDGR11A,Total Cargo Handled by New Mangalore Port - Foodgrains
+IFSPMNFEOR11A,Total Cargo Handled by New Mangalore Port - Iron Ore
+IFSPMNFERT11A,Total Cargo Handled by New Mangalore Port - Fertiliser
+IFSPMNOCLO11A,Overseas Cargo Handled by New Mangalore Port - Loaded
+IFSPMNOCUN11A,Overseas Cargo Handled by New Mangalore Port - Unloaded
+IFSPMNOTRS11A,Total Cargo Handled by New Mangalore Port - Others
+IFSPMNOVTO11A,Overseas Cargo Handled by New Mangalore Port
+IFSPMNPETR11A,Total Cargo Handled by New Mangalore Port - POL (Crude and Products)
+IFSPMNRFER11A,Total Cargo Handled by New Mangalore Port - Fertiliser Raw Material
+IFSPMICCLO11A,Coastal Cargo Handled by Minor Ports - Loaded
+IFSPMIPOLP11M,Total Cargo Handled by Non-Major Ports - Petroleum Products (Monthly)
+IFSPMNTCLO11A,Total Cargo Handled by New Mangalore Port - Loaded
+IFSPMNTCUN11A,Total Cargo Handled by New Mangalore Port - Unloaded
+IFSPMNTOCO11A,Total Container Traffic Handled by Mangalore Port
+IFSPMNTOTC11A,Total Cargo Handled by New Mangalore Port
+IFSPMOCCTO11A,Coastal Cargo Handled by Mormugao Port
+IFSPMOCCUN11A,Coastal Cargo Handled by Mormugao Port - Unloaded
+IFSPMOCOAL11A,Total Cargo Handled by Mormugao Port - Coal
+IFSPMOCOLO11A,Total Container Traffic Handled by Mormugao Port - Loaded
+IFSPMOCOUN11A,Total Container Traffic Handled by Mormugao Port - Unloaded
+IFSPMOFDGR11A,Total Cargo Handled by Mormugao Port - Foodgrains
+IFSPMOFEOR11A,Total Cargo Handled by Mormugao Port - Iron Ore
+IFSPMOFERT11A,Total Cargo Handled by Mormugao Port - Fertiliser
+IFSPMOOCLO11A,Overseas Cargo Handled by Mormugao Port - Loaded
+IFSPMOOCUN11A,Overseas Cargo Handled by Mormugao Port - Unloaded
+IFSPMOOTRS11A,Total Cargo Handled by Mormugao Port - Others
+IFSPMOOVTO11A,Overseas Cargo Handled by Mormugao Port
+IFSPMOPETR11A,Total Cargo Handled by Mormugao Port - POL (Crude and Products)
+IFSPMORFER11A,Total Cargo Handled by Mormugao Port - Fertiliser Raw Material
+IFSPMOTCLO11A,Total Cargo Handled by Mormugao Port - Loaded
+IFSPMOTCUN11A,Total Cargo Handled by Mormugao Port - Unloaded
+IFSPMOTOCO11A,Total Container Traffic Handled by Mormugao Port
+IFSPMOTOTC11A,Total Cargo Handled by Mormugao Port
+IFSPMUCCLO11A,Coastal Cargo Handled by Mumbai Port - Loaded
+IFSPMUCCTO11A,Coastal Cargo Handled by Mumbai Port
+IFSPMUCCUN11A,Coastal Cargo Handled by Mumbai Port - Unloaded
+IFSPMUCOAL11A,Total Cargo Handled by Mumbai Port - Coal
+IFSPMUCOLO11A,Total Container Traffic Handled by Mumbai Port - Loaded
+IFSPMUCOUN11A,Total Container Traffic Handled by Mumbai Port - Unloaded
+IFSPMUFDGR11A,Total Cargo Handled by Mumbai Port - Foodgrains
+IFSPMUFEOR11A,Total Cargo Handled by Mumbai Port - Iron Ore
+IFSPMUFERT11A,Total Cargo Handled by Mumbai Port - Fertiliser
+IFSPMUOCLO11A,Overseas Cargo Handled by Mumbai Port - Loaded
+IFSPMUOCUN11A,Overseas Cargo Handled by Mumbai Port - Unloaded
+IFSPMUOTRS11A,Total Cargo Handled by Mumbai Port - Others
+IFSPMUPETR11A,Total Cargo Handled by Mumbai Port - POL (Crude and Products)
+IFSPMUTCLO11A,Total Cargo Handled by Mumbai Port - Loaded
+IFSPMUTCUN11A,Total Cargo Handled by Mumbai Port - Unloaded
+IFSPMUTOCO11A,Total Container Traffic Handled by Mumbai Port
+IFSPPACCLO11A,Coastal Cargo Handled by Paradip Port - Loaded
+IFSPPACCTO11A,Coastal Cargo Handled by Paradip Port
+IFSPPACCUN11A,Coastal Cargo Handled by Paradip Port - Unloaded
+IFSPPACOAL11A,Total Cargo Handled by Paradip Port - Coal
+IFSPPACOLO11A,Total Container Traffic Handled by Paradip Port - Loaded
+IFSPPAFDGR11A,Total Cargo Handled by Paradip Port - Foodgrains
+IFSPPAFEOR11A,Total Cargo Handled by Paradip Port - Iron Ore
+IFSPPAFERT11A,Total Cargo Handled by Paradip Port - Fertiliser
+IFSPPAOCLO11A,Overseas Cargo Handled by Paradip Port - Loaded
+IFSPPAOCUN11A,Overseas Cargo Handled by Paradip Port - Unloaded
+IFSPPAOVTO11A,Overseas Cargo Handled by Paradip Port
+IFSPPAPETR11A,Total Cargo Handled by Paradip Port - POL (Crude and Products)
+IFSPPARFER11A,Total Cargo Handled by Paradip Port - Fertiliser Raw Material
+IFSPPATCLO11A,Total Cargo Handled by Paradip Port - Loaded
+IFSPPATCUN11A,Total Cargo Handled by Paradip Port - Unloaded
+IFSPPATOCO11A,Total Container Traffic Handled by Paradip Port
+IFSPPATOTC11A,Total Cargo Handled by Paradip Port
+IFSPTUCCLO11A,Coastal Cargo Handled by V. O. Chidambaranar (Tuticorin) Port - Loaded
+IFSPTUCCTO11A,Coastal Cargo Handled by V. O. Chidambaranar (Tuticorin) Port
+IFSPTUCCUN11A,Coastal Cargo Handled by V. O. Chidambaranar (Tuticorin) Port - Unloaded
+IFSPTUCOAL11A,Total Cargo Handled by V. O. Chidambaranar (Tuticorin) Port - Coal
+IFSPTUCOUN11A,Total Container Traffic Handled by V. O. Chidambaranar (Tuticorin) Port - Unloaded
+IFSPTUFDGR11A,Total Cargo Handled by V. O. Chidambaranar (Tuticorin) Port - Foodgrains
+IFSPTUFEOR11A,Total Cargo Handled by V. O. Chidambaranar (Tuticorin) Port - Iron Ore
+IFSPTUFERT11A,Total Cargo Handled by V. O. Chidambaranar (Tuticorin) Port - Fertiliser
+IFSPTUOCLO11A,Overseas Cargo Handled by V. O. Chidambaranar (Tuticorin) Port - Loaded
+IFSPTUOTRS11A,Total Cargo Handled by V. O. Chidambaranar (Tuticorin) Port - Others
+IFSPTUOVTO11A,Overseas Cargo Handled by V. O. Chidambaranar (Tuticorin) Port
+IFSPTUPETR11A,Total Cargo Handled by V. O. Chidambaranar (Tuticorin) Port - POL (Crude and Products)
+IFSPTURFER11A,Total Cargo Handled by V. O. Chidambaranar (Tuticorin) Port - Fertiliser Raw Material
+IFSPTUTCLO11A,Total Cargo Handled by V. O. Chidambaranar (Tuticorin) Port - Loaded
+IFSPTUTCUN11A,Total Cargo Handled by V. O. Chidambaranar (Tuticorin) Port - Unloaded
+IFSPTUTOCO11A,Total Container Traffic Handled by V. O. Chidambaranar (Tuticorin) Port
+IFSPTUTOTC11A,Total Cargo Handled by V. O. Chidambaranar (Tuticorin) Port
+IFSPVICCLO11A,Coastal Cargo Handled by Visakhapatnam Port - Loaded
+IFSPVICCTO11A,Coastal Cargo Handled by Visakhapatnam Port
+IFSPVICCUN11A,Coastal Cargo Handled by Visakhapatnam Port - Unloaded
+IFSPVICOAL11A,Total Cargo Handled by Visakhapatnam Port - Coal
+IFSPVICOLO11A,Total Container Traffic Handled by Visakhapatnam Port - Loaded
+IFSPVICOUN11A,Total Container Traffic Handled by Visakhapatnam Port - Unloaded
+IFSPVIFDGR11A,Total Cargo Handled by Visakhapatnam Port - Foodgrains
+IFSPVIFEOR11A,Total Cargo Handled by Visakhapatnam Port - Iron Ore
+IFSPMNCOLO11A,Total Container Traffic Handled by Mangalore Port - Loaded
+IFSPMOCCLO11A,Coastal Cargo Handled by Mormugao Port - Loaded
+IFSPMUOVTO11A,Overseas Cargo Handled by Mumbai Port
+IFSPMURFER11A,Total Cargo Handled by Mumbai Port - Fertiliser Raw Material
+IFSPMUTOTC11A,Total Cargo Handled by Mumbai Port
+IFSPPAOTRS11A,Total Cargo Handled by Paradip Port - Others
+IFSPTUCOLO11A,Total Container Traffic Handled by V. O. Chidambaranar (Tuticorin) Port - Loaded
+IFSPTUOCUN11A,Overseas Cargo Handled by V. O. Chidambaranar (Tuticorin) Port - Unloaded
+IFSPVIFERT11A,Total Cargo Handled by Visakhapatnam Port - Fertiliser
+IFSPVIOCLO11A,Overseas Cargo Handled by Visakhapatnam Port - Loaded
+IFSPVIOCUN11A,Overseas Cargo Handled by Visakhapatnam Port - Unloaded
+IFSPVIOVTO11A,Overseas Cargo Handled by Visakhapatnam Port
+IFSPVIPETR11A,Total Cargo Handled by Visakhapatnam Port - POL (Crude and Products)
+IFSPVIRFER11A,Total Cargo Handled by Visakhapatnam Port - Fertiliser Raw Material
+IFSPVITCLO11A,Total Cargo Handled by Visakhapatnam Port - Loaded
+IFSPVITCUN11A,Total Cargo Handled by Visakhapatnam Port - Unloaded
+IFSPVITOCO11A,Total Container Traffic Handled by Visakhapatnam Port
+IFSPVITOTC11A,Total Cargo Handled by Visakhapatnam Port
+LAEMLFPRFA11Q,"Labour Force Participation Rate in Urban Areas - Female, all age groups"
+LAEMLFPRFW11Q,"Labour Force Participation Rate in Urban Areas - Female, 15+ age group"
+LAEMLFPRFY11Q,"Labour Force Participation Rate in Urban Areas - Female, 15-29 age group"
+LAEMLFPRMA11Q,"Labour Force Participation Rate in Urban Areas - Male, all age groups"
+LAEMLFPRMW11Q,"Labour Force Participation Rate in Urban Areas - Male, 15+ age group"
+LAEMLFPRMY11Q,"Labour Force Participation Rate in Urban Areas - Male, 15-29 age group"
+LAEMLFPRTA11Q,"Labour Force Participation Rate in Urban Areas - Total, all age groups"
+LAEMLFPRTW11Q,"Labour Force Participation Rate in Urban Areas - Total, 15+ age group"
+LAEMLFPRTY11Q,"Labour Force Participation Rate in Urban Areas - Total, 15-29 age group"
+LAEMNEPFAL11M,Number of new EPF Subscribers during the month
+IFSPPACOUN11A,Total Container Traffic Handled by Paradip Port - Unloaded
+IFSPVIOTRS11A,Total Cargo Handled by Visakhapatnam Port - Others
+LAEMNEPFAL18M,Number of new EPF Subscribers during the month - less than 18 years
+LAEMNEPFAL21M,Number of new EPF Subscribers during the month - 18 to 21 years
+LAEMNEPFAL25M,Number of new EPF Subscribers during the month - 22 to 25 years
+LAEMNEPFAL28M,Number of new EPF Subscribers during the month - 26 to 28 years
+LAEMNEPFAL35M,Number of new EPF Subscribers during the month - 29 to 35 years
+LAEMNEPFAL60M,Number of new EPF Subscribers during the month - Over 35 years
+LAEMNEPFFE11M,Number of new EPF Subscribers during the month (Female)
+LAEMNEPFFE18M,Number of new EPF Subscribers during the month (Female) - less than 18 years
+LAEMNEPFFE25M,Number of new EPF Subscribers during the month (Female) - 22 to 25 years
+LAEMNEPFFE28M,Number of new EPF Subscribers during the month (Female) - 26 to 28 years
+LAEMNEPFFE35M,Number of new EPF Subscribers during the month (Female) - 29 to 35 years
+LAEMNEPFFE60M,Number of new EPF Subscribers during the month (Female) - Over 35 years
+LAEMNEPFMA11M,Number of new EPF Subscribers during the month (Male)
+LAEMNEPFMA18M,Number of new EPF Subscribers during the month (Male) - less than 18 years
+LAEMNEPFMA21M,Number of new EPF Subscribers during the month (Male) - 18 to 21 years
+LAEMNEPFMA25M,Number of new EPF Subscribers during the month (Male) - 22 to 25 years
+LAEMNEPFMA28M,Number of new EPF Subscribers during the month (Male) - 26 to 28 years
+LAEMNEPFMA35M,Number of new EPF Subscribers during the month (Male) - 29 to 35 years
+LAEMNEPFMA60M,Number of new EPF Subscribers during the month (Male) - Over 35 years
+LAEMNEPFOT11M,Number of new EPF Subscribers during the month (Others)
+LAEMNEPFOT18M,Number of new EPF Subscribers during the month (Others) - less than 18 years
+LAEMNEPFOT21M,Number of new EPF Subscribers during the month (Others) - 18 to 21 years
+LAEMNEPFOT25M,Number of new EPF Subscribers during the month (Others) - 22 to 25 years
+LAEMNEPFOT28M,Number of new EPF Subscribers during the month (Others) - 26 to 28 years
+LAEMNEPFOT35M,Number of new EPF Subscribers during the month (Others) - 29 to 35 years
+LAEMNEPFOT60M,Number of new EPF Subscribers during the month (Others) - Over 35 years
+LAEMNESIAL11M,Number of New ESIC Subscribers
+LAEMNESIAL18M,Number of New ESIC Subscribers - less than 18 years
+LAEMNESIAL21M,Number of New ESIC Subscribers - 18 to 21 years
+LAEMNESIAL25M,Number of New ESIC Subscribers - 22 to 25 years
+LAEMNESIAL28M,Number of New ESIC Subscribers - 26 to 28 years
+LAEMNESIAL35M,Number of New ESIC Subscribers - 29 to 35 years
+LAEMNESIAL60M,Number of New ESIC Subscribers - over 35 years
+LAEMNESIFE11M,Number of New ESIC Subscribers (Female)
+LAEMNESIFE18M,Number of New ESIC Subscribers (Female) - less than 18 years
+LAEMNESIFE21M,Number of New ESIC Subscribers (Female) - 18 to 21 years
+LAEMNESIFE25M,Number of New ESIC Subscribers (Female) - 22 to 25 years
+LAEMNESIFE28M,Number of New ESIC Subscribers (Female) - 26 to 28 years
+LAEMNESIFE35M,Number of New ESIC Subscribers (Female) - 29 to 35 years
+LAEMNESIFE60M,Number of New ESIC Subscribers (Female) - over 35 years
+LAEMNESIMA11M,Number of New ESIC Subscribers (Male)
+LAEMNESIMA21M,Number of New ESIC Subscribers (Male) - 18 to 21 years
+LAEMNESIMA25M,Number of New ESIC Subscribers (Male) - 22 to 25 years
+LAEMNESIMA28M,Number of New ESIC Subscribers (Male) - 26 to 28 years
+LAEMNESIMA35M,Number of New ESIC Subscribers (Male) - 29 to 35 years
+LAEMNESIMA60M,Number of New ESIC Subscribers (Male) - over 35 years
+LAEMNNPCGA11M,New Central Government subscribers during the month
+LAEMNNPCGA21M,New Central Government subscribers during the month - 18 to 21 years
+LAEMNNPCGA25M,New Central Government subscribers during the month - 22 to 25 years
+LAEMNNPCGA28M,New Central Government subscribers during the month - 26 to 28 years
+LAEMNNPCGA35M,New Central Government subscribers during the month - 29 to 35 years
+LAEMNNPCGA60M,New Central Government subscribers during the month - above 35 years
+LAEMNNPCGF11M,New Central Government subscribers during the month (Female)
+LAEMNNPCGF21M,New Central Government subscribers during the month (Female) - 18 to 21 years
+LAEMNESIMA18M,Number of New ESIC Subscribers (Male) - less than 18 years
+LAEMNNPCGF25M,New Central Government subscribers during the month (Female) - 22 to 25 years
+LAEMNNPCGF28M,New Central Government subscribers during the month (Female) - 26 to 28 years
+LAEMNNPCGF35M,New Central Government subscribers during the month (Female) - 29 to 35 years
+LAEMNNPCGF60M,New Central Government subscribers during the month (Female) - above 35 years
+LAEMNNPCGM11M,New Central Government subscribers during the month (Male)
+LAEMNNPCGM21M,New Central Government subscribers during the month (Male) - 18 to 21 years
+LAEMNNPCGM25M,New Central Government subscribers during the month (Male) - 22 to 25 years
+LAEMNNPCGM28M,New Central Government subscribers during the month (Male) - 26 to 28 years
+LAEMNNPCGM35M,New Central Government subscribers during the month (Male) - 29 to 35 years
+LAEMNNPNGA11M,New Non-Government subscribers during the month
+LAEMNNPNGA21M,New Non-Government subscribers during the month - 18 to 21 years
+LAEMNNPNGA25M,New Non-Government subscribers during the month - 22 to 25 years
+LAEMNNPNGA28M,New Non-Government subscribers during the month - 26 to 28 years
+LAEMNNPNGA35M,New Non-Government subscribers during the month - 29 to 35 years
+LAEMNNPNGA60M,New Non-Government subscribers during the month - above 35 years
+LAEMNNPNGF11M,New Non-Government subscribers during the month (Female)
+LAEMNNPNGF21M,New Non-Government subscribers during the month (Female) - 18 to 21 years
+LAEMNNPNGF25M,New Non-Government subscribers during the month (Female) - 22 to 25 years
+LAEMNNPNGF28M,New Non-Government subscribers during the month (Female) - 26 to 28 years
+LAEMNNPNGF35M,New Non-Government subscribers during the month (Female) - 29 to 35 years
+LAEMNNPNGM11M,New Non-Government subscribers during the month (Male)
+LAEMNNPNGM21M,New Non-Government subscribers during the month (Male) - 18 to 21 years
+LAEMNNPNGM25M,New Non-Government subscribers during the month (Male) - 22 to 25 years
+LAEMNNPNGM28M,New Non-Government subscribers during the month (Male) - 26 to 28 years
+LAEMNNPNGM60M,New Non-Government subscribers during the month (Male) - above 35 years
+LAEMNNPSAL11M,Total new NPS Subscribers
+LAEMNNPSAL21M,Total new NPS Subscribers - 18 to 21 years
+LAEMNNPSAL25M,Total new NPS Subscribers - 22 to 25 years
+LAEMNNPSAL28M,Total new NPS Subscribers - 26 to 28 years
+LAEMNNPSAL35M,Total new NPS Subscribers - 29 to 35 years
+LAEMNNPSAL60M,Total new NPS Subscribers - above 35 years
+LAEMNNPSGA11M,New State Government subscribers during the month
+LAEMNNPSGA21M,New State Government subscribers during the month - 18 to 21 years
+LAEMNNPSGA25M,New State Government subscribers during the month - 22 to 25 years
+LAEMNNPSGA28M,New State Government subscribers during the month - 26 to 28 years
+LAEMNNPSGA35M,New State Government subscribers during the month - 29 to 35 years
+LAEMNNPSGA60M,New State Government subscribers during the month - above 35 years
+LAEMNNPSGF11M,New State Government subscribers during the month (Female)
+LAEMNNPSGF21M,New State Government subscribers during the month (Female) - 18 to 21 years
+LAEMNNPSGF25M,New State Government subscribers during the month (Female) - 22 to 25 years
+LAEMNNPSGF28M,New State Government subscribers during the month (Female) - 26 to 28 years
+LAEMNNPSGF35M,New State Government subscribers during the month (Female) - 29 to 35 years
+LAEMNNPSGF60M,New State Government subscribers during the month (Female) - above 35 years
+LAEMNNPSGM11M,New State Government subscribers during the month (Male)
+LAEMNNPSGM21M,New State Government subscribers during the month (Male) - 18 to 21 years
+LAEMNNPSGM25M,New State Government subscribers during the month (Male) - 22 to 25 years
+LAEMNNPSGM28M,New State Government subscribers during the month (Male) - 26 to 28 years
+LAEMNNPSGM35M,New State Government subscribers during the month (Male) - 29 to 35 years
+LAEMNNPSGM60M,New State Government subscribers during the month (Male) - above 35 years
+LAEMNREGAD11A,Average Days of Work Provided under NREGA per Household (annual)
+LAEMNREGHN11A,Number of Households provided work under NREGA (annual)
+LAEMNREGPD11A,Person Days of Work provided under NREGA (annual)
+LAEMNREGPD11M,Person Days of Work created under NREGA (Monthly)
+LAEMNREGPN11A,Number of Persons provided work under NREGA (annual)
+LAEMNREGWD11M,Number of Persons Demanding work under NREGA (monthly)
+LAEMNNPCGM60M,New Central Government subscribers during the month (Male) - above 35 years
+LAEMNNPNGM35M,New Non-Government subscribers during the month (Male) - 29 to 35 years
+LAEMNREGWR11A,Average Daily Wage Rate under NREGA (annual)
+LAEMREPFAL11M,Number of EPF Subscribers who exited and rejoined during the month
+LAEMREPFAL18M,Number of EPF Subscribers who exited and rejoined during the month - less than 18 years
+LAEMREPFAL21M,Number of EPF Subscribers who exited and rejoined during the month - 18 to 21 years
+LAEMREPFAL25M,Number of EPF Subscribers who exited and rejoined during the month - 22 to 25 years
+LAEMREPFAL35M,Number of EPF Subscribers who exited and rejoined during the month - 29 to 35 years
+LAEMREPFAL60M,Number of EPF Subscribers who exited and rejoined during the month - Over 35 years
+LAEMREPFFE11M,Number of EPF Subscribers who exited and rejoined during the month (Female)
+LAEMREPFFE18M,Number of EPF Subscribers who exited and rejoined during the month (Female) - less than 18 years
+LAEMREPFFE21M,Number of EPF Subscribers who exited and rejoined during the month (Female) - 18 to 21 years
+LAEMREPFFE25M,Number of EPF Subscribers who exited and rejoined during the month (Female) - 22 to 25 years
+LAEMREPFFE28M,Number of EPF Subscribers who exited and rejoined during the month (Female) - 26 to 28 years
+LAEMREPFFE35M,Number of EPF Subscribers who exited and rejoined during the month (Female) - 29 to 35 years
+LAEMREPFFE60M,Number of EPF Subscribers who exited and rejoined during the month (Female) - Over 35 years
+LAEMREPFMA11M,Number of EPF Subscribers who exited and rejoined during the month (Male)
+LAEMREPFMA18M,Number of EPF Subscribers who exited and rejoined during the month (Male) - less than 18 years
+LAEMREPFMA21M,Number of EPF Subscribers who exited and rejoined during the month (Male) - 18 to 21 years
+LAEMREPFMA25M,Number of EPF Subscribers who exited and rejoined during the month (Male) - 22 to 25 years
+LAEMREPFMA28M,Number of EPF Subscribers who exited and rejoined during the month (Male) - 26 to 28 years
+LAEMREPFOT11M,Number of EPF Subscribers who exited and rejoined during the month (Others)
+LAEMREPFOT18M,Number of EPF Subscribers who exited and rejoined during the month (Others) - less than 18 years
+LAEMREPFOT21M,Number of EPF Subscribers who exited and rejoined during the month (Others) - 18 to 21 years
+LAEMREPFOT25M,Number of EPF Subscribers who exited and rejoined during the month (Others) - 22 to 25 years
+LAEMREPFOT35M,Number of EPF Subscribers who exited and rejoined during the month (Others) - 29 to 35 years
+LAEMREPFOT60M,Number of EPF Subscribers who exited and rejoined during the month (Others) - Over 35 years
+LAEMUPWCLA11Q,Percentage of Workers in Urban Areas Employed as Casual labourer - Total
+LAEMUPWCLF11Q,Percentage of Workers in Urban Areas Employed as Casual labourer - Female
+LAEMUPWCLM11Q,Percentage of Workers in Urban Areas Employed as Casual labourer - Male
+LAEMUPWEAA11Q,Percentage of Workers in Urban Areas Employed in Agriculture - Total
+LAEMUPWEAF11Q,Percentage of Workers in Urban Areas Employed in Agriculture - Female
+LAEMUPWEAM11Q,Percentage of Workers in Urban Areas Employed in Agriculture - Male
+LAEMUPWEIA11Q,Percentage of Workers in Urban Areas Employed in Industry - Total
+LAEMUPWEIF11Q,Percentage of Workers in Urban Areas Employed in Industry - Female
+LAEMUPWEIM11Q,Percentage of Workers in Urban Areas Employed in Industry - Male
+LAEMUPWESA11Q,Percentage of Workers in Urban Areas Employed in Services - Total
+LAEMUPWESF11Q,Percentage of Workers in Urban Areas Employed in Services - Female
+LAEMUPWHHA11Q,Percentage of Workers in Urban Areas Employed as Helper in household enterprise - Total
+LAEMUPWHHF11Q,Percentage of Workers in Urban Areas Employed as Helper in household enterprise - Female
+LAEMUPWHHM11Q,Percentage of Workers in Urban Areas Employed as Helper in household enterprise - Male
+LAEMUPWOAA11Q,Percentage of Workers in Urban Areas Employed as Own account worker - Total
+LAEMUPWOAF11Q,Percentage of Workers in Urban Areas Employed as Own account worker - Female
+LAEMUPWOAM11Q,Percentage of Workers in Urban Areas Employed as Own account worker - Male
+LAEMUPWRWA11Q,Percentage of Workers in Urban Areas Employed as Regular wage/salaried - Total
+LAEMNEPFFE21M,Number of new EPF Subscribers during the month (Female) - 18 to 21 years
+LAEMNNPNGF60M,New Non-Government subscribers during the month (Female) - above 35 years
+LAEMREPFAL28M,Number of EPF Subscribers who exited and rejoined during the month - 26 to 28 years
+LAEMREPFMA35M,Number of EPF Subscribers who exited and rejoined during the month (Male) - 29 to 35 years
+LAEMREPFMA60M,Number of EPF Subscribers who exited and rejoined during the month (Male) - Over 35 years
+LAEMREPFOT28M,Number of EPF Subscribers who exited and rejoined during the month (Others) - 26 to 28 years
+LAEMUPWRWF11Q,Percentage of Workers in Urban Areas Employed as Regular wage/salaried - Female
+LAEMUPWRWM11Q,Percentage of Workers in Urban Areas Employed as Regular wage/salaried - Male
+LAEMUPWSEA11Q,Percentage of Workers in Urban Areas Employed as Self employed - Total
+LAEMUPWSEF11Q,Percentage of Workers in Urban Areas Employed as Self employed - Female
+LAEMUPWSEM11Q,Percentage of Workers in Urban Areas Employed as Self employed - Male
+LAEMURFALL11Q,"Unemployment Rate in Urban Areas - Female, (above 15yrs)"
+LAEMURFYNG11Q,"Unemployment Rate in Urban Areas - Female, 15-29 age group"
+LAEMURMALL11Q,"Unemployment Rate in Urban Areas - Male, (above 15yrs)"
+LAEMURMYNG11Q,"Unemployment Rate in Urban Areas - Male, 15-29 age group"
+LAEMURTALL11Q,"Unemployment Rate in Urban Areas - Total, (above 15yrs)"
+LAEMURTYNG11Q,"Unemployment Rate in Urban Areas - Total, 15-29 age group"
+LAEMUWPAAA11Q,Worker Population Ratio in Urban Areas (all ages) - Total
+LAEMUWPAWA11Q,Worker Population Ratio in Urban Areas (ages 15+) - Total
+LAEMUWPAYA11Q,Worker Population Ratio in Urban Areas (ages 15-29) - Total
+LAEMUWPFAA11Q,Worker Population Ratio in Urban Areas (all ages) - Female
+LAEMUWPFWA11Q,Worker Population Ratio in Urban Areas (ages 15+) - Female
+LAEMUWPFYA11Q,Worker Population Ratio in Urban Areas (ages 15-29) - Female
+LAEMUWPMAA11Q,Worker Population Ratio in Urban Areas (all ages) - Male
+LAEMUWPMWA11Q,Worker Population Ratio in Urban Areas (ages 15+) - Male
+LAEMUWPMYA11Q,Worker Population Ratio in Urban Areas (ages 15-29) - Male
+LAEMXEPFAL11M,Number of EPF Subscribers exited during the month
+LAEMXEPFAL18M,Number of EPF Subscribers exited during the month - less than 18 years
+LAEMXEPFAL21M,Number of EPF Subscribers exited during the month - 18 to 21 years
+LAEMXEPFAL25M,Number of EPF Subscribers exited during the month - 22 to 25 years
+LAEMXEPFAL35M,Number of EPF Subscribers exited during the month - 29 to 35 years
+LAEMXEPFAL60M,Number of EPF Subscribers exited during the month - Over 35 years
+LAEMXEPFFE11M,Number of EPF Subscribers exited during the month (Female)
+LAEMXEPFFE18M,Number of EPF Subscribers exited during the month (Female) - less than 18 years
+LAEMXEPFFE21M,Number of EPF Subscribers exited during the month (Female) - 18 to 21 years
+LAEMXEPFFE25M,Number of EPF Subscribers exited during the month (Female) - 22 to 25 years
+LAEMXEPFFE28M,Number of EPF Subscribers exited during the month (Female) - 26 to 28 years
+LAEMXEPFFE35M,Number of EPF Subscribers exited during the month (Female) - 29 to 35 years
+LAEMXEPFFE60M,Number of EPF Subscribers exited during the month (Female) - Over 35 years
+LAEMXEPFMA11M,Number of EPF Subscribers exited during the month (Male)
+LAEMXEPFMA18M,Number of EPF Subscribers exited during the month (Male) - less than 18 years
+LAEMUPWESM11Q,Percentage of Workers in Urban Areas Employed in Services - Male
+LAEMXEPFAL28M,Number of EPF Subscribers exited during the month - 26 to 28 years
+LAEMXEPFMA21M,Number of EPF Subscribers exited during the month (Male) - 18 to 21 years
+LAEMXEPFMA25M,Number of EPF Subscribers exited during the month (Male) - 22 to 25 years
+LAEMXEPFMA28M,Number of EPF Subscribers exited during the month (Male) - 26 to 28 years
+LAEMXEPFMA35M,Number of EPF Subscribers exited during the month (Male) - 29 to 35 years
+LAEMXEPFMA60M,Number of EPF Subscribers exited during the month (Male) - Over 35 years
+LAEMXEPFOT11M,Number of EPF Subscribers exited during the month (Others)
+LAEMXEPFOT18M,Number of EPF Subscribers exited during the month (Others) - less than 18 years
+LAEMXEPFOT21M,Number of EPF Subscribers exited during the month (Others) - 18 to 21 years
+LAEMXEPFOT25M,Number of EPF Subscribers exited during the month (Others) - 22 to 25 years
+LAEMXEPFOT28M,Number of EPF Subscribers exited during the month (Others) - 26 to 28 years
+LAEMXEPFOT35M,Number of EPF Subscribers exited during the month (Others) - 29 to 35 years
+LAEMXEPFOT60M,Number of EPF Subscribers exited during the month (Others) - Over 35 years
+LAEMXESIAL11M,Number of Existing ESIC Subscribers
+LAEMXESIAL18M,Number of Existing ESIC Subscribers - less than 18 years
+LAEMXESIAL21M,Number of Existing ESIC Subscribers - 18 to 21 years
+LAEMXESIAL25M,Number of Existing ESIC Subscribers - 22 to 25 years
+LAEMXESIAL28M,Number of Existing ESIC Subscribers - 26 to 28 years
+LAEMXESIAL35M,Number of Existing ESIC Subscribers - 29 to 35 years
+LAEMXESIAL60M,Number of Existing ESIC Subscribers - over 35 years
+LAEMXESIFE11M,Number of Existing ESIC Subscribers (Female)
+LAEMXESIFE18M,Number of Existing ESIC Subscribers (Female) - less than 18 years
+LAEMXESIFE21M,Number of Existing ESIC Subscribers (Female) - 18 to 21 years
+LAEMXESIFE25M,Number of Existing ESIC Subscribers (Female) - 22 to 25 years
+LAEMXESIFE28M,Number of Existing ESIC Subscribers (Female) - 26 to 28 years
+LAEMXESIFE35M,Number of Existing ESIC Subscribers (Female) - 29 to 35 years
+LAEMXESIFE60M,Number of Existing ESIC Subscribers (Female) - over 35 years
+LAEMXESIMA11M,Number of Existing ESIC Subscribers (Male)
+LAEMXESIMA21M,Number of Existing ESIC Subscribers (Male) - 18 to 21 years
+LAEMXESIMA25M,Number of Existing ESIC Subscribers (Male) - 22 to 25 years
+LAEMXESIMA28M,Number of Existing ESIC Subscribers (Male) - 26 to 28 years
+LAEMXESIMA35M,Number of Existing ESIC Subscribers (Male) - 29 to 35 years
+LAEMXESIMA60M,Number of Existing ESIC Subscribers (Male) - over 35 years
+LAEMXNPSAL11M,Total Existing and Contributing NPS Subscribers
+LAEMXNPSAL21M,Total Existing and Contributing NPS Subscribers - 18 to 21 years
+LAEMXNPSAL28M,Total Existing and Contributing NPS Subscribers - 26 to 28 years
+LAEMXNPSAL35M,Total Existing and Contributing NPS Subscribers - 29 to 35 years
+LAEMXNPSAL60M,Total Existing and Contributing NPS Subscribers - above 35 years
+LANJSITADV11M,"Naukri JobSpeak Index - Advertising, PR"
+LANJSITAGR11M,Naukri JobSpeak Index - Agriculture
+LANJSITAID11M,Naukri JobSpeak Index - Architecture
+LANJSITATF11M,"Naukri JobSpeak Index - Accounting, Taxation, Finance"
+LANJSITAUT11M,Naukri JobSpeak Index - Autos
+LANJSITBFS11M,Naukri JobSpeak Index - Financial Services
+LANJSITBPO11M,Naukri JobSpeak Index - BPO
+LANJSITCDU11M,Naukri JobSpeak Index - Consumer Durables
+LANJSITCEC11M,"Naukri JobSpeak Index - Construction, Engineering"
+LANJSITCGD11M,Naukri JobSpeak Index - FMCG
+LANJSITCPP11M,"Naukri JobSpeak Index - Chemicals, Plastic"
+LANJSITCTF11M,Naukri JobSpeak Index - Transportation
+LANJSITEIM11M,Naukri JobSpeak Index - Foreign Trade
+LANJSITENI11M,"Naukri JobSpeak Index - Energy, Power, Infra"
+LANJSITETT11M,Naukri JobSpeak Index - Education
+LANJSITFER11M,"Naukri JobSpeak Index - Fertilisers, Pesticides"
+LANJSITGJW11M,Naukri JobSpeak Index - Gems & Jewellery
+LANJSITGOV11M,"Naukri JobSpeak Index - Government, Defence"
+LANJSITINS11M,Naukri JobSpeak Index - Insurance
+LANJSITIPM11M,Naukri JobSpeak Index - Industrial Products
+LANJSITITH11M,Naukri JobSpeak Index - IT - Hardware
+LANJSITITS11M,Naukri JobSpeak Index - IT - Software
+LAEMXESIMA18M,Number of Existing ESIC Subscribers (Male) - less than 18 years
+LANJSITLEG11M,Naukri JobSpeak Index - Legal
+LANJSITMDE11M,"Naukri JobSpeak Index - Media, Entertainment"
+LANJSITMHH11M,Naukri JobSpeak Index - Healthcare
+LANJSITNGO11M,Naukri JobSpeak Index - NGOs
+LANJSITOEA11M,Naukri JobSpeak Index - Office Equipment
+LANJSITPBC11M,"Naukri JobSpeak Index - Pharma, Clinical Research"
+LANJSITPPG11M,"Naukri JobSpeak Index - Printing, Packaging"
+LANJSITREF11M,Naukri JobSpeak Index - Recruitment
+LANJSITREP11M,Naukri JobSpeak Index - Real Estate
+LANJSITRET11M,Naukri JobSpeak Index - Retail
+LANJSITSEL11M,Naukri JobSpeak Index - Electronics
+LANJSITSHM11M,Naukri JobSpeak Index - Shipping
+LANJSITSLE11M,Naukri JobSpeak Index - Security
+LANJSITTGA11M,Naukri JobSpeak Index - Textiles
+LANJSITTHP11M,"Naukri JobSpeak Index - Travel, Hospitality"
+LANJSITTIS11M,Naukri JobSpeak Index - Telecom
+LANJSITTOT11M,Naukri JobSpeak Index - Total
+LANREXADMN11A,Total Expenditure under NREGA - Administration (annual)
+LANREXMATL11A,Total Expenditure under NREGA - Material (annual)
+LANREXOTHR11A,Total Expenditure under NREGA - Others (annual)
+LANREXPUKL11A,Total Expenditure under NREGA - Unskilled labour (annual)
+LANRTOTEXP11A,Total Expenditure under NREGA (annual)
+LAPLAECLFA11A,"Average earnings per day for casual labourers - Female, All Areas"
+LAPLAECLFR11A,"Average earnings per day for casual labourers - Female, Rural Areas"
+LAPLAECLFU11A,"Average earnings per day for casual labourers - Female, Urban Areas"
+LAPLAECLMA11A,"Average earnings per day for casual labourers - Male, All Areas"
+LAPLAECLMR11A,"Average earnings per day for casual labourers - Male, Rural Areas"
+LAPLAECLMU11A,"Average earnings per day for casual labourers - Male, Urban Areas"
+LAPLAECLTA11A,Average earnings per day for casual labourers - All Areas
+LAPLAECLTR11A,Average earnings per day for casual labourers - Rural Areas
+LAPLAECLTU11A,Average earnings per day for casual labourers - Urban Areas
+LAPLAESAFA11A,"Average earnings per month for regular salaried workers - Female, All Areas"
+LAPLAESAFR11A,"Average earnings per month for regular salaried workers - Female, Rural Areas"
+LAPLAESAFU11A,"Average earnings per month for regular salaried workers - Female, Urban Areas"
+LAPLAESAMA11A,"Average earnings per month for regular salaried workers - Male, All Areas"
+LAPLAESAMR11A,"Average earnings per month for regular salaried workers - Male, Rural Areas"
+LAPLAESAMU11A,"Average earnings per month for regular salaried workers - Male, Urban Areas"
+LAPLAESATA11A,Average earnings per month for regular salaried workers - All Areas
+LAPLAESATR11A,Average earnings per month for regular salaried workers - Rural Areas
+LAPLAESATU11A,Average earnings per month for regular salaried workers - Urban Areas
+LAPLAESEFA11A,"Average earnings per month for self employed workers - Female, All Areas"
+LAPLAESEFR11A,"Average earnings per month for self employed workers - Female, Rural Areas"
+LAPLAESEFU11A,"Average earnings per month for self employed workers - Female, Urban Areas"
+LAPLAESEMA11A,"Average earnings per month for self employed workers - Male, All Areas"
+LAPLAESEMR11A,"Average earnings per month for self employed workers - Male, Rural Areas"
+LAPLAESEMU11A,"Average earnings per month for self employed workers - Male, Urban Areas"
+LAPLAESETA11A,Average earnings per month for self employed workers - All Areas
+LAPLAESETR11A,Average earnings per month for self employed workers - Rural Areas
+LAPLAESETU11A,Average earnings per month for self employed workers - Urban Areas
+LAPLEMCAFC11A,"Percentage distribution of workers by usual employment status - All Areas, Female - Casual labour"
+LAPLEMCAFH11A,"Percentage distribution of workers by usual employment status - All Areas, Female - Helper in household enterprise"
+LAPLEMCAFO11A,"Percentage distribution of workers by usual employment status - All Areas, Female - Own account employer"
+LAPLEMCAFR11A,"Percentage distribution of workers by usual employment status - All Areas, Female - Regular wage, salaried"
+LAPLEMCAFS11A,"Percentage distribution of workers by usual employment status - All Areas, Female - Self Employed"
+LAPLEMCAMH11A,"Percentage distribution of workers by usual employment status - All Areas, Male - Helper in household enterprise"
+LAPLEMCAMO11A,"Percentage distribution of workers by usual employment status - All Areas, Male - Own account employer"
+LAPLEMCAMS11A,"Percentage distribution of workers by usual employment status - All Areas, Male - Self Employed"
+LAPLEMCATC11A,"Percentage distribution of workers by usual employment status - All Areas, Both Genders - Casual labour"
+LAPLEMCATH11A,"Percentage distribution of workers by usual employment status - All Areas, Both Genders - Helper in household enterprise"
+LAPLEMCATO11A,"Percentage distribution of workers by usual employment status - All Areas, Both Genders - Own account employer"
+LAPLEMCATR11A,"Percentage distribution of workers by usual employment status - All Areas, Both Genders - Regular wage, salaried"
+LAPLEMCATS11A,"Percentage distribution of workers by usual employment status - All Areas, Both Genders - Self Employed"
+LAPLEMCRFC11A,"Percentage distribution of workers by usual employment status - Rural Areas, Female - Casual labour"
+LAPLEMCRFO11A,"Percentage distribution of workers by usual employment status - Rural Areas, Female - Own account employer"
+LAPLEMCRFR11A,"Percentage distribution of workers by usual employment status - Rural Areas, Female - Regular wage, salaried"
+LAPLEMCRFS11A,"Percentage distribution of workers by usual employment status - Rural Areas, Female - Self Employed"
+LAPLEMCRMC11A,"Percentage distribution of workers by usual employment status - Rural Areas, Male - Casual labour"
+LAPLEMCRMH11A,"Percentage distribution of workers by usual employment status - Rural Areas, Male - Helper in household enterprise"
+LAPLEMCRMO11A,"Percentage distribution of workers by usual employment status - Rural Areas, Male - Own account employer"
+LAPLEMCRMR11A,"Percentage distribution of workers by usual employment status - Rural Areas, Male - Regular wage, salaried"
+LAPLEMCRMS11A,"Percentage distribution of workers by usual employment status - Rural Areas, Male - Self Employed"
+LAPLEMCRTC11A,"Percentage distribution of workers by usual employment status - Rural Areas, Both Genders - Casual labour"
+LAPLEMCRTR11A,"Percentage distribution of workers by usual employment status - Rural Areas, Both Genders - Regular wage, salaried"
+LAPLEMCRTS11A,"Percentage distribution of workers by usual employment status - Rural Areas, Both Genders - Self Employed"
+LAPLEMCUFC11A,"Percentage distribution of workers by usual employment status - Urban Areas, Female - Casual labour"
+LAPLEMCUFH11A,"Percentage distribution of workers by usual employment status - Urban Areas, Female - Helper in household enterprise"
+LAPLEMCUFR11A,"Percentage distribution of workers by usual employment status - Urban Areas, Female - Regular wage, salaried"
+LAPLEMCUFS11A,"Percentage distribution of workers by usual employment status - Urban Areas, Female - Self Employed"
+LAPLEMCUMC11A,"Percentage distribution of workers by usual employment status - Urban Areas, Male - Casual labour"
+LAPLEMCUMH11A,"Percentage distribution of workers by usual employment status - Urban Areas, Male - Helper in household enterprise"
+LAPLEMCUMO11A,"Percentage distribution of workers by usual employment status - Urban Areas, Male - Own account employer"
+LAPLEMCUMR11A,"Percentage distribution of workers by usual employment status - Urban Areas, Male - Regular wage, salaried"
+LAEMXNPSAL25M,Total Existing and Contributing NPS Subscribers - 22 to 25 years
+LAPLEMCAMC11A,"Percentage distribution of workers by usual employment status - All Areas, Male - Casual labour"
+LAPLEMCRFH11A,"Percentage distribution of workers by usual employment status - Rural Areas, Female - Helper in household enterprise"
+LAPLEMCRTH11A,"Percentage distribution of workers by usual employment status - Rural Areas, Both Genders - Helper in household enterprise"
+LAPLEMCRTO11A,"Percentage distribution of workers by usual employment status - Rural Areas, Both Genders - Own account employer"
+LAPLEMCUMS11A,"Percentage distribution of workers by usual employment status - Urban Areas, Male - Self Employed"
+LAPLEMCUTC11A,"Percentage distribution of workers by usual employment status - Urban Areas, Both Genders - Casual labour"
+LAPLEMCUTH11A,"Percentage distribution of workers by usual employment status - Urban Areas, Both Genders - Helper in household enterprise"
+LAPLEMCUTO11A,"Percentage distribution of workers by usual employment status - Urban Areas, Both Genders - Own account employer"
+LAPLEMCUTR11A,"Percentage distribution of workers by usual employment status - Urban Areas, Both Genders - Regular wage, salaried"
+LAPLEMCUTS11A,"Percentage distribution of workers by usual employment status - Urban Areas, Both Genders - Self Employed"
+LAPLLPAAAG11A,"Labour Force Participation Rate - All Regions - Both Genders, All Age Groups"
+LAPLLPAAFF11A,"Labour Force Participation Rate - All Regions - Both Genders, (15 - 59 years)"
+LAPLLPAAFP11A,"Labour Force Participation Rate - All Regions - Both Genders, (15+ age)"
+LAPLLPAAFT11A,"Labour Force Participation Rate - All Regions - Both Genders, (15 - 29 years)"
+LAPLLPAFAG11A,"Labour Force Participation Rate - All Regions - Female, All Age Groups"
+LAPLLPAFFF11A,"Labour Force Participation Rate - All Regions - Female, (15 - 59 years)"
+LAPLLPAFFP11A,"Labour Force Participation Rate - All Regions - Female, (15+ age)"
+LAPLLPAFFT11A,"Labour Force Participation Rate - All Regions - Female, (15 - 29 years)"
+LAPLLPAMAG11A,"Labour Force Participation Rate - All Regions - Male, All Age Groups"
+LAPLLPAMFF11A,"Labour Force Participation Rate - All Regions - Male, (15 - 59 years)"
+LAPLLPAMFP11A,"Labour Force Participation Rate - All Regions - Male, (15+ age)"
+LAPLLPAMFT11A,"Labour Force Participation Rate - All Regions - Male, (15 - 29 years)"
+LAPLLPRAAG11A,"Labour Force Participation Rate - Rural - Both Genders, All Age Groups"
+LAPLLPRAFF11A,"Labour Force Participation Rate - Rural - Both Genders, (15 - 59 years)"
+LAPLLPRAFP11A,"Labour Force Participation Rate - Rural - Both Genders, (15+ age)"
+LAPLLPRAFT11A,"Labour Force Participation Rate - Rural - Both Genders, (15 - 29 years)"
+LAPLLPRFAG11A,"Labour Force Participation Rate - Rural - Female, All Age Groups"
+LAPLLPRFFP11A,"Labour Force Participation Rate - Rural - Female, (15+ age)"
+LAPLLPRFFT11A,"Labour Force Participation Rate - Rural - Female, (15 - 29 years)"
+LAPLLPRMAG11A,"Labour Force Participation Rate - Rural - Male, All Age Groups"
+LAPLLPRMFF11A,"Labour Force Participation Rate - Rural - Male, (15 - 59 years)"
+LAPLLPRMFP11A,"Labour Force Participation Rate - Rural - Male, (15+ age)"
+LAPLLPRMFT11A,"Labour Force Participation Rate - Rural - Male, (15 - 29 years)"
+LAPLLPUAAG11A,"Labour Force Participation Rate - Urban - Both Genders, All Age Groups"
+LAPLLPUAFF11A,"Labour Force Participation Rate - Urban - Both Genders, (15 - 59 years)"
+LAPLLPUAFP11A,"Labour Force Participation Rate - Urban - Both Genders, (15+ age)"
+LAPLLPUAFT11A,"Labour Force Participation Rate - Urban - Both Genders, (15 - 29 years)"
+LAPLLPUFAG11A,"Labour Force Participation Rate - Urban - Female, All Age Groups"
+LAPLLPUFFF11A,"Labour Force Participation Rate - Urban - Female, (15 - 59 years)"
+LAPLLPUFFP11A,"Labour Force Participation Rate - Urban - Female, (15+ age)"
+LAPLLPUFFT11A,"Labour Force Participation Rate - Urban - Female, (15 - 29 years)"
+LAPLLPUMAG11A,"Labour Force Participation Rate - Urban - Male, All Age Groups"
+LAPLLPUMFF11A,"Labour Force Participation Rate - Urban - Male, (15 - 59 years)"
+LAPLLPUMFP11A,"Labour Force Participation Rate - Urban - Male, (15+ age)"
+LAPLLPUMFT11A,"Labour Force Participation Rate - Urban - Male, (15 - 29 years)"
+LAPLURAAAG11A,"Unemployment Rate - All Regions - Both Genders, All Age Groups"
+LAPLURAAFF11A,"Unemployment Rate - All Regions - Both Genders, (15 - 59 years)"
+LAPLURAAFP11A,"Unemployment Rate - All Regions - Both Genders, (15+ age)"
+LAPLURAAFT11A,"Unemployment Rate - All Regions - Both Genders, (15 - 29 years)"
+LAPLURAFAG11A,"Unemployment Rate - All Regions - Female, All Age Groups"
+LAPLURAFFF11A,"Unemployment Rate - All Regions - Female, (15 - 59 years)"
+LAPLURAFFP11A,"Unemployment Rate - All Regions - Female, (15+ age)"
+LAPLURAFFT11A,"Unemployment Rate - All Regions - Female, (15 - 29 years)"
+LAPLURAMAG11A,"Unemployment Rate - All Regions - Male, All Age Groups"
+LAPLURAMFF11A,"Unemployment Rate - All Regions - Male, (15 - 59 years)"
+LAPLURAMFP11A,"Unemployment Rate - All Regions - Male, (15+ age)"
+LAPLURAMFT11A,"Unemployment Rate - All Regions - Male, (15 - 29 years)"
+LAPLURRAFF11A,"Unemployment Rate - Rural - Both Genders, (15 - 59 years)"
+LAPLURRAFP11A,"Unemployment Rate - Rural - Both Genders, (15+ age)"
+LAPLURRAFT11A,"Unemployment Rate - Rural - Both Genders, (15 - 29 years)"
+LAPLURRFAG11A,"Unemployment Rate - Rural - Female, All Age Groups"
+LAPLURRFFF11A,"Unemployment Rate - Rural - Female, (15 - 59 years)"
+LAPLURRFFP11A,"Unemployment Rate - Rural - Female, (15+ age)"
+LAPLURRMAG11A,"Unemployment Rate - Rural - Male, All Age Groups"
+LAPLURRMFF11A,"Unemployment Rate - Rural - Male, (15 - 59 years)"
+LAPLURRMFP11A,"Unemployment Rate - Rural - Male, (15+ age)"
+LAPLURRMFT11A,"Unemployment Rate - Rural - Male, (15 - 29 years)"
+LAPLURUAAG11A,"Unemployment Rate - Urban - Both Genders, All Age Groups"
+LAPLURUAFF11A,"Unemployment Rate - Urban - Both Genders, (15 - 59 years)"
+LAPLURUAFP11A,"Unemployment Rate - Urban - Both Genders, (15+ age)"
+LAPLURUAFT11A,"Unemployment Rate - Urban - Both Genders, (15 - 29 years)"
+LAPLURUFAG11A,"Unemployment Rate - Urban - Female, All Age Groups"
+LAPLURUFFF11A,"Unemployment Rate - Urban - Female, (15 - 59 years)"
+LAPLURUFFP11A,"Unemployment Rate - Urban - Female, (15+ age)"
+LAPLURUFFT11A,"Unemployment Rate - Urban - Female, (15 - 29 years)"
+LAPLURUMFF11A,"Unemployment Rate - Urban - Male, (15 - 59 years)"
+LAPLURUMFP11A,"Unemployment Rate - Urban - Male, (15+ age)"
+LAPLURUMFT11A,"Unemployment Rate - Urban - Male, (15 - 29 years)"
+LAPLWPAAAG11A,"Worker Population Ratio - All Regions - Both Genders, All Age Groups"
+LAPLWPAAFF11A,"Worker Population Ratio - All Regions - Both Genders, (15 - 59 years)"
+LAPLWPAAFP11A,"Worker Population Ratio - All Regions - Both Genders, (15+ age)"
+LAPLWPAAFT11A,"Worker Population Ratio - All Regions - Both Genders, (15 - 29 years)"
+LAPLWPAFAG11A,"Worker Population Ratio - All Regions - Female, All Age Groups"
+LAPLWPAFFF11A,"Worker Population Ratio - All Regions - Female, (15 - 59 years)"
+LAPLWPAFFP11A,"Worker Population Ratio - All Regions - Female, (15+ age)"
+LAPLWPAFFT11A,"Worker Population Ratio - All Regions - Female, (15 - 29 years)"
+LAPLWPAMAG11A,"Worker Population Ratio - All Regions - Male, All Age Groups"
+LAPLWPAMFF11A,"Worker Population Ratio - All Regions - Male, (15 - 59 years)"
+LAPLWPAMFP11A,"Worker Population Ratio - All Regions - Male, (15+ age)"
+LAPLWPAMFT11A,"Worker Population Ratio - All Regions - Male, (15 - 29 years)"
+LAPLWPRAAG11A,"Worker Population Ratio - Rural - Both Genders, All Age Groups"
+LAPLWPRAFF11A,"Worker Population Ratio - Rural - Both Genders, (15 - 59 years)"
+LAPLWPRAFP11A,"Worker Population Ratio - Rural - Both Genders, (15+ age)"
+LAPLWPRAFT11A,"Worker Population Ratio - Rural - Both Genders, (15 - 29 years)"
+LAPLWPRFAG11A,"Worker Population Ratio - Rural - Female, All Age Groups"
+LAPLWPRFFF11A,"Worker Population Ratio - Rural - Female, (15 - 59 years)"
+LAPLWPRFFP11A,"Worker Population Ratio - Rural - Female, (15+ age)"
+LAPLWPRFFT11A,"Worker Population Ratio - Rural - Female, (15 - 29 years)"
+LAPLWPRMFF11A,"Worker Population Ratio - Rural - Male, (15 - 59 years)"
+LAPLWPRMFT11A,"Worker Population Ratio - Rural - Male, (15 - 29 years)"
+LAPLWPUAAG11A,"Worker Population Ratio - Urban - Both Genders, All Age Groups"
+LAPLWPUAFF11A,"Worker Population Ratio - Urban - Both Genders, (15 - 59 years)"
+LAPLWPUAFP11A,"Worker Population Ratio - Urban - Both Genders, (15+ age)"
+LAPLWPUAFT11A,"Worker Population Ratio - Urban - Both Genders, (15 - 29 years)"
+LAPLWPUFAG11A,"Worker Population Ratio - Urban - Female, All Age Groups"
+LAPLWPUFFF11A,"Worker Population Ratio - Urban - Female, (15 - 59 years)"
+LAPLWPUFFP11A,"Worker Population Ratio - Urban - Female, (15+ age)"
+LAPLWPUFFT11A,"Worker Population Ratio - Urban - Female, (15 - 29 years)"
+LAPLWPUMAG11A,"Worker Population Ratio - Urban - Male, All Age Groups"
+LAPLWPUMFF11A,"Worker Population Ratio - Urban - Male, (15 - 59 years)"
+LAPLWPUMFP11A,"Worker Population Ratio - Urban - Male, (15+ age)"
+LAPLWPUMFT11A,"Worker Population Ratio - Urban - Male, (15 - 29 years)"
+LAWRAGGAVG13M,Daily Average Wage Rate in Rural Areas for Men (Blended Series)
+LAWRAGGAVG98M,Daily Average Wage Rate in Rural Areas for Men (Old Series)
+LAWRAGRAVG13M,Daily Average Wage Rate in Rural Areas for Men - Agricultural activities (Blended Series)
+LAWRAGRAVG98M,Daily Average Wage Rate in Rural Areas for Men - Agricultural activities (Old Series)
+LAWRANMHUS13M,Daily Average Wage Rate in Rural Areas for Men -  Animal Husbandry Workers (New Series)
+LAPLEMCAMR11A,"Percentage distribution of workers by usual employment status - All Areas, Male - Regular wage, salaried"
+LAPLEMCUFO11A,"Percentage distribution of workers by usual employment status - Urban Areas, Female - Own account employer"
+LAPLLPRFFF11A,"Labour Force Participation Rate - Rural - Female, (15 - 59 years)"
+LAPLURRAAG11A,"Unemployment Rate - Rural - Both Genders, All Age Groups"
+LAPLURUMAG11A,"Unemployment Rate - Urban - Male, All Age Groups"
+LAPLWPRMAG11A,"Worker Population Ratio - Rural - Male, All Age Groups"
+LAPLWPRMFP11A,"Worker Population Ratio - Rural - Male, (15+ age)"
+LAWRBEEDIM13M,Daily Average Wage Rate in Rural Areas for Men -  Beedi Makers (New Series)
+LAWRBLCKSM13M,Daily Average Wage Rate in Rural Areas for Men -  Blacksmith (New Series)
+LAWRBLCKSM98M,Daily Average Wage Rate in Rural Areas for Men - Blacksmith (Old Series)
+LAWRBOCABA13M,"Daily Average Wage Rate in Rural Areas for Men -  Bamboo, Cane basket weavers (New Series)"
+LAWRCARPTR13M,Daily Average Wage Rate in Rural Areas for Men -  Carpenter (New Series)
+LAWRCARPTR98M,Daily Average Wage Rate in Rural Areas for Men - Carpenter (Old Series)
+LAWRCNCRSH98M,Daily Average Wage Rate in Rural Areas for Men - Cane crushing (Old Series)
+LAWRCOBBLR98M,Daily Average Wage Rate in Rural Areas for Men - Cobbler (Old Series)
+LAWRCONSTW13M,Daily Average Wage Rate in Rural Areas for Men -  Construction Workers (New Series)
+LAWRDRIVER13M,Daily Average Wage Rate in Rural Areas for Men -  LMV and Tractors drivers (New Series)
+LAWRDRIVER98M,Daily Average Wage Rate in Rural Areas for Men - Tractor Driver (Old Series)
+LAWRELECTR13M,Daily Average Wage Rate in Rural Areas for Men -  Electrician (New Series)
+LAWRFISHDS13M,Daily Average Wage Rate in Rural Areas for Men -  Coastal / Deep sea Fisherman (New Series)
+LAWRGENAGL13M,Daily Average Wage Rate in Rural Areas for Men -  General Agricultural Labourers (New Series)
+LAWRHANDIT13M,Daily Average Wage Rate in Rural Areas for Men -  Handicraft Workers (New Series)
+LAWRHARVES13M,Daily Average Wage Rate in Rural Areas for Men -  Harvesting / Winnowing / Threshing workers (New Series)
+LAWRHARVES98M,Daily Average Wage Rate in Rural Areas for Men - Harvesting (Old Series)
+LAWRHERDSM98M,Daily Average Wage Rate in Rural Areas for Men - Herdsman (Old Series)
+LAWRHORTWR13M,Daily Average Wage Rate in Rural Areas for Men -  Horticulture Workers (New Series)
+LAWRLOGCUT13M,Daily Average Wage Rate in Rural Areas for Men -  Loggers and Wood Cutters (New Series)
+LAWRMASONT13M,Daily Average Wage Rate in Rural Areas for Men -  Mason (New Series)
+LAWRMASONT98M,Daily Average Wage Rate in Rural Areas for Men - Mason (Old Series)
+LAWRNAGAVG13M,Daily Average Wage Rate in Rural Areas for Men - Non - Agricultural activities (Blended Series)
+LAWRNAGAVG98M,Daily Average Wage Rate in Rural Areas for Men - Non - Agricultural activities (Old Series)
+LAWROTRLAB13M,Daily Average Wage Rate in Rural Areas for Men -  Other Non-Agricultural Labourers (New Series)
+LAWROTRLAB98M,Daily Average Wage Rate in Rural Areas for Men - Other Unskilled Labourers (Old Series)
+LAWRPACKNG13M,Daily Average Wage Rate in Rural Areas for Men -  Packaging Labourers (New Series)
+LAWRPICKNG13M,Daily Average Wage Rate in Rural Areas for Men -  Picking Workers (New Series)
+LAWRPICKNG98M,Daily Average Wage Rate in Rural Areas for Men - Picking (Old Series)
+LAWRPLOTIL13M,Daily Average Wage Rate in Rural Areas for Men -  Ploughing/Tilling Workers (New Series)
+LAWRPLOTIL98M,Daily Average Wage Rate in Rural Areas for Men - Ploughing (Old Series)
+LAWRPLUMBR13M,Daily Average Wage Rate in Rural Areas for Men -  Plumbers (New Series)
+LAWRSOWING13M,Daily Average Wage Rate in Rural Areas for Men -  Sowing (New Series)
+LAWRSOWING98M,Daily Average Wage Rate in Rural Areas for Men - Sowing (Old Series)
+LAWRSWEEPG98M,Daily Average Wage Rate in Rural Areas for Men - Sweeper (Old Series)
+LAWRTHRESH98M,Daily Average Wage Rate in Rural Areas for Men - Threshing (Old Series)
+LAWRTRNSPL98M,Daily Average Wage Rate in Rural Areas for Men - Transplanting (Old Series)
+LAWRWEAVER13M,Daily Average Wage Rate in Rural Areas for Men -  Weavers (New Series)
+LAWRWEEDNG98M,Daily Average Wage Rate in Rural Areas for Men - Weeding (Old Series)
+LAWRWINNOW98M,Daily Average Wage Rate in Rural Areas for Men - Winnowing (Old Series)
+NAGDNAGGVA00A,Nominal GVA - Agriculture and Allied Activities (1999-2000 Series)
+NAGDNAGGVA00Q,"Nominal GVA - Agriculture and Allied Activities (1999-2000 Series, Quarterly)"
+NAGDNAGGVA05A,Nominal GVA - Agriculture and Allied Activities (2004-05 Series)
+NAGDNAGGVA05Q,"Nominal GVA - Agriculture and Allied Activities (2004-05 Series, Quarterly)"
+NAGDNAGGVA12A,Nominal GVA - Agriculture and Allied Activities (2011-12 Series)
+NAGDNAGGVA12Q,"Nominal GVA - Agriculture and Allied Activities (2011-12 Series, Quarterly)"
+NAGDNAGGVA94A,Nominal GVA - Agriculture and Allied Activities (1993-94 Series)
+NAGDNBLGDP11Q,"Nominal GDP (Quarterly, Blended)"
+NAGDNBLGVA11A,Nominal Gross Value Added (Blended)
+NAGDNCOGVA00Q,"Nominal GVA - Construction (1999-2000 Series, Quarterly)"
+NAGDNCOGVA05Q,"Nominal GVA - Construction (2004-05 Series, Quarterly)"
+NAGDNCOGVA12Q,"Nominal GVA - Construction (2011-12 Series, Quarterly)"
+NAGDNFPGVA00Q,"Nominal GVA - Financial, Real Estate & Professional Services (1999-2000 Series, Quarterly)"
+NAGDNFPGVA05Q,"Nominal GVA - Financial, Real Estate & Professional Services (2004-05 Series, Quarterly)"
+NAGDNGDPXD00Q,"Nominal GDP excluding Government Consumption (1999-2000 Series, Quarterly)"
+NAGDNGDPXD05Q,"Nominal GDP excluding Government Consumption (2004-05 Series, Quarterly)"
+NAGDNGDPXD12Q,"Nominal GDP excluding Government Consumption (2011-12 Series, Quarterly)"
+NAGDNGDPXG00Q,"Nominal GDP excluding Statistical discrepancies (1999-2000 Series, Quarterly)"
+LAPLURRFFT11A,"Unemployment Rate - Rural - Female, (15 - 29 years)"
+LAWRFISHIN13M,Daily Average Wage Rate in Rural Areas for Men -  Inland Fisherman (New Series)
+LAWRPLTPRO13M,Daily Average Wage Rate in Rural Areas for Men -  Plant Protection Workers (New Series)
+LAWRSWEEPG13M,Daily Average Wage Rate in Rural Areas for Men -  Sweeping/ Cleaning Workers (New Series)
+LAWRWELDIG98M,Daily Average Wage Rate in Rural Areas for Men - Well digging (Old Series)
+NAGDNFPGVA12Q,"Nominal GVA - Financial, Real Estate & Professional Services (2011-12 Series, Quarterly)"
+NAGDNGDPXG05Q,"Nominal GDP excluding Statistical discrepancies (2004-05 Series, Quarterly)"
+NAGDNGDPXG12Q,"Nominal GDP excluding Statistical discrepancies (2011-12 Series, Quarterly)"
+NAGDNGPXGC05A,Nominal GDP excluding Government Final Consumption (2004-05 Series)
+NAGDNGPXGC12A,Nominal GDP excluding Government Final Consumption (2011-12 Series)
+NAGDNGPXSD05A,Nominal GDP excluding Statistical Discrepancies (2004-05 Series)
+NAGDNBLGVA11Q,"Nominal GVA (Quarterly, Blended)"
+NAGDNGPXSD12A,Nominal GDP excluding Statistical Discrepancies (2011-12 Series)
+NAGDNGVAXA00Q,"Nominal GVA - Excluding Agriculture and Allied Activities (1999-2000 Series, Quarterly)"
+NAGDNGVAXA05Q,"Nominal GVA - Excluding Agriculture and Allied Activities (2004-05 Series, Quarterly)"
+NAGDNGVAXA12Q,"Nominal GVA - Excluding Agriculture and Allied Activities (2011-12 Series, Quarterly)"
+NAGDNINGVA00A,Nominal GVA - Industry (1999-2000 Series)
+NAGDNINGVA00Q,"Nominal GVA - Industry (1999-2000 Series, Quarterly)"
+NAGDNINGVA05A,Nominal GVA - Industry (2004-05 Series)
+NAGDNINGVA05Q,"Nominal GVA - Industry (2004-05 Series, Quarterly)"
+NAGDNINGVA12A,Nominal GVA - Industry (2011-12 Series)
+NAGDNINGVA12Q,"Nominal GVA - Industry (2011-12 Series, Quarterly)"
+NAGDNINGVA94A,Nominal GVA - Industry (1993-94 Series)
+NAGDNMAGVA00Q,"Nominal GVA - Manufacturing (1999-2000 Series, Quarterly)"
+NAGDNMAGVA05Q,"Nominal GVA - Manufacturing (2004-05 Series, Quarterly)"
+NAGDNMAGVA12Q,"Nominal GVA - Manufacturing (2011-12 Series, Quarterly)"
+NAGDNMIGVA00Q,"Nominal GVA - Mining and Quarrying (1999-2000 Series, Quarterly)"
+NAGDNMIGVA05Q,"Nominal GVA - Mining and Quarrying (2004-05 Series, Quarterly)"
+NAGDNMIGVA12Q,"Nominal GVA - Mining and Quarrying (2011-12 Series, Quarterly)"
+NAGDNOAGRI05A,Nominal GVA - Agriculture (2004-05 series)
+NAGDNOAIRT12A,Nominal GVA - Air transport (2011-12 series)
+NAGDNOBKIN05A,Nominal GVA - Banking and Insurance (2004-05 series)
+NAGDNOCOMU05A,Nominal GVA - Communication (2004-05 series)
+NAGDNOCOMU12A,Nominal GVA - Communication & Services Related to Broadcasting (2011-12 series)
+NAGDNOCONS05A,Nominal GVA - Construction (2004-05 series)
+NAGDNOCONS12A,Nominal GVA - Construction (2011-12 series)
+NAGDNOCROP12A,Nominal GVA - Crops (2011-12 series)
+NAGDNOCSPS05A,"Nominal GVA - Community, Social and Personal Services (2004-05 series)"
+NAGDNOFINA12A,Nominal GVA - Financial services (2011-12 series)
+NAGDNOFIRP12A,"Nominal GVA - Financial services, Real estate, Professional services (2011-12 series)"
+NAGDNOFISH05A,Nominal GVA - Fishing (2004-05 series)
+NAGDNOFISH12A,Nominal GVA - Fishing and Aquaculture (2011-12 series)
+NAGDNOFOLO05A,Nominal GVA - Forestry and Logging (2004-05 series)
+NAGDNOFOLO12A,Nominal GVA - Forestry and Logging (2011-12 series)
+NAGDNOFOOD12A,"Nominal GVA - Food Products, Beverages and Tobacco (2011-12 series)"
+NAGDNOFRBS05A,"Nominal GVA - Financial Services, Real Estate and Business Services (2004-05 series)"
+NAGDNOGVXG12A,Nominal GVA excluding Government Services (2011-12 Series)
+NAGDNOHOTE05A,Nominal GVA - Hotels and Restaurants (2004-05 series)
+NAGDNOHOTE12A,Nominal GVA - Hotels & Restaurants (2011-12 series)
+NAGDNOLIVE12A,Nominal GVA - Livestock (2011-12 series)
+NAGDNOMACH12A,Nominal GVA - Machinery and Equipment (2011-12 series)
+NAGDNOMANU05A,Nominal GVA - Manufacturing (2004-05 series)
+NAGDNOMANU12A,Nominal GVA - Manufacturing (2011-12 series)
+NAGDNOMETL12A,Nominal GVA - Metal Products (2011-12 series)
+NAGDNOMGDP00Q,"Nominal GDP (1999-2000 Series, Quarterly)"
+NAGDNOMGDP05A,Nominal GDP (2004-05 Series)
+NAGDNOMGDP05Q,"Nominal GDP (2004-05 Series, Quarterly)"
+NAGDNOMGDP12A,Nominal GDP (2011-12 Series)
+NAGDNOMGDP12Q,"Nominal GDP (2011-12 Series, Quarterly)"
+NAGDNOMGVA00A,Nominal GVA (1999-2000 Series)
+NAGDNOMGVA00Q,"Nominal GVA (1999-2000 Series, Quarterly)"
+NAGDNOMGVA05A,Nominal GVA (2004-05 Series)
+NAGDNOMGVA05Q,"Nominal GVA (2004-05 Series, Quarterly)"
+NAGDNOMGVA12A,Nominal GVA (2011-12 Series)
+NAGDNOMGVA12Q,"Nominal GVA (2011-12 Series, Quarterly)"
+NAGDNOMGVA81A,Nominal GVA (1980-81 Series)
+NAGDNOMGVA94A,Nominal GVA (1993-94 Series)
+NAGDNOMINE05A,Nominal GVA - Mining & Quarrying (2004-05 series)
+NAGDNOMINE12A,Nominal GVA - Mining and quarrying (2011-12 series)
+NAGDNOOMFG12A,Nominal GVA - Other Manufactured Goods (2011-12 series)
+NAGDNOOTSV05A,Nominal GVA -  Other Services (2004-05 series)
+NAGDNOOTSV12A,Nominal GVA - Other services (2011-12 series)
+NAGDNOOTTR05A,Nominal GVA - Other Transport (2004-05 series)
+NAGDNOPAAD05A,Nominal GVA -  Public Administration and Defence (2004-05 series)
+NAGDNOPAAD12A,Nominal GVA - Public administration and defence (2011-12 series)
+NAGDNOPADO12A,"Nominal GVA - Public Administration, Defence, Other Services (2011-12 series)"
+NAGDNOPROP12A,"Nominal GVA - Real estate, Professional services (2011-12 series)"
+NAGDNORAIL05A,Nominal GVA - Railways (2004-05 series)
+NAGDNORAIL12A,Nominal GVA - Railways (2011-12 series)
+NAGDNOREBS05A,Nominal GVA -  Real Estate and Business Services (2004-05 series)
+NAGDNOGVXA12A,Nominal GVA excluding Agriculture (2011-12 Series)
+NAGDNOREMF05A,Nominal GVA - Registered Manufacturing (2004-05 series)
+NAGDNOROAD12A,Nominal GVA - Road transport (2011-12 series)
+NAGDNOSTOR05A,Nominal GVA - Storage (2004-05 series)
+NAGDNOSTOR12A,Nominal GVA - Storage (2011-12 series)
+NAGDNOTEXT12A,"Nominal GVA - Textiles, Apparel and Leather Products (2011-12 series)"
+NAGDNOTHTC12A,"Nominal GVA - Trade, Hotels, Transport, Communication (2011-12 series)"
+NAGDNOTRAD05A,Nominal GVA - Trade (2004-05 series)
+NAGDNOTRAD12A,Nominal GVA - Trade & Repair Services (2011-12 series)
+NAGDNOTRCO05A,"Nominal GVA - Transport, Storage and Communication (2004-05 series)"
+NAGDNOTRCO12A,"Nominal GVA - Transport, Storage, Communication and Broadcasting (2011-12 series)"
+NAGDNOTRHO05A,"Nominal GVA - Trade, Hotels and Restaurant (2004-05 series)"
+NAGDNOTRHO12A,"Nominal GVA - Trade, repair, hotels and restaurants (2011-12 series)"
+NAGDNOTRSV12A,Nominal GVA - Services Incidental to Transport (2011-12 series)
+NAGDNOURMF05A,Nominal GVA - Unregistered Manufacturing (2004-05 series)
+NAGDNOUTIL05A,"Nominal GVA - Electricity, Gas and Other Utilities (2004-05 series)"
+NAGDNOUTIL12A,"Nominal GVA - Electricity, Gas and Other Utilities (2011-12 series)"
+NAGDNOWATR12A,Nominal GVA - Water transport (2011-12 series)
+NAGDNPAGVA00Q,"Nominal GVA - Public Administration, Defence & Other Services (1999-2000 Series, Quarterly)"
+NAGDNPAGVA05Q,"Nominal GVA - Public Administration, Defence & Other Services (2004-05 Series, Quarterly)"
+NAGDNPAGVA12Q,"Nominal GVA - Public Administration, Defence & Other Services (2011-12 Series, Quarterly)"
+NAGDNPCGDP05A,Per Capita Nominal GDP (2004-05 Series)
+NAGDNPCGDP12A,Per Capita Nominal GDP (2011-12 Series)
+NAGDNPCGVA99A,Per Capita Nominal Gross Value Added (GVA) (Blended series)
+NAGDNPCPCE12A,Per Capita Nominal PFCE (2011-12 series)
+NAGDNSCIIA00Q,"Nominal Change in Inventories (1999-2000 Series, Quarterly)"
+NAGDNSCIIA05A,Nominal Change in Inventories (2004-05 Series)
+NAGDNSCIIA05Q,"Nominal Change in Inventories (2004-05 Series, Quarterly)"
+NAGDNSCIIA12A,Nominal Change in Inventories (2011-12 Series)
+NAGDNSCIIA12Q,"Nominal Change in Inventories (2011-12 Series, Quarterly)"
+NAGDNSCIVA00Q,"Nominal Change in Valuables (1999-2000 Series, Quarterly)"
+NAGDNSCIVA05A,Nominal Change in Valuables (2004-05 Series)
+NAGDNSCIVA05Q,"Nominal Change in Valuables (2004-05 Series, Quarterly)"
+NAGDNSCIVA12A,Nominal Change in Valuables (2011-12 Series)
+NAGDNSCIVA12Q,"Nominal Change in Valuables (2011-12 Series, Quarterly)"
+NAGDNSGCFA00Q,"Nominal Gross Capital Formation (1999-2000 Series, Quarterly)"
+NAGDNSGCFA05A,Nominal Gross Capital Formation (2004-05 Series)
+NAGDNSGCFA05Q,"Nominal Gross Capital Formation (2004-05 Series, Quarterly)"
+NAGDNSGCFA12A,Nominal Gross Capital Formation (2011-12 Series)
+NAGDNSGCFA12Q,"Nominal Gross Capital Formation (2011-12 Series, Quarterly)"
+NAGDNSGFCE00Q,"Nominal Government Final Consumption Expenditure (1999-2000 Series, Quarterly)"
+NAGDNSGFCE05A,Nominal Government Final Consumption Expenditure (2004-05 Series)
+NAGDNSGFCE05Q,"Nominal Government Final Consumption Expenditure (2004-05 Series, Quarterly)"
+NAGDNSGFCE12A,Nominal Government Final Consumption Expenditure (2011-12 Series)
+NAGDNSGFCE12Q,"Nominal Government Final Consumption Expenditure (2011-12 Series, Quarterly)"
+NAGDNSGFCF00Q,"Nominal Gross Fixed Capital Formation (1999-2000 Series, Quarterly)"
+NAGDNSGFCF05A,Nominal Gross Fixed Capital Formation (2004-05 Series)
+NAGDNSGFCF05Q,"Nominal Gross Fixed Capital Formation (2004-05 Series, Quarterly)"
+NAGDNSGFCF12A,Nominal Gross Fixed Capital Formation (2011-12 Series)
+NAGDNSGFCF12Q,"Nominal Gross Fixed Capital Formation (2011-12 Series, Quarterly)"
+NAGDNSIGAS00Q,"Nominal Imports of Goods and Services (1999-2000 Series, Quarterly)"
+NAGDNSIGAS05A,Nominal Imports of Goods and Services (2004-05 Series)
+NAGDNSIGAS05Q,"Nominal Imports of Goods and Services (2004-05 Series, Quarterly)"
+NAGDNSIGAS12A,Nominal Imports of Goods and Services (2011-12 Series)
+NAGDNSIGAS12Q,"Nominal Imports of Goods and Services (2011-12 Series, Quarterly)"
+NAGDNSNXGS00Q,"Nominal Net Exports of Goods and Services (1999-2000 Series, Quarterly)"
+NAGDNSNXGS05A,Nominal Net Exports of Goods and Services (2004-05 Series)
+NAGDNSNXGS05Q,"Nominal Net Exports of Goods and Services (2004-05 Series, Quarterly)"
+NAGDNSNXGS12A,Nominal Net Exports of Goods and Services (2011-12 Series)
+NAGDNSNXGS12Q,"Nominal Net Exports of Goods and Services (2011-12 Series, Quarterly)"
+NAGDNSPFCE00Q,"Nominal Private Final Consumption Expenditure (1999-2000 Series, Quarterly)"
+NAGDNSPFCE05A,Nominal Private Final Consumption Expenditure (2004-05 Series)
+NAGDNSPFCE05Q,"Nominal Private Final Consumption Expenditure (2004-05 Series, Quarterly)"
+NAGDNSPFCE12A,Nominal Private Final Consumption Expenditure (2011-12 Series)
+NAGDNSPFCE12Q,"Nominal Private Final Consumption Expenditure (2011-12 Series, Quarterly)"
+NAGDNSSTDS00Q,"Nominal Statistical Discrepancies (1999-2000 Series, Quarterly)"
+NAGDNSSTDS05A,Nominal Statistical Discrepancies (2004-05 Series)
+NAGDNSSTDS05Q,"Nominal Statistical Discrepancies (2004-05 Series, Quarterly)"
+NAGDNSSTDS12A,Nominal Statistical Discrepancies (2011-12 Series)
+NAGDNSSTDS12Q,"Nominal Statistical Discrepancies (2011-12 Series, Quarterly)"
+NAGDNSVGVA00A,Nominal GVA - Services (1999-2000 Series)
+NAGDNSVGVA00Q,"Nominal GVA - Services (1999-2000 Series, Quarterly)"
+NAGDNSVGVA05Q,"Nominal GVA - Services (2004-05 Series, Quarterly)"
+NAGDNSVGVA12A,Nominal GVA - Services (2011-12 Series)
+NAGDNSVGVA12Q,"Nominal GVA - Services (2011-12 Series, Quarterly)"
+NAGDNSVGVA94A,Nominal GVA - Services (1993-94 Series)
+NAGDNSXGAS00Q,"Nominal Exports of Goods and Services (1999-2000 Series, Quarterly)"
+NAGDNSXGAS05A,Nominal Exports of Goods and Services (2004-05 Series)
+NAGDNSXGAS05Q,"Nominal Exports of Goods and Services (2004-05 Series, Quarterly)"
+NAGDNSXGAS12A,Nominal Exports of Goods and Services (2011-12 Series)
+NAGDNSXGAS12Q,"Nominal Exports of Goods and Services (2011-12 Series, Quarterly)"
+NAGDNTTGVA00Q,"Nominal GVA - Trade, Transport, Hotels, Communication & Broadcasting Services (1999-2000 Series, Quarterly)"
+NAGDNTTGVA05Q,"Nominal GVA - Trade, Transport, Hotels, Communication & Broadcasting Services (2004-05 Series, Quarterly)"
+NAGDNTTGVA12Q,"Nominal GVA - Trade, Transport, Hotels, Communication & Broadcasting Services (2011-12 Series, Quarterly)"
+NAGDNUTGVA00Q,"Nominal GVA - Electricity, Gas, Water & Other Utilities (1999-2000 Series, Quarterly)"
+NAGDNUTGVA05Q,"Nominal GVA - Electricity, Gas, Water & Other Utilities (2004-05 Series, Quarterly)"
+NAGDNUTGVA12Q,"Nominal GVA - Electricity, Gas, Water & Other Utilities (2011-12 Series, Quarterly)"
+NAGDRAGGVA00A,Real GVA - Agriculture and Allied Activities (1999-2000 Series)
+NAGDRAGGVA00Q,"Real GVA - Agriculture and Allied Activities (1999-2000 Series, Quarterly)"
+NAGDRAGGVA05A,Real GVA - Agriculture and Allied Activities (2004-05 Series)
+NAGDRAGGVA05Q,"Real GVA - Agriculture and Allied Activities (2004-05 Series, Quarterly)"
+NAGDRAGGVA12A,Real GVA - Agriculture and Allied Activities (2011-12 Series)
+NAGDRAGGVA12Q,"Real GVA - Agriculture and Allied Activities (2011-12 Series, Quarterly)"
+NAGDRAGGVA94A,Real GVA - Agriculture and Allied Activities (1993-94 Series)
+NAGDRBLGDP11Q,"Real GDP (Quarterly, Blended)"
+NAGDRBLGVA11A,Real Gross Value Added (Blended)
+NAGDRBLGVA11Q,"Real GVA (Quarterly, Blended)"
+NAGDRCOGVA05Q,"Real GVA - Construction (2004-05 Series, Quarterly)"
+NAGDRCOGVA12Q,"Real GVA - Construction (2011-12 Series, Quarterly)"
+NAGDREAGDP00Q,"Real GDP (1999-2000 Series, Quarterly)"
+NAGDREAGDP05A,Real GDP (2004-05 Series)
+NAGDREAGDP05Q,"Real GDP (2004-05 Series, Quarterly)"
+NAGDREAGDP12A,Real GDP (2011-12 Series)
+NAGDREAGDP12Q,"Real GDP (2011-12 Series, Quarterly)"
+NAGDREAGRI05A,Real GVA - Agriculture (2004-05 series)
+NAGDREAGVA00A,Real GVA (1999-2000 Series)
+NAGDREAGVA00Q,"Real GVA (1999-2000 Series, Quarterly)"
+NAGDREAGVA05A,Real GVA (2004-05 Series)
+NAGDREAGVA05Q,"Real GVA (2004-05 Series, Quarterly)"
+NAGDREAGVA12A,Real GVA (2011-12 Series)
+NAGDREAGVA12Q,"Real GVA (2011-12 Series, Quarterly)"
+NAGDREAGVA81A,Real GVA (1980-81 Series)
+NAGDREAGVA94A,Real GVA (1993-94 Series)
+NAGDREAIRT12A,Real GVA - Air transport (2011-12 series)
+NAGDREBKIN05A,Real GVA - Banking and Insurance (2004-05 series)
+NAGDRECOMU05A,Real GVA - Communication (2004-05 series)
+NAGDRECOMU12A,Real GVA - Communication & Services Related to Broadcasting (2011-12 series)
+NAGDRECONS05A,Real GVA - Construction (2004-05 series)
+NAGDRECONS12A,Real GVA - Construction (2011-12 series)
+NAGDRECROP12A,Real GVA - Crops (2011-12 series)
+NAGDRECSPS05A,"Real GVA - Community, Social and Personal Services (2004-05 series)"
+NAGDREFINA12A,Real GVA - Financial services (2011-12 series)
+NAGDREFIRP12A,"Real GVA - Financial services, Real estate, Professional services (2011-12 series)"
+NAGDREFISH05A,Real GVA - Fishing (2004-05 series)
+NAGDREFISH12A,Real GVA - Fishing and Aquaculture (2011-12 series)
+NAGDREFOLO05A,Real GVA - Forestry and Logging (2004-05 series)
+NAGDREFOLO12A,Real GVA - Forestry and Logging (2011-12 series)
+NAGDREFOOD12A,"Real GVA - Food Products, Beverages and Tobacco (2011-12 series)"
+NAGDREFRBS05A,"Real GVA - Financial Services, Real Estate and Business Services (2004-05 series)"
+NAGDREGVXA12A,Real GVA excluding Agriculture (2011-12 Series)
+NAGDREGVXG12A,Real GVA excluding Government Services (2011-12 Series)
+NAGDREHOTE05A,Real GVA - Hotels and Restaurants (2004-05 series)
+NAGDREHOTE12A,Real GVA - Hotels & Restaurants (2011-12 series)
+NAGDRELIVE12A,Real GVA - Livestock (2011-12 series)
+NAGDREMACH12A,Real GVA - Machinery and Equipment (2011-12 series)
+NAGDREMANU05A,Real GVA - Manufacturing (2004-05 series)
+NAGDREMETL12A,Real GVA - Metal Products (2011-12 series)
+NAGDREMINE05A,Real GVA - Mining & Quarrying (2004-05 series)
+NAGDREMINE12A,Real GVA - Mining and quarrying (2011-12 series)
+NAGDNSVGVA05A,Nominal GVA - Services (2004-05 Series)
+NAGDREOMFG12A,Real GVA - Other Manufactured Goods (2011-12 series)
+NAGDRCOGVA00Q,"Real GVA - Construction (1999-2000 Series, Quarterly)"
+NAGDREMANU12A,Real GVA - Manufacturing (2011-12 series)
+NAGDREOTSV05A,Real GVA -  Other Services (2004-05 series)
+NAGDREOTSV12A,Real GVA - Other services (2011-12 series)
+NAGDREOTTR05A,Real GVA - Other Transport (2004-05 series)
+NAGDREPAAD05A,Real GVA -  Public Administration and Defence (2004-05 series)
+NAGDREPAAD12A,Real GVA - Public administration and defence (2011-12 series)
+NAGDREPADO12A,"Real GVA - Public Administration, Defence, Other Services (2011-12 series)"
+NAGDREPROP12A,"Real GVA - Real estate, Professional services (2011-12 series)"
+NAGDRERAIL05A,Real GVA - Railways (2004-05 series)
+NAGDRERAIL12A,Real GVA - Railways (2011-12 series)
+NAGDREREBS05A,Real GVA -  Real Estate and Business Services (2004-05 series)
+NAGDREREMF05A,Real GVA - Registered Manufacturing (2004-05 series)
+NAGDREROAD12A,Real GVA - Road transport (2011-12 series)
+NAGDRESTOR05A,Real GVA - Storage (2004-05 series)
+NAGDRESTOR12A,Real GVA - Storage (2011-12 series)
+NAGDRETEXT12A,"Real GVA - Textiles, Apparel and Leather Products (2011-12 series)"
+NAGDRETHTC12A,"Real GVA - Trade, Hotels, Transport, Communication (2011-12 series)"
+NAGDRETRAD05A,Real GVA - Trade (2004-05 series)
+NAGDRETRAD12A,Real GVA - Trade & Repair Services (2011-12 series)
+NAGDRETRCO05A,"Real GVA - Transport, Storage and Communication (2004-05 series)"
+NAGDRETRCO12A,"Real GVA - Transport, Storage, Communication and Broadcasting (2011-12 series)"
+NAGDRETRHO05A,"Real GVA - Trade, Hotels and Restaurant (2004-05 series)"
+NAGDRETRHO12A,"Real GVA - Trade, repair, hotels and restaurants (2011-12 series)"
+NAGDRETRSV12A,Real GVA - Services Incidental to Transport (2011-12 series)
+NAGDREURMF05A,Real GVA - Unregistered Manufacturing (2004-05 series)
+NAGDREUTIL05A,"Real GVA - Electricity, Gas and Other Utilities (2004-05 series)"
+NAGDREUTIL12A,"Real GVA - Electricity, Gas and Other Utilities (2011-12 series)"
+NAGDREWATR12A,Real GVA - Water transport (2011-12 series)
+NAGDRFPGVA00Q,"Real GVA - Financial, Real Estate & Professional Services (1999-2000 Series, Quarterly)"
+NAGDRFPGVA05Q,"Real GVA - Financial, Real Estate & Professional Services (2004-05 Series, Quarterly)"
+NAGDRFPGVA12Q,"Real GVA - Financial, Real Estate & Professional Services (2011-12 Series, Quarterly)"
+NAGDRGDPXD00Q,"Real GDP excluding Government Consumption (1999-2000 Series, Quarterly)"
+NAGDRGDPXD05Q,"Real GDP excluding Government Consumption (2004-05 Series, Quarterly)"
+NAGDRGDPXD12Q,"Real GDP excluding Government Consumption (2011-12 Series, Quarterly)"
+NAGDRGDPXG00Q,"Real GDP excluding Statistical discrepancies (1999-2000 Series, Quarterly)"
+NAGDRGDPXG05Q,"Real GDP excluding Statistical discrepancies (2004-05 Series, Quarterly)"
+NAGDRGPXGC05A,Real GDP excluding Government Final Consumption (2004-05 Series)
+NAGDRGPXGC12A,Real GDP excluding Government Final Consumption (2011-12 Series)
+NAGDRGPXSD05A,Real GDP excluding Statistical Discrepancies (2004-05 Series)
+NAGDRGPXSD12A,Real GDP excluding Statistical Discrepancies (2011-12 Series)
+NAGDRGVAXA00Q,"Real GVA - Excluding Agriculture and Allied Activities (1999-2000 Series, Quarterly)"
+NAGDRGVAXA05Q,"Real GVA - Excluding Agriculture and Allied Activities (2004-05 Series, Quarterly)"
+NAGDRGVAXA12Q,"Real GVA - Excluding Agriculture and Allied Activities (2011-12 Series, Quarterly)"
+NAGDRINGVA00A,Real GVA - Industry (1999-2000 Series)
+NAGDRINGVA00Q,"Real GVA - Industry (1999-2000 Series, Quarterly)"
+NAGDRINGVA05A,Real GVA - Industry (2004-05 Series)
+NAGDRINGVA05Q,"Real GVA - Industry (2004-05 Series, Quarterly)"
+NAGDRINGVA12A,Real GVA - Industry (2011-12 Series)
+NAGDRINGVA12Q,"Real GVA - Industry (2011-12 Series, Quarterly)"
+NAGDRINGVA94A,Real GVA - Industry (1993-94 Series)
+NAGDRMAGVA00Q,"Real GVA - Manufacturing (1999-2000 Series, Quarterly)"
+NAGDRMAGVA05Q,"Real GVA - Manufacturing (2004-05 Series, Quarterly)"
+NAGDRMAGVA12Q,"Real GVA - Manufacturing (2011-12 Series, Quarterly)"
+NAGDRMIGVA00Q,"Real GVA - Mining and Quarrying (1999-2000 Series, Quarterly)"
+NAGDRMIGVA05Q,"Real GVA - Mining and Quarrying (2004-05 Series, Quarterly)"
+NAGDRMIGVA12Q,"Real GVA - Mining and Quarrying (2011-12 Series, Quarterly)"
+NAGDRPAGVA00Q,"Real GVA - Public Administration, Defence & Other Services (1999-2000 Series, Quarterly)"
+NAGDRPAGVA05Q,"Real GVA - Public Administration, Defence & Other Services (2004-05 Series, Quarterly)"
+NAGDRPAGVA12Q,"Real GVA - Public Administration, Defence & Other Services (2011-12 Series, Quarterly)"
+NAGDRPCGDP05A,Per Capita Real GDP (2004-05 Series)
+NAGDRPCGDP12A,Per Capita Real GDP (2011-12 Series)
+NAGDRPCGVA99A,Per Capita Real Gross Value Added (GVA) (Blended series)
+NAGDRPCPCE12A,Per Capita Real PFCE (2011-12 series)
+NAGDRSCIIA00Q,"Real Change in Inventories (1999-2000 Series, Quarterly)"
+NAGDRSCIIA05A,Real Change in Inventories (2004-05 Series)
+NAGDRSCIIA05Q,"Real Change in Inventories (2004-05 Series, Quarterly)"
+NAGDRSCIIA12A,Real Change in Inventories (2011-12 Series)
+NAGDRSCIIA12Q,"Real Change in Inventories (2011-12 Series, Quarterly)"
+NAGDRSCIVA00Q,"Real Change in Valuables (1999-2000 Series, Quarterly)"
+NAGDRSCIVA05A,Real Change in Valuables (2004-05 Series)
+NAGDRSCIVA05Q,"Real Change in Valuables (2004-05 Series, Quarterly)"
+NAGDRSCIVA12A,Real Change in Valuables (2011-12 Series)
+NAGDRSCIVA12Q,"Real Change in Valuables (2011-12 Series, Quarterly)"
+NAGDRSGCFA00Q,"Real Gross Capital Formation (1999-2000 Series, Quarterly)"
+NAGDRSGCFA05A,Real Gross Capital Formation (2004-05 Series)
+NAGDRSGCFA05Q,"Real Gross Capital Formation (2004-05 Series, Quarterly)"
+NAGDRSGCFA12A,Real Gross Capital Formation (2011-12 Series)
+NAGDRSGCFA12Q,"Real Gross Capital Formation (2011-12 Series, Quarterly)"
+NAGDRSGFCE00Q,"Real Government Final Consumption Expenditure (1999-2000 Series, Quarterly)"
+NAGDRSGFCE05A,Real Government Final Consumption Expenditure (2004-05 Series)
+NAGDRSGFCE05Q,"Real Government Final Consumption Expenditure (2004-05 Series, Quarterly)"
+NAGDRSGFCE12A,Real Government Final Consumption Expenditure (2011-12 Series)
+NAGDRSGFCE12Q,"Real Government Final Consumption Expenditure (2011-12 Series, Quarterly)"
+NAGDRSGFCF00Q,"Real Gross Fixed Capital Formation (1999-2000 Series, Quarterly)"
+NAGDRSGFCF05A,Real Gross Fixed Capital Formation (2004-05 Series)
+NAGDRSGFCF05Q,"Real Gross Fixed Capital Formation (2004-05 Series, Quarterly)"
+NAGDRSGFCF12A,Real Gross Fixed Capital Formation (2011-12 Series)
+NAGDRSGFCF12Q,"Real Gross Fixed Capital Formation (2011-12 Series, Quarterly)"
+NAGDRSIGAS00Q,"Real Imports of Goods and Services (1999-2000 Series, Quarterly)"
+NAGDRSIGAS05A,Real Imports of Goods and Services (2004-05 Series)
+NAGDRSIGAS05Q,"Real Imports of Goods and Services (2004-05 Series, Quarterly)"
+NAGDRSIGAS12A,Real Imports of Goods and Services (2011-12 Series)
+NAGDRSIGAS12Q,"Real Imports of Goods and Services (2011-12 Series, Quarterly)"
+NAGDRSNXGS00Q,"Real Net Exports of Goods and Services (1999-2000 Series, Quarterly)"
+NAGDRSNXGS05A,Real Net Exports of Goods and Services (2004-05 Series)
+NAGDRSNXGS12A,Real Net Exports of Goods and Services (2011-12 Series)
+NAGDRSNXGS12Q,"Real Net Exports of Goods and Services (2011-12 Series, Quarterly)"
+NAGDRSPFCE00Q,"Real Private Final Consumption Expenditure (1999-2000 Series, Quarterly)"
+NAGDRSPFCE05A,Real Private Final Consumption Expenditure (2004-05 Series)
+NAGDRSPFCE05Q,"Real Private Final Consumption Expenditure (2004-05 Series, Quarterly)"
+NAGDRSPFCE12A,Real Private Final Consumption Expenditure (2011-12 Series)
+NAGDRSPFCE12Q,"Real Private Final Consumption Expenditure (2011-12 Series, Quarterly)"
+NAGDRSSTDS00Q,"Real Statistical Discrepancies (1999-2000 Series, Quarterly)"
+NAGDRSSTDS05A,Real Statistical Discrepancies (2004-05 Series)
+NAGDRSSTDS05Q,"Real Statistical Discrepancies (2004-05 Series, Quarterly)"
+NAGDRSSTDS12A,Real Statistical Discrepancies (2011-12 Series)
+NAGDRSSTDS12Q,"Real Statistical Discrepancies (2011-12 Series, Quarterly)"
+NAGDRSVGVA00A,Real GVA - Services (1999-2000 Series)
+NAGDRSVGVA00Q,"Real GVA - Services (1999-2000 Series, Quarterly)"
+NAGDRSVGVA05A,Real GVA - Services (2004-05 Series)
+NAGDRSVGVA05Q,"Real GVA - Services (2004-05 Series, Quarterly)"
+NAGDRSVGVA12A,Real GVA - Services (2011-12 Series)
+NAGDRSVGVA12Q,"Real GVA - Services (2011-12 Series, Quarterly)"
+NAGDRSVGVA94A,Real GVA - Services (1993-94 Series)
+NAGDRSXGAS00Q,"Real Exports of Goods and Services (1999-2000 Series, Quarterly)"
+NAGDRSXGAS05A,Real Exports of Goods and Services (2004-05 Series)
+NAGDRSXGAS05Q,"Real Exports of Goods and Services (2004-05 Series, Quarterly)"
+NAGDRSXGAS12A,Real Exports of Goods and Services (2011-12 Series)
+NAGDRSXGAS12Q,"Real Exports of Goods and Services (2011-12 Series, Quarterly)"
+NAGDRTTGVA00Q,"Real GVA - Trade, Transport, Hotels, Communication & Broadcasting Services (1999-2000 Series, Quarterly)"
+NAGDRTTGVA05Q,"Real GVA - Trade, Transport, Hotels, Communication & Broadcasting Services (2004-05 Series, Quarterly)"
+NAGDRTTGVA12Q,"Real GVA - Trade, Transport, Hotels, Communication & Broadcasting Services (2011-12 Series, Quarterly)"
+NAGDRUTGVA00Q,"Real GVA - Electricity, Gas, Water & Other Utilities (1999-2000 Series, Quarterly)"
+NAGDRUTGVA05Q,"Real GVA - Electricity, Gas, Water & Other Utilities (2004-05 Series, Quarterly)"
+NAGDRUTGVA12Q,"Real GVA - Electricity, Gas, Water & Other Utilities (2011-12 Series, Quarterly)"
+NOMGDPBRTOGLA,Nominal GDP (Annual) - Brazil
+NOMGDPCHTOGLA,Nominal GDP (Annual) - China
+NOMGDPFRTOGLA,Nominal GDP (Annual) - France
+NOMGDPGETOGLA,Nominal GDP (Annual) - Germany
+NOMGDPIDTOGLA,Nominal GDP (Annual) - Indonesia
+NOMGDPJPTOGLA,Nominal GDP (Annual) - Japan
+NOMGDPMXTOGLA,Nominal GDP (Annual) - Mexico
+NOMGDPPHTOGLA,Nominal GDP (Annual) - Philippines
+NOMGDPPLTOGLA,Nominal GDP (Annual) - Poland
+NOMGDPRUTOGLA,Nominal GDP (Annual) - Russia
+NOMGDPSATOGLA,Nominal GDP (Annual) - South Africa
+NOMGDPSKTOGLA,Nominal GDP (Annual) - South Korea
+NOMGDPTHTOGLA,Nominal GDP (Annual) - Thailand
+NOMGDPTRTOGLA,Nominal GDP (Annual) - Türkiye
+NOMGDPUKTOGLA,Nominal GDP (Annual) - United Kingdom
+NOMGDPUSTOGLA,Nominal GDP (Annual) - United States
+NONFPUSNETGLM,"US Non Farm Payroll (monthly change, SA)"
+NAGDRSNXGS05Q,"Real Net Exports of Goods and Services (2004-05 Series, Quarterly)"
+NOMGDPITTOGLA,Nominal GDP (Annual) - Italy
+NONFPUSTOTGLM,"US Non Farm Payroll (total, SA)"
+RBPFSVGDCY11M,Consensus GDP Growth for the Current Year
+RBPFSVGDNY11M,Consensus GDP Growth for the Next Year
+RBPFSVGVCY11M,Consensus GVA Growth for the Current Year
+RBPFSVGVNY11M,Consensus GVA Growth for the Next Year
+REAGDPBRTOGLQ,Real GDP - Brazil
+REAGDPCHTOGLQ,Real GDP - China
+REAGDPEUTOGLQ,Real GDP - Euro Area
+REAGDPFRTOGLQ,Real GDP - France
+REAGDPGETOGLQ,Real GDP - Germany
+REAGDPIDTOGLQ,Real GDP - Indonesia
+REAGDPITTOGLQ,Real GDP - Italy
+REAGDPJPTOGLQ,Real GDP - Japan
+REAGDPMXTOGLQ,Real GDP - Mexico
+REAGDPPHTOGLQ,Real GDP - Philippines
+REAGDPSKTOGLQ,Real GDP - South Korea
+REAGDPTHTOGLQ,Real GDP - Thailand
+REAGDPTRTOGLQ,Real GDP - Turkiye
+REAGDPUKTOGLQ,Real GDP - UK
+REAGDPUSTOGLQ,Real GDP - USA
+REGDPPLPERGLQ,Real GDP Growth (YoY%) - Poland
+SSDGBIRTHR11A,Birth Rate (Annual)
+SSDGDEATHR11A,Death Rate (Annual)
+SSDGLITRAT11X,Literacy Rate
+SSDGMYEPOP11A,Mid-Year Estimated Population
+SSDGPOPDEN11X,Population Density
+SSDGPRMDAG11Q,Projected Median Age of Population
+SSDGPSHURT11A,Projected share of Urban Population
+SSDGPTTAPP11A,Projected Annual Population
+SSDGPTTFPP11A,Projected Annual Population (Female)
+SSDGPTTMPP11A,Projected Annual Population (Male)
+SSDGPURAPP11A,Projected Annual Urban Population
+SSDGPURFPP11A,Projected Annual Urban Population (Female)
+SSDGPURMPP11A,Projected Annual Urban Population (Male)
+SSDGRURPOP11X,Total Rural Population
+SSDGSEXRTO11X,Sex Ratio
+SSDGSXRTBR11A,Sex Ratio at Birth (Annual)
+SSDGTFRATE11A,Total Fertility Rate (Annual)
+SSDGTOTPOP11X,Total Population
+SSDGURBPOP11X,Total Urban Population
+SSEDCOLTOT11A,Number of Colleges in India
+SSEDENAGOV11A,Percentage of children enrolled in Government schools
+SSEDENALEA11A,Percentage of enrolled children able to identify less than 4 out of 5 letters correctly
+SSEDENALEB11A,Percentage of enrolled children able to identify 4 out of 5 letters
+SSEDENALEC11A,Percentage of enrolled children able to read 4 out of 5 words
+SSEDENALED11A,Percentage of enrolled children able to read a short paragraph (class I text)
+SSEDENANES11A,Percentage of children not enrolled in schools
+SSEDENANGP11A,Percentage of children enrolled in non-Government non-Private schools
+SSEDENAPVT11A,Percentage of children enrolled in Private schools
+SSEDENBGOV11A,Percentage of boys enrolled in Government schools
+SSEDENBLEA11A,Percentage of enrolled boys able to identify less than 4 out of 5 letters correctly
+SSEDENBLEB11A,Percentage of enrolled boys able to identify 4 out of 5 letters
+SSEDENBLEC11A,Percentage of enrolled boys able to read 4 out of 5 words
+SSEDENBLED11A,Percentage of enrolled boys able to read a short paragraph (class I text)
+SSEDENBLEE11A,Percentage of enrolled boys able to read a longer paragraph (class II text)
+SSEDENBNES11A,Percentage of boys not enrolled in schools
+SSEDENBNGP11A,Percentage of boys enrolled in non-Government non-Private schools
+SSEDENBPVT11A,Percentage of boys enrolled in Private schools
+SSEDENGGOV11A,Percentage of girls enrolled in Government schools
+SSEDENGLEA11A,Percentage of enrolled girls able to identify less than 4 out of 5 letters correctly
+SSEDENGLEB11A,Percentage of enrolled girls able to identify 4 out of 5 letters
+SSEDENGLEC11A,Percentage of enrolled girls able to read 4 out of 5 words
+SSEDENGLED11A,Percentage of enrolled girls able to read a short paragraph (class I text)
+SSEDENGNES11A,Percentage of girls not enrolled in schools
+SSEDENGNGP11A,Percentage of girls enrolled in non-Government non-Private schools
+SSEDENGPVT11A,Percentage of girls enrolled in Private schools
+SSEDERRTFM11A,Gross Enrolment Ratio in Higher Education - Female
+SSEDERRTML11A,Gross Enrolment Ratio in Higher Education - Male
+SSEDERRTOT11A,Gross Enrolment Ratio in Higher Education
+SSEDERRTSF11A,Gross Enrolment Ratio in Higher Education (SC Category) - Female
+SSEDERRTST11A,Gross Enrolment Ratio in Higher Education (SC Category)
+SSEDERRTTF11A,Gross Enrolment Ratio in Higher Education (ST Category) - Female
+SSEDERRTTM11A,Gross Enrolment Ratio in Higher Education (ST Category) - Male
+SSEDERRTTT11A,Gross Enrolment Ratio in Higher Education (ST Category)
+NAGDRGDPXG12Q,"Real GDP excluding Statistical discrepancies (2011-12 Series, Quarterly)"
+NOMGDPINTOGLA,Nominal GDP (Annual) - India
+REAGDPSATOGLQ,Real GDP - South Africa
+SSEDENGLEE11A,Percentage of enrolled girls able to read a longer paragraph (class II text)
+SSEDERRTSM11A,Gross Enrolment Ratio in Higher Education (SC Category) - Male
+SSEDHADFCE11A,Total Enrolment in Deemed University - Government Aided - Certificate Courses (Female)
+SSEDHADFDE11A,Total Enrolment in Deemed University - Government Aided - Post Graduate Diploma Courses (Female)
+SSEDHADFGE11A,Total Enrolment in Deemed University - Government Aided - Post Graduate Courses (Female)
+SSEDHADFIE11A,Total Enrolment in Deemed University - Government Aided - Integrated Courses (Female)
+SSEDHADFLE11A,Total Enrolment in Deemed University - Government Aided - Diploma Courses (Female)
+SSEDHADFME11A,Total Enrolment in Deemed University - Government Aided - MPhil Course (Female)
+SSEDHADFPE11A,Total Enrolment in Deemed University - Government Aided - PhD Course (Female)
+SSEDHADFTE11A,Total Enrolment in Deemed University - Government Aided (Female)
+SSEDHADFUE11A,Total Enrolment in Deemed University - Government Aided - Under Graduate Courses (Female)
+SSEDHADMCE11A,Total Enrolment in Deemed University - Government Aided - Certificate Courses (Male)
+SSEDHADMGE11A,Total Enrolment in Deemed University - Government Aided - Post Graduate Courses (Male)
+SSEDHADMIE11A,Total Enrolment in Deemed University - Government Aided - Integrated Courses (Male)
+SSEDHADMLE11A,Total Enrolment in Deemed University - Government Aided - Diploma Courses (Male)
+SSEDHADMME11A,Total Enrolment in Deemed University - Government Aided - MPhil Course (Male)
+SSEDHADMPE11A,Total Enrolment in Deemed University - Government Aided - PhD Course (Male)
+SSEDHADMTE11A,Total Enrolment in Deemed University - Government Aided (Male)
+SSEDHADMUE11A,Total Enrolment in Deemed University - Government Aided - Under Graduate Courses (Male)
+SSEDHADTCE11A,Total Enrolment in Deemed University - Government Aided - Certificate Courses
+SSEDHADTDE11A,Total Enrolment in Deemed University - Government Aided - Post Graduate Diploma Courses
+SSEDHADTGE11A,Total Enrolment in Deemed University - Government Aided - Post Graduate Courses
+SSEDHADTIE11A,Total Enrolment in Deemed University - Government Aided - Integrated Courses
+SSEDHADTLE11A,Total Enrolment in Deemed University - Government Aided - Diploma Courses
+SSEDHADTME11A,Total Enrolment in Deemed University - Government Aided - MPhil Course
+SSEDHADTPE11A,Total Enrolment in Deemed University - Government Aided - PhD Course
+SSEDHADTTE11A,Total Enrolment in Deemed University - Government Aided
+SSEDHADTUE11A,Total Enrolment in Deemed University - Government Aided - Under Graduate Courses
+SSEDHAUFCE11A,Total Enrolment in All Universities - Certificate Courses (Female)
+SSEDHAUFDE11A,Total Enrolment in All Universities - Post Graduate Diploma Courses (Female)
+SSEDHAUFGE11A,Total Enrolment in All Universities - Post Graduate Courses (Female)
+SSEDHAUFLE11A,Total Enrolment in All Universities - Diploma Courses (Female)
+SSEDHAUFME11A,Total Enrolment in All Universities - MPhil Course (Female)
+SSEDHAUFPE11A,Total Enrolment in All Universities - PhD Course (Female)
+SSEDHAUFTE11A,Total Enrolment in All Universities (Female)
+SSEDHAUFUE11A,Total Enrolment in All Universities - Under Graduate Courses (Female)
+SSEDHAUMCE11A,Total Enrolment in All Universities - Certificate Courses (Male)
+SSEDHAUMDE11A,Total Enrolment in All Universities - Post Graduate Diploma Courses (Male)
+SSEDHAUMGE11A,Total Enrolment in All Universities - Post Graduate Courses (Male)
+SSEDHAUMIE11A,Total Enrolment in All Universities - Integrated Courses (Male)
+SSEDHAUMLE11A,Total Enrolment in All Universities - Diploma Courses (Male)
+SSEDHAUMME11A,Total Enrolment in All Universities - MPhil Course (Male)
+SSEDHAUMPE11A,Total Enrolment in All Universities - PhD Course (Male)
+SSEDHAUMTE11A,Total Enrolment in All Universities (Male)
+SSEDHAUMUE11A,Total Enrolment in All Universities - Under Graduate Courses (Male)
+SSEDHAUTCE11A,Total Enrolment in All Universities - Certificate Courses
+SSEDHAUTDE11A,Total Enrolment in All Universities - Post Graduate Diploma Courses
+SSEDHAUTGE11A,Total Enrolment in All Universities - Post Graduate Courses
+SSEDHAUTIE11A,Total Enrolment in All Universities - Integrated Courses
+SSEDHAUTLE11A,Total Enrolment in All Universities - Diploma Courses
+SSEDHAUTME11A,Total Enrolment in All Universities - MPhil Course
+SSEDHAUTPE11A,Total Enrolment in All Universities - PhD Course
+SSEDHAUTTE11A,Total Enrolment in All Universities
+SSEDHAUTUE11A,Total Enrolment in All Universities - Under Graduate Courses
+SSEDHCOFCE11A,Total Enrolment in Central Open Universities - Certificate Courses (Female)
+SSEDHCOFDE11A,Total Enrolment in Central Open Universities - Post Graduate Diploma Courses (Female)
+SSEDHCOFGE11A,Total Enrolment in Central Open Universities - Post Graduate Courses (Female)
+SSEDHCOFIE11A,Total Enrolment in Central Open Universities - Integrated Courses (Female)
+SSEDHCOFLE11A,Total Enrolment in Central Open Universities - Diploma Courses (Female)
+SSEDHCOFME11A,Total Enrolment in Central Open Universities - MPhil Course (Female)
+SSEDHCOFPE11A,Total Enrolment in Central Open Universities - PhD Course (Female)
+SSEDHCOFTE11A,Total Enrolment in Central Open Universities (Female)
+SSEDHCOFUE11A,Total Enrolment in Central Open Universities - Under Graduate Courses (Female)
+SSEDHCOMCE11A,Total Enrolment in Central Open Universities - Certificate Courses (Male)
+SSEDHCOMDE11A,Total Enrolment in Central Open Universities - Post Graduate Diploma Courses (Male)
+SSEDHCOMGE11A,Total Enrolment in Central Open Universities - Post Graduate Courses (Male)
+SSEDHCOMIE11A,Total Enrolment in Central Open Universities - Integrated Courses (Male)
+SSEDHCOMME11A,Total Enrolment in Central Open Universities - MPhil Course (Male)
+SSEDHCOMPE11A,Total Enrolment in Central Open Universities - PhD Course (Male)
+SSEDHCOMTE11A,Total Enrolment in Central Open Universities (Male)
+SSEDHCOMUE11A,Total Enrolment in Central Open Universities - Under Graduate Courses (Male)
+SSEDHCOTCE11A,Total Enrolment in Central Open Universities - Certificate Courses
+SSEDHCOTDE11A,Total Enrolment in Central Open Universities - Post Graduate Diploma Courses
+SSEDHCOTIE11A,Total Enrolment in Central Open Universities - Integrated Courses
+SSEDHCOTLE11A,Total Enrolment in Central Open Universities - Diploma Courses
+SSEDENALEE11A,Percentage of enrolled children able to read a longer paragraph (class II text)
+SSEDHADMDE11A,Total Enrolment in Deemed University - Government Aided - Post Graduate Diploma Courses (Male)
+SSEDHAUFIE11A,Total Enrolment in All Universities - Integrated Courses (Female)
+SSEDHCOMLE11A,Total Enrolment in Central Open Universities - Diploma Courses (Male)
+SSEDHCOTME11A,Total Enrolment in Central Open Universities - MPhil Course
+SSEDHCOTPE11A,Total Enrolment in Central Open Universities - PhD Course
+SSEDHCOTTE11A,Total Enrolment in Central Open Universities
+SSEDHCOTUE11A,Total Enrolment in Central Open Universities - Under Graduate Courses
+SSEDHCUFCE11A,Total Enrolment in Central Universities - Certificate Courses (Female)
+SSEDHCUFDE11A,Total Enrolment in Central Universities - Post Graduate Diploma Courses (Female)
+SSEDHCUFGE11A,Total Enrolment in Central Universities - Post Graduate Courses (Female)
+SSEDHCUFIE11A,Total Enrolment in Central Universities - Integrated Courses (Female)
+SSEDHCUFLE11A,Total Enrolment in Central Universities - Diploma Courses (Female)
+SSEDHCUFME11A,Total Enrolment in Central Universities - MPhil Course (Female)
+SSEDHCUFPE11A,Total Enrolment in Central Universities - PhD Course (Female)
+SSEDHCUFTE11A,Total Enrolment in Central Universities (Female)
+SSEDHCUFUE11A,Total Enrolment in Central Universities - Under Graduate Courses (Female)
+SSEDHCUMCE11A,Total Enrolment in Central Universities - Certificate Courses (Male)
+SSEDHCUMDE11A,Total Enrolment in Central Universities - Post Graduate Diploma Courses (Male)
+SSEDHCUMGE11A,Total Enrolment in Central Universities - Post Graduate Courses (Male)
+SSEDHCUMIE11A,Total Enrolment in Central Universities - Integrated Courses (Male)
+SSEDHCUMLE11A,Total Enrolment in Central Universities - Diploma Courses (Male)
+SSEDHCUMME11A,Total Enrolment in Central Universities - MPhil Course (Male)
+SSEDHCUMPE11A,Total Enrolment in Central Universities - PhD Course (Male)
+SSEDHCUMTE11A,Total Enrolment in Central Universities (Male)
+SSEDHCUMUE11A,Total Enrolment in Central Universities - Under Graduate Courses (Male)
+SSEDHCUTCE11A,Total Enrolment in Central Universities - Certificate Courses
+SSEDHCUTDE11A,Total Enrolment in Central Universities - Post Graduate Diploma Courses
+SSEDHCUTGE11A,Total Enrolment in Central Universities - Post Graduate Courses
+SSEDHCUTIE11A,Total Enrolment in Central Universities - Integrated Courses
+SSEDHCUTLE11A,Total Enrolment in Central Universities - Diploma Courses
+SSEDHCUTME11A,Total Enrolment in Central Universities - MPhil Course
+SSEDHCUTPE11A,Total Enrolment in Central Universities - PhD Course
+SSEDHCUTTE11A,Total Enrolment in Central Universities
+SSEDHCUTUE11A,Total Enrolment in Central Universities - Under Graduate Courses
+SSEDHDUFCE11A,Total Enrolment in Deemed University - Government - Certificate Courses (Female)
+SSEDHDUFDE11A,Total Enrolment in Deemed University - Government - Post Graduate Diploma Courses (Female)
+SSEDHDUFGE11A,Total Enrolment in Deemed University - Government - Post Graduate Courses (Female)
+SSEDHDUFIE11A,Total Enrolment in Deemed University - Government - Integrated Courses (Female)
+SSEDHDUFLE11A,Total Enrolment in Deemed University - Government - Diploma Courses (Female)
+SSEDHDUFME11A,Total Enrolment in Deemed University - Government - MPhil Course (Female)
+SSEDHDUFPE11A,Total Enrolment in Deemed University - Government - PhD Course (Female)
+SSEDHDUFTE11A,Total Enrolment in Deemed University - Government (Female)
+SSEDHDUFUE11A,Total Enrolment in Deemed University - Government - Under Graduate Courses (Female)
+SSEDHDUMCE11A,Total Enrolment in Deemed University - Government - Certificate Courses (Male)
+SSEDHDUMDE11A,Total Enrolment in Deemed University - Government - Post Graduate Diploma Courses (Male)
+SSEDHDUMGE11A,Total Enrolment in Deemed University - Government - Post Graduate Courses (Male)
+SSEDHDUMIE11A,Total Enrolment in Deemed University - Government - Integrated Courses (Male)
+SSEDHDUMLE11A,Total Enrolment in Deemed University - Government - Diploma Courses (Male)
+SSEDHDUMME11A,Total Enrolment in Deemed University - Government - MPhil Course (Male)
+SSEDHDUMPE11A,Total Enrolment in Deemed University - Government - PhD Course (Male)
+SSEDHDUMTE11A,Total Enrolment in Deemed University - Government (Male)
+SSEDHDUMUE11A,Total Enrolment in Deemed University - Government - Under Graduate Courses (Male)
+SSEDHDUTCE11A,Total Enrolment in Deemed University - Government - Certificate Courses
+SSEDHDUTDE11A,Total Enrolment in Deemed University - Government - Post Graduate Diploma Courses
+SSEDHDUTGE11A,Total Enrolment in Deemed University - Government - Post Graduate Courses
+SSEDHDUTIE11A,Total Enrolment in Deemed University - Government - Integrated Courses
+SSEDHDUTLE11A,Total Enrolment in Deemed University - Government - Diploma Courses
+SSEDHDUTME11A,Total Enrolment in Deemed University - Government - MPhil Course
+SSEDHDUTPE11A,Total Enrolment in Deemed University - Government - PhD Course
+SSEDHDUTTE11A,Total Enrolment in Deemed University - Government
+SSEDHDUTUE11A,Total Enrolment in Deemed University - Government - Under Graduate Courses
+SSEDHEDAEC11A,Average Enrolment per College
+SSEDHEDCPL11A,Number of Colleges per 100k population
+SSEDHEEFCT11A,Estimated Enrolment of Students in Higher Education in Certificate Courses - Female
+SSEDHEEFDP11A,Estimated Enrolment of Students in Higher Education in Diploma Courses - Female
+SSEDHEEFIG11A,Estimated Enrolment of Students in Higher Education in Integrated Course Courses - Female
+SSEDHEEFMP11A,Estimated Enrolment of Students in Higher Education in M Phil Courses - Female
+SSEDHEEFPD11A,Estimated Enrolment of Students in Higher Education in Post Graduate Diploma Courses - Female
+SSEDHEEFPG11A,Estimated Enrolment of Students in Higher Education in Post Graduate Courses - Female
+SSEDHEEFPH11A,Estimated Enrolment of Students in Higher Education in PhD Courses - Female
+SSEDHEEFTT11A,Estimated Enrolment of Students in Higher Education - Female
+SSEDHEEFUG11A,Estimated Enrolment of Students in Higher Education in Under Graduate Courses - Female
+SSEDHEEMCT11A,Estimated Enrolment of Students in Higher Education in Certificate Courses - Male
+SSEDHEEMDP11A,Estimated Enrolment of Students in Higher Education in Diploma Courses - Male
+SSEDHEEMIG11A,Estimated Enrolment of Students in Higher Education in Integrated Course Courses - Male
+SSEDHEEMMP11A,Estimated Enrolment of Students in Higher Education in M Phil Courses - Male
+SSEDHEEMPD11A,Estimated Enrolment of Students in Higher Education in Post Graduate Diploma Courses - Male
+SSEDHEEMPG11A,Estimated Enrolment of Students in Higher Education in Post Graduate Courses - Male
+SSEDHEEMPH11A,Estimated Enrolment of Students in Higher Education in PhD Courses - Male
+SSEDHEEMTT11A,Estimated Enrolment of Students in Higher Education - Male
+SSEDHEEMUG11A,Estimated Enrolment of Students in Higher Education in Under Graduate Courses - Male
+SSEDHEETIG11A,Estimated Enrolment of Students in Higher Education in Integrated Course Courses
+SSEDHEETMP11A,Estimated Enrolment of Students in Higher Education in M Phil Courses
+SSEDHEETPG11A,Estimated Enrolment of Students in Higher Education in Post Graduate Courses
+SSEDHEETPH11A,Estimated Enrolment of Students in Higher Education in PhD Courses
+SSEDHEETTT11A,Estimated Enrolment of Students in Higher Education
+SSEDHEETUG11A,Estimated Enrolment of Students in Higher Education in Under Graduate Courses
+SSEDHNIFCE11A,Total Enrolment in Institutes of National Importance - Certificate Courses (Female)
+SSEDHNIFDE11A,Total Enrolment in Institutes of National Importance - Post Graduate Diploma Courses (Female)
+SSEDHNIFGE11A,Total Enrolment in Institutes of National Importance - Post Graduate Courses (Female)
+SSEDHNIFIE11A,Total Enrolment in Institutes of National Importance - Integrated Courses (Female)
+SSEDHNIFLE11A,Total Enrolment in Institutes of National Importance - Diploma Courses (Female)
+SSEDHNIFME11A,Total Enrolment in Institutes of National Importance - MPhil Course (Female)
+SSEDHNIFPE11A,Total Enrolment in Institutes of National Importance - PhD Course (Female)
+SSEDHNIFUE11A,Total Enrolment in Institutes of National Importance - Under Graduate Courses (Female)
+SSEDHNIMCE11A,Total Enrolment in Institutes of National Importance - Certificate Courses (Male)
+SSEDHNIMDE11A,Total Enrolment in Institutes of National Importance - Post Graduate Diploma Courses (Male)
+SSEDHNIMGE11A,Total Enrolment in Institutes of National Importance - Post Graduate Courses (Male)
+SSEDHNIMIE11A,Total Enrolment in Institutes of National Importance - Integrated Courses (Male)
+SSEDHNIMME11A,Total Enrolment in Institutes of National Importance - MPhil Course (Male)
+SSEDHCOTGE11A,Total Enrolment in Central Open Universities - Post Graduate Courses
+SSEDHNIFTE11A,Total Enrolment in Institutes of National Importance (Female)
+SSEDHNIMLE11A,Total Enrolment in Institutes of National Importance - Diploma Courses (Male)
+SSEDHNIMPE11A,Total Enrolment in Institutes of National Importance - PhD Course (Male)
+SSEDHNIMTE11A,Total Enrolment in Institutes of National Importance (Male)
+SSEDHNIMUE11A,Total Enrolment in Institutes of National Importance - Under Graduate Courses (Male)
+SSEDHNITCE11A,Total Enrolment in Institutes of National Importance - Certificate Courses
+SSEDHNITDE11A,Total Enrolment in Institutes of National Importance - Post Graduate Diploma Courses
+SSEDHNITGE11A,Total Enrolment in Institutes of National Importance - Post Graduate Courses
+SSEDHNITIE11A,Total Enrolment in Institutes of National Importance - Integrated Courses
+SSEDHNITLE11A,Total Enrolment in Institutes of National Importance - Diploma Courses
+SSEDHNITME11A,Total Enrolment in Institutes of National Importance - MPhil Course
+SSEDHNITPE11A,Total Enrolment in Institutes of National Importance - PhD Course
+SSEDHNITTE11A,Total Enrolment in Institutes of National Importance
+SSEDHNITUE11A,Total Enrolment in Institutes of National Importance - Under Graduate Courses
+SSEDHPOFCE11A,Total Enrolment in State Private Open University - Certificate Courses (Female)
+SSEDHPOFDE11A,Total Enrolment in State Private Open University - Post Graduate Diploma Courses (Female)
+SSEDHPOFGE11A,Total Enrolment in State Private Open University - Post Graduate Courses (Female)
+SSEDHPOFIE11A,Total Enrolment in State Private Open University - Integrated Courses (Female)
+SSEDHPOFLE11A,Total Enrolment in State Private Open University - Diploma Courses (Female)
+SSEDHPOFME11A,Total Enrolment in State Private Open University - MPhil Course (Female)
+SSEDHPOFPE11A,Total Enrolment in State Private Open University - PhD Course (Female)
+SSEDHPOFTE11A,Total Enrolment in State Private Open University (Female)
+SSEDHPOFUE11A,Total Enrolment in State Private Open University - Under Graduate Courses (Female)
+SSEDHPOMCE11A,Total Enrolment in State Private Open University - Certificate Courses (Male)
+SSEDHPOMDE11A,Total Enrolment in State Private Open University - Post Graduate Diploma Courses (Male)
+SSEDHPOMGE11A,Total Enrolment in State Private Open University - Post Graduate Courses (Male)
+SSEDHPOMIE11A,Total Enrolment in State Private Open University - Integrated Courses (Male)
+SSEDHPOMLE11A,Total Enrolment in State Private Open University - Diploma Courses (Male)
+SSEDHPOMME11A,Total Enrolment in State Private Open University - MPhil Course (Male)
+SSEDHPOMPE11A,Total Enrolment in State Private Open University - PhD Course (Male)
+SSEDHPOMTE11A,Total Enrolment in State Private Open University (Male)
+SSEDHPOMUE11A,Total Enrolment in State Private Open University - Under Graduate Courses (Male)
+SSEDHPOTCE11A,Total Enrolment in State Private Open University - Certificate Courses
+SSEDHPOTDE11A,Total Enrolment in State Private Open University - Post Graduate Diploma Courses
+SSEDHPOTGE11A,Total Enrolment in State Private Open University - Post Graduate Courses
+SSEDHPOTIE11A,Total Enrolment in State Private Open University - Integrated Courses
+SSEDHPOTLE11A,Total Enrolment in State Private Open University - Diploma Courses
+SSEDHPOTME11A,Total Enrolment in State Private Open University - MPhil Course
+SSEDHPOTPE11A,Total Enrolment in State Private Open University - PhD Course
+SSEDHPOTTE11A,Total Enrolment in State Private Open University
+SSEDHPOTUE11A,Total Enrolment in State Private Open University - Under Graduate Courses
+SSEDHSLFCE11A,Total Enrolment in Institutes under State Legistrature Acts - Certificate Courses (Female)
+SSEDHSLFDE11A,Total Enrolment in Institutes under State Legistrature Acts - Post Graduate Diploma Courses (Female)
+SSEDHSLFGE11A,Total Enrolment in Institutes under State Legistrature Acts - Post Graduate Courses (Female)
+SSEDHSLFIE11A,Total Enrolment in Institutes under State Legistrature Acts - Integrated Courses (Female)
+SSEDHSLFLE11A,Total Enrolment in Institutes under State Legistrature Acts - Diploma Courses (Female)
+SSEDHSLFME11A,Total Enrolment in Institutes under State Legistrature Acts - MPhil Course (Female)
+SSEDHSLFPE11A,Total Enrolment in Institutes under State Legistrature Acts - PhD Course (Female)
+SSEDHSLFTE11A,Total Enrolment in Institutes under State Legistrature Acts (Female)
+SSEDHSLFUE11A,Total Enrolment in Institutes under State Legistrature Acts - Under Graduate Courses (Female)
+SSEDHSLMCE11A,Total Enrolment in Institutes under State Legistrature Acts - Certificate Courses (Male)
+SSEDHSLMDE11A,Total Enrolment in Institutes under State Legistrature Acts - Post Graduate Diploma Courses (Male)
+SSEDHSLMIE11A,Total Enrolment in Institutes under State Legistrature Acts - Integrated Courses (Male)
+SSEDHSLMLE11A,Total Enrolment in Institutes under State Legistrature Acts - Diploma Courses (Male)
+SSEDHSLMME11A,Total Enrolment in Institutes under State Legistrature Acts - MPhil Course (Male)
+SSEDHSLMPE11A,Total Enrolment in Institutes under State Legistrature Acts - PhD Course (Male)
+SSEDHSLMTE11A,Total Enrolment in Institutes under State Legistrature Acts (Male)
+SSEDHSLMUE11A,Total Enrolment in Institutes under State Legistrature Acts - Under Graduate Courses (Male)
+SSEDHSLTCE11A,Total Enrolment in Institutes under State Legistrature Acts - Certificate Courses
+SSEDHSLTGE11A,Total Enrolment in Institutes under State Legistrature Acts - Post Graduate Courses
+SSEDHSLTIE11A,Total Enrolment in Institutes under State Legistrature Acts - Integrated Courses
+SSEDHSLTLE11A,Total Enrolment in Institutes under State Legistrature Acts - Diploma Courses
+SSEDHSLTME11A,Total Enrolment in Institutes under State Legistrature Acts - MPhil Course
+SSEDHSLTPE11A,Total Enrolment in Institutes under State Legistrature Acts - PhD Course
+SSEDHSLTTE11A,Total Enrolment in Institutes under State Legistrature Acts
+SSEDHSLTUE11A,Total Enrolment in Institutes under State Legistrature Acts - Under Graduate Courses
+SSEDHSOFCE11A,Total Enrolment in State Open University - Certificate Courses (Female)
+SSEDHSOFDE11A,Total Enrolment in State Open University - Post Graduate Diploma Courses (Female)
+SSEDHSOFGE11A,Total Enrolment in State Open University - Post Graduate Courses (Female)
+SSEDHSOFIE11A,Total Enrolment in State Open University - Integrated Courses (Female)
+SSEDHSOFLE11A,Total Enrolment in State Open University - Diploma Courses (Female)
+SSEDHSOFME11A,Total Enrolment in State Open University - MPhil Course (Female)
+SSEDHSOFPE11A,Total Enrolment in State Open University - PhD Course (Female)
+SSEDHSOFTE11A,Total Enrolment in State Open University (Female)
+SSEDHSOFUE11A,Total Enrolment in State Open University - Under Graduate Courses (Female)
+SSEDHSOMCE11A,Total Enrolment in State Open University - Certificate Courses (Male)
+SSEDHSOMDE11A,Total Enrolment in State Open University - Post Graduate Diploma Courses (Male)
+SSEDHSOMGE11A,Total Enrolment in State Open University - Post Graduate Courses (Male)
+SSEDHSOMIE11A,Total Enrolment in State Open University - Integrated Courses (Male)
+SSEDHSOMLE11A,Total Enrolment in State Open University - Diploma Courses (Male)
+SSEDHSOMME11A,Total Enrolment in State Open University - MPhil Course (Male)
+SSEDHSOMPE11A,Total Enrolment in State Open University - PhD Course (Male)
+SSEDHSOMTE11A,Total Enrolment in State Open University (Male)
+SSEDHSOMUE11A,Total Enrolment in State Open University - Under Graduate Courses (Male)
+SSEDHSOTCE11A,Total Enrolment in State Open University - Certificate Courses
+SSEDHSOTDE11A,Total Enrolment in State Open University - Post Graduate Diploma Courses
+SSEDHSOTGE11A,Total Enrolment in State Open University - Post Graduate Courses
+SSEDHSOTIE11A,Total Enrolment in State Open University - Integrated Courses
+SSEDHSOTLE11A,Total Enrolment in State Open University - Diploma Courses
+SSEDHSOTME11A,Total Enrolment in State Open University - MPhil Course
+SSEDHSOTPE11A,Total Enrolment in State Open University - PhD Course
+SSEDHSOTTE11A,Total Enrolment in State Open University
+SSEDHSOTUE11A,Total Enrolment in State Open University - Under Graduate Courses
+SSEDHSPFCE11A,Total Enrolment in State Public University - Certificate Courses (Female)
+SSEDHSPFDE11A,Total Enrolment in State Public University - Post Graduate Diploma Courses (Female)
+SSEDHSPFGE11A,Total Enrolment in State Public University - Post Graduate Courses (Female)
+SSEDHSPFIE11A,Total Enrolment in State Public University - Integrated Courses (Female)
+SSEDHSPFLE11A,Total Enrolment in State Public University - Diploma Courses (Female)
+SSEDHSPFME11A,Total Enrolment in State Public University - MPhil Course (Female)
+SSEDHSPFPE11A,Total Enrolment in State Public University - PhD Course (Female)
+SSEDHSPFTE11A,Total Enrolment in State Public University (Female)
+SSEDHSPFUE11A,Total Enrolment in State Public University - Under Graduate Courses (Female)
+SSEDHSPMCE11A,Total Enrolment in State Public University - Certificate Courses (Male)
+SSEDHSPMDE11A,Total Enrolment in State Public University - Post Graduate Diploma Courses (Male)
+SSEDHSPMGE11A,Total Enrolment in State Public University - Post Graduate Courses (Male)
+SSEDHSPMIE11A,Total Enrolment in State Public University - Integrated Courses (Male)
+SSEDHSPMLE11A,Total Enrolment in State Public University - Diploma Courses (Male)
+SSEDHSPMME11A,Total Enrolment in State Public University - MPhil Course (Male)
+SSEDHSPMTE11A,Total Enrolment in State Public University (Male)
+SSEDHSPMUE11A,Total Enrolment in State Public University - Under Graduate Courses (Male)
+SSEDHSPTCE11A,Total Enrolment in State Public University - Certificate Courses
+SSEDHSPTDE11A,Total Enrolment in State Public University - Post Graduate Diploma Courses
+SSEDHSPTGE11A,Total Enrolment in State Public University - Post Graduate Courses
+SSEDHSPTLE11A,Total Enrolment in State Public University - Diploma Courses
+SSEDHSPTME11A,Total Enrolment in State Public University - MPhil Course
+SSEDHSPTPE11A,Total Enrolment in State Public University - PhD Course
+SSEDHSPTTE11A,Total Enrolment in State Public University
+SSEDHSPTUE11A,Total Enrolment in State Public University - Under Graduate Courses
+SSEDHSVFCE11A,Total Enrolment in State Private University - Certificate Courses (Female)
+SSEDHSVFDE11A,Total Enrolment in State Private University - Post Graduate Diploma Courses (Female)
+SSEDHSVFIE11A,Total Enrolment in State Private University - Integrated Courses (Female)
+SSEDHSVFLE11A,Total Enrolment in State Private University - Diploma Courses (Female)
+SSEDHSVFME11A,Total Enrolment in State Private University - MPhil Course (Female)
+SSEDHSVFPE11A,Total Enrolment in State Private University - PhD Course (Female)
+SSEDHSVFUE11A,Total Enrolment in State Private University - Under Graduate Courses (Female)
+SSEDHSVMCE11A,Total Enrolment in State Private University - Certificate Courses (Male)
+SSEDHSVMDE11A,Total Enrolment in State Private University - Post Graduate Diploma Courses (Male)
+SSEDHSVMGE11A,Total Enrolment in State Private University - Post Graduate Courses (Male)
+SSEDHSVMIE11A,Total Enrolment in State Private University - Integrated Courses (Male)
+SSEDHSVMLE11A,Total Enrolment in State Private University - Diploma Courses (Male)
+SSEDHSVMME11A,Total Enrolment in State Private University - MPhil Course (Male)
+SSEDHSVMPE11A,Total Enrolment in State Private University - PhD Course (Male)
+SSEDHSVMTE11A,Total Enrolment in State Private University (Male)
+SSEDHSVMUE11A,Total Enrolment in State Private University - Under Graduate Courses (Male)
+SSEDHSVTCE11A,Total Enrolment in State Private University - Certificate Courses
+SSEDHSVTDE11A,Total Enrolment in State Private University - Post Graduate Diploma Courses
+SSEDHSVTGE11A,Total Enrolment in State Private University - Post Graduate Courses
+SSEDHSVTLE11A,Total Enrolment in State Private University - Diploma Courses
+SSEDHSVTME11A,Total Enrolment in State Private University - MPhil Course
+SSEDHSVTPE11A,Total Enrolment in State Private University - PhD Course
+SSEDHSVTTE11A,Total Enrolment in State Private University
+SSEDHTCAPF11A,Total Number of Teachers in Higher Education - Associate Professors (Female)
+SSEDHTCAPM11A,Total Number of Teachers in Higher Education - Associate Professors (Male)
+SSEDHTCAPT11A,Total Number of Teachers in Higher Education - Associate Professors
+SSEDHTCATM11A,Total Number of Teachers in Higher Education (Male)
+SSEDHTCATT11A,Total Number of Teachers in Higher Education
+SSEDHTCPRM11A,Total Number of Teachers in Higher Education - Professors (Male)
+SSEDHTCPRT11A,Total Number of Teachers in Higher Education - Professors
+SSEDHTCSTF11A,Total Number of Teachers in Higher Education - Assistant Professors (Female)
+SSEDHTCTTF11A,Total Number of Teachers in Higher Education - Temporary Teachers (Female)
+SSEDHTCTTM11A,Total Number of Teachers in Higher Education - Temporary Teachers (Male)
+SSEDHTCTTT11A,Total Number of Teachers in Higher Education - Temporary Teachers
+SSEDHTCTUF11A,Total Number of Teachers in Higher Education - Tutors (Female)
+SSEDHTCTUT11A,Total Number of Teachers in Higher Education - Tutors
+SSEDHTCVTF11A,Total Number of Teachers in Higher Education - Visiting Teachers (Female)
+SSEDHTCVTM11A,Total Number of Teachers in Higher Education - Visiting Teachers (Male)
+SSEDHTCVTT11A,Total Number of Teachers in Higher Education - Visiting Teachers
+SSEDHUNFCE11A,Total Enrolment in Deemed University - Private - Certificate Courses (Female)
+SSEDHUNFDE11A,Total Enrolment in Deemed University - Private - Post Graduate Diploma Courses (Female)
+SSEDHUNFGE11A,Total Enrolment in Deemed University - Private - Post Graduate Courses (Female)
+SSEDHUNFIE11A,Total Enrolment in Deemed University - Private - Integrated Courses (Female)
+SSEDHUNFLE11A,Total Enrolment in Deemed University - Private - Diploma Courses (Female)
+SSEDHUNFME11A,Total Enrolment in Deemed University - Private - MPhil Course (Female)
+SSEDHUNFPE11A,Total Enrolment in Deemed University - Private - PhD Course (Female)
+SSEDHUNFUE11A,Total Enrolment in Deemed University - Private - Under Graduate Courses (Female)
+SSEDHUNMCE11A,Total Enrolment in Deemed University - Private - Certificate Courses (Male)
+SSEDHUNMDE11A,Total Enrolment in Deemed University - Private - Post Graduate Diploma Courses (Male)
+SSEDHUNMGE11A,Total Enrolment in Deemed University - Private - Post Graduate Courses (Male)
+SSEDHUNMIE11A,Total Enrolment in Deemed University - Private - Integrated Courses (Male)
+SSEDHUNMLE11A,Total Enrolment in Deemed University - Private - Diploma Courses (Male)
+SSEDHUNMME11A,Total Enrolment in Deemed University - Private - MPhil Course (Male)
+SSEDHUNMPE11A,Total Enrolment in Deemed University - Private - PhD Course (Male)
+SSEDHUNMTE11A,Total Enrolment in Deemed University - Private (Male)
+SSEDHUNMUE11A,Total Enrolment in Deemed University - Private - Under Graduate Courses (Male)
+SSEDHUNTCE11A,Total Enrolment in Deemed University - Private - Certificate Courses
+SSEDHSVFGE11A,Total Enrolment in State Private University - Post Graduate Courses (Female)
+SSEDHSVTIE11A,Total Enrolment in State Private University - Integrated Courses
+SSEDHTCPRF11A,Total Number of Teachers in Higher Education - Professors (Female)
+SSEDHUNFTE11A,Total Enrolment in Deemed University - Private (Female)
+SSEDHUNTDE11A,Total Enrolment in Deemed University - Private - Post Graduate Diploma Courses
+SSEDHUNTGE11A,Total Enrolment in Deemed University - Private - Post Graduate Courses
+SSEDHUNTIE11A,Total Enrolment in Deemed University - Private - Integrated Courses
+SSEDHUNTLE11A,Total Enrolment in Deemed University - Private - Diploma Courses
+SSEDHUNTME11A,Total Enrolment in Deemed University - Private - MPhil Course
+SSEDHUNTTE11A,Total Enrolment in Deemed University - Private
+SSEDHUNTUE11A,Total Enrolment in Deemed University - Private - Under Graduate Courses
+SSEDMAALEA11A,Percentage of enrolled children able to identify less than 4 out of 5 single digit numbers
+SSEDMAALEB11A,Percentage of enrolled children able to identify 4 out 5 single digit numbers
+SSEDMAALEC11A,Percentage of enrolled children able to 4 out of 5 two digit numbers
+SSEDMAALEE11A,Percentage of enrolled children able to do three digit by one digit division
+SSEDMABLEA11A,Percentage of enrolled boys able to identify less than 4 out of 5 single digit numbers
+SSEDMABLEB11A,Percentage of enrolled boys able to identify 4 out 5 single digit numbers
+SSEDMABLEC11A,Percentage of enrolled boys able to 4 out of 5 two digit numbers
+SSEDMABLED11A,Percentage of enrolled boys able to do two digit subtraction with carryover
+SSEDMAGLEA11A,Percentage of enrolled girls able to identify less than 4 out of 5 single digit numbers
+SSEDMAGLEB11A,Percentage of enrolled girls able to identify 4 out 5 single digit numbers
+SSEDMAGLED11A,Percentage of enrolled girls able to do two digit subtraction with carryover
+SSEDMAGLEE11A,Percentage of enrolled girls able to do three digit by one digit division
+SSEDSOTFCE11A,Total Enrolment in Other Universities - Certificate Courses (Female)
+SSEDSOTFIE11A,Total Enrolment in Other Universities - Integrated Courses (Female)
+SSEDSOTFLE11A,Total Enrolment in Other Universities - Diploma Courses (Female)
+SSEDSOTFME11A,Total Enrolment in Other Universities - MPhil Course (Female)
+SSEDSOTFPE11A,Total Enrolment in Other Universities - PhD Course (Female)
+SSEDSOTFTE11A,Total Enrolment in Other Universities (Female)
+SSEDSOTFUE11A,Total Enrolment in Other Universities - Under Graduate Courses (Female)
+SSEDSOTMCE11A,Total Enrolment in Other Universities - Certificate Courses (Male)
+SSEDSOTMDE11A,Total Enrolment in Other Universities - Post Graduate Diploma Courses (Male)
+SSEDSOTMGE11A,Total Enrolment in Other Universities - Post Graduate Courses (Male)
+SSEDSOTMIE11A,Total Enrolment in Other Universities - Integrated Courses (Male)
+SSEDSOTMLE11A,Total Enrolment in Other Universities - Diploma Courses (Male)
+SSEDSOTMME11A,Total Enrolment in Other Universities - MPhil Course (Male)
+SSEDSOTMPE11A,Total Enrolment in Other Universities - PhD Course (Male)
+SSEDSOTMTE11A,Total Enrolment in Other Universities (Male)
+SSEDSOTMUE11A,Total Enrolment in Other Universities - Under Graduate Courses (Male)
+SSEDSOTTDE11A,Total Enrolment in Other Universities - Post Graduate Diploma Courses
+SSEDSOTTGE11A,Total Enrolment in Other Universities - Post Graduate Courses
+SSEDSOTTIE11A,Total Enrolment in Other Universities - Integrated Courses
+SSEDSOTTLE11A,Total Enrolment in Other Universities - Diploma Courses
+SSEDSOTTME11A,Total Enrolment in Other Universities - MPhil Course
+SSEDSOTTPE11A,Total Enrolment in Other Universities - PhD Course
+SSEDSOTTTE11A,Total Enrolment in Other Universities
+SSEDSOTTUE11A,Total Enrolment in Other Universities - Under Graduate Courses
+SSEDUNICUN11A,Number of Universities in India - Central University
+SSEDUNIDUA11A,Number of Universities in India - Deemed University - Govt Aided
+SSEDUNIDUG11A,Number of Universities in India - Deemed University - Government
+SSEDUNIDUP11A,Number of Universities in India - Deemed University - Private
+SSEDUNIINI11A,Number of Universities in India - Institutes of National Importance
+SSEDUNISPU11A,Number of Universities in India - State University - Public
+SSEDUNITOT11A,Number of Universities in India
+URPERBRGROGLM,Unemployment Rate - Brazil
+URPERCHGROGLM,Unemployment Rate - China
+URPEREUGROGLM,Unemployment Rate - Euro Area
+URPERFRGROGLQ,Unemployment Rate - France
+URPERGEGROGLM,Unemployment Rate - Germany
+URPERIDGROGLQ,Unemployment Rate - Indonesia
+URPERITGROGLM,Unemployment Rate - Italy
+URPERJPGROGLM,Unemployment Rate - Japan
+SSEDHSLMGE11A,Total Enrolment in Institutes under State Legistrature Acts - Post Graduate Courses (Male)
+SSEDHSLTDE11A,Total Enrolment in Institutes under State Legistrature Acts - Post Graduate Diploma Courses
+SSEDHSPMPE11A,Total Enrolment in State Public University - PhD Course (Male)
+SSEDHSPTIE11A,Total Enrolment in State Public University - Integrated Courses
+SSEDHSVFTE11A,Total Enrolment in State Private University (Female)
+SSEDHSVTUE11A,Total Enrolment in State Private University - Under Graduate Courses
+SSEDHTCATF11A,Total Number of Teachers in Higher Education (Female)
+SSEDHTCSTM11A,Total Number of Teachers in Higher Education - Assistant Professors (Male)
+SSEDHTCSTT11A,Total Number of Teachers in Higher Education - Assistant Professors
+SSEDHTCTUM11A,Total Number of Teachers in Higher Education - Tutors (Male)
+SSEDHUNTPE11A,Total Enrolment in Deemed University - Private - PhD Course
+SSEDMAALED11A,Percentage of enrolled children able to do two digit subtraction with carryover
+SSEDMABLEE11A,Percentage of enrolled boys able to do three digit by one digit division
+SSEDMAGLEC11A,Percentage of enrolled girls able to 4 out of 5 two digit numbers
+SSEDSOTFDE11A,Total Enrolment in Other Universities - Post Graduate Diploma Courses (Female)
+SSEDSOTFGE11A,Total Enrolment in Other Universities - Post Graduate Courses (Female)
+SSEDSOTTCE11A,Total Enrolment in Other Universities - Certificate Courses
+SSEDUNISPV11A,Number of Universities in India - State University - Private
+SSHLINMORT11A,Infant Mortality Rate (Annual)
+URPERMXGROGLM,Unemployment Rate - Mexico
+URPERPHGROGLM,Unemployment Rate - Philippines
+URPERPLGROGLM,Unemployment Rate - Poland
+URPERSAGROGLQ,Unemployment Rate - South Africa
+URPERSKGROGLM,Unemployment Rate - South Korea
+URPERTHGROGLM,Unemployment Rate - Thailand
+URPERTRGROGLM,Unemployment Rate - Turkiye
+URPERUKGROGLM,Unemployment Rate - UK
+URPERUSGROGLM,Unemployment Rate - USA

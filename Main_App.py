@@ -106,13 +106,20 @@ project_ML = st.Page(
 )
 
 
+project_MM = st.Page(
+    "17_Waterways.py",
+    title="17_Waterways.py",
+    
+)
+
+
 # --- NAVIGATION SETUP [WITH SECTIONS]---
 pg = st.navigation(
     {
         "Introduction": [Intro_pg,Intro_Infra],
         "Apps": [project_nw_page,project_lastmile_page,project_feedback_page,project_chatbot_page,project_analyst],
         "Market": [project_eco_mon,project_soc_imp,project_bright],
-        "Feedback": [project_finance,project_STRU,project_transport,project_rail],
+        "Feedback": [project_finance,project_STRU,project_transport,project_rail,project_MM ],
         "AI_Apps_Feedback": [project_road,project_ML],
     }
 )

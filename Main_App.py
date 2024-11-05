@@ -108,7 +108,13 @@ project_ML = st.Page(
 
 project_MM = st.Page(
     "17_Waterways.py",
-    title="🛥️Waterways.py",
+    title="🛥️Waterways",
+    
+)
+
+project_recommendation = st.Page(
+    "18_Recommendation.py",
+    title="💡Recommendation",
     
 )
 
@@ -123,6 +129,8 @@ pg = st.navigation(
         "Marketplace Data": [project_eco_mon,project_soc_imp,project_bright],
         "Transport Management Apps": [project_nw_page,project_lastmile_page,project_feedback_page,project_chatbot_page,project_analyst],
         "AI Apps": [project_road,project_ML],
+
+        "Recommendation": [project_recommendation],
     }
 )
 

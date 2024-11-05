@@ -205,7 +205,7 @@ else:
             st.write("""🚩Select your Model on the Left Pane.Check if you want to use the Document as Context""")
             st.subheader("Here are some sample Questions")
             st.write("❓Which section speaks about Cancellation of registration")
-            st.write("❓What does section 52 say")
+            st.write("❓What does section 52 say in laymans terms")
             st.write("❓As per THE-MOTOR-VEHICLES-DRIVING-REGULATIONS what is the definition of a road")
             st.write("📃This is the list of documents you already have")
             docs_available = session.sql("ls @docs").collect()

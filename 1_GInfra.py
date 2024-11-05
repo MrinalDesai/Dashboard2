@@ -19,8 +19,9 @@ st.write("""India's road infrastructure has seen significant advancements over t
          and interconnected road infrastructure for the future.""")
 
 
-st.subheader("""Capital Expenditure Surge:
-             \nThe National Highways Authority of India (NHAI) has significantly increased its capital expenditure over the past five years, reflecting the government's commitment in enhancing the national highways network and infrastructure.
+st.subheader("""Capital Expenditure Surge:""")
+st.write("""\n:blue[The National Highways Authority of India (NHAI)] has significantly increased its capital expenditure over 
+             the past five years, reflecting the government's commitment in enhancing the national highways network and infrastructure.]
 
 Details of Capital Expenditure incurred by National Highways Authority of India (NHAI) in last five years is as under:
 """)
@@ -34,7 +35,7 @@ st.write("""This increase in expenditure coupled with timely maintenance, has si
 
 st.subheader("Road Network Expansion")
 
-st.write("""A key component of this effort is the Bharatmala Pariyojana, under which projects are executed in categories such as 
+st.write("""A key component of this effort is the :blue[Bharatmala Pariyojana], under which projects are executed in categories such as 
          Economic Corridors Development, Inter-corridor and Feeder Routes Development, National Corridors Efficiency Improvement, 
          Border and International Connectivity Roads, Coastal and Port Connectivity Roads, and Expressways. 
          This flagship program has awarded 26,425 km and constructed 17,411 km of roads until March 2024, with an 
@@ -131,7 +132,7 @@ st.write(df_ne_fun)
 ###################################################################################################
 st.subheader("Rural Road Connectivity")
 
-st.write("""The Pradhan Mantri Gram Sadak Yojana (PMGSY) has significantly enhanced rural road connectivity. 
+st.write(""":blue[The Pradhan Mantri Gram Sadak Yojana (PMGSY)] has significantly enhanced rural road connectivity. 
 Under this scheme, 8,10,250 km of road length was sanctioned, out of which 7,65,601 km (94%) has been constructed. 
 As of July 26, 2024, the total expenditure on this initiative stands at Rs. 3,24,186 crore.
 
@@ -143,7 +144,7 @@ fostering economic growth and improving the quality of life for rural population
 """)
 
 ###################################################################################################
-st.write("Pradhan Mantri Gram Sadak Yojana (PMGSY)")
+st.write(":blue[Pradhan Mantri Gram Sadak Yojana (PMGSY)]")
 
 df_ne_fun=pd.read_csv(f"datasets/infra/StateUTs-wise Road Length Completed under Pradhan Mantri Gram Sadak Yojana (PMGSY) as on 28.07.2022-done.csv")
 
@@ -176,7 +177,7 @@ df_high_sel=df_high[df_high["State/UT"]==high_sel].reset_index(drop="True")
 
 st.write(df_high_sel)
 ###################################################################################################
-
+st.subheader("Electric Charging Stations")
 
 st.write("""Additionally, in a significant step towards supporting electric mobility, a total of 5,293 Electric Vehicle (EV) 
 charging stations have been established along National Highways. This includes 4,729 stations set up by the Ministry of 

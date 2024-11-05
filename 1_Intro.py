@@ -13,9 +13,9 @@ st.write("""National Family Health Survey
 (NFHS - 5), 2019–21""")
 st.image(f"writeup/Ownership.jpg")
 
-st.write("""According to NHD The vast majority of Indians still own two-wheelers — as many as 55 per cent of 
+st.write("""According to NHD The vast majority of Indians still own two-wheelers — as many as :blue[55 per cent of 
          Indian households have a bicycle,while those with scooters and motorcycles come a close second at 54 
-         per cent, according to the survey.
+         per cent], according to the survey.
          
          \nThe findings of the NFHS-5, conducted among 6,64,972 families, or households, were released earlier this month. 
          It was carried out by the Ministry of Health and Family Welfare.Around 3.7 per cent of the country’s families 
@@ -49,12 +49,13 @@ st.write("""Before the 1990s, owning a car was a herculean task in India. Loans 
          (for NFHS-5) own cars, against 4 per cent in rural India.That the penetration of cars in India is lower than 
          in many developed countries has been admitted by Niti Aayog CEO Amitabh Kant. In 2018, Kant said 22 people 
          per-thousand population owned cars in India, as compared to over 500 in Japan, Canada and the UK.
-         Lower per capita income of Indians has been cited as one reason for this. The average annual income of an Indian 
+         
+         \nLower per capita income of Indians has been cited as one reason for this. The average annual income of an Indian 
          is less than 2000 dollars , according to World Bank data, while the minimum cost of a car — a hatchback like a 
          Maruti Alto, for example — is about 5000-6000 dollars.""")
 
 
-st.write(""" This shows the reliance on Public Transport""")
+st.write(""":blue[This shows the reliance on Public Transport]""")
 st.subheader("#️⃣Reference👉", divider="gray")
 st.write(""" https://theprint.in/india/only-8-indian-families-own-cars-nfhs-finds-over-50-still-use-bicycles-bikes-scooters/971413/""")
 

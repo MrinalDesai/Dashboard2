@@ -40,7 +40,7 @@ project_feedback_page = st.Page(
 
 project_chatbot_page = st.Page(
     "5_Chatbot.py",
-    title="💬Chatbot",
+    title="💬AI Document Chatbot",
     
 )
 

@@ -10,7 +10,7 @@ st.header('Vehicle demographics and Growth', divider="gray")
 st.subheader("#️⃣Registered and Commercial Vehicles and Licences in cities📌 ", divider="gray")
 
 st.write("""
-This section shows the Data.gov information regarding various Vehicles and Licences Demographisc and the Growth in Automobile Sector. It end with 
+This section shows the Data.gov information regarding various Vehicles and Licences Demographics and the Growth in Automobile Sector. It end with 
          propotionate growth in Population and Roads and Vehicle data""")
 st.write("#️⃣#️⃣#️⃣#️⃣#️⃣#️⃣#️⃣#️⃣#️⃣#️⃣#️⃣#️⃣#️⃣#️⃣#️⃣#️⃣#️⃣#️⃣#️⃣#️⃣#️⃣#️⃣")
 st.write("#️⃣Total Registered Motor Vehicles-Million Plus Cities📌 ")

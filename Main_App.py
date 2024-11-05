@@ -118,8 +118,9 @@ pg = st.navigation(
     {
         "Introduction": [Intro_pg,Intro_Infra],
         
-        "Market": [project_eco_mon,project_soc_imp,project_bright],
+        
         "Feedback": [project_finance,project_STRU,project_transport,project_rail,project_MM ],
+        "Marketplace Data": [project_eco_mon,project_soc_imp,project_bright],
         "Transport Management Apps": [project_nw_page,project_lastmile_page,project_feedback_page,project_chatbot_page,project_analyst],
         "AI Apps": [project_road,project_ML],
     }

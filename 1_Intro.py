@@ -1,5 +1,9 @@
 import streamlit as st
 
+st.set_page_config(page_title="Public Transport of India",
+                   page_icon="👉",
+                   )
+
 st.title('Introduction')
 st.header('Public Transport of India', divider="gray")
 st.subheader("#️⃣Reliance on Public Transport📌 ", divider="gray")

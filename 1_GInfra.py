@@ -2,6 +2,10 @@ import streamlit as st
 import pandas as pd
 import plotly.graph_objects as go
 import plotly.express as px
+
+st.set_page_config(page_title="Transforming India’s Road Infrastructure",
+                   page_icon="🚗",
+                   )
 st.title("""Transforming India’s Road Infrastructure
 """)
 st.header('Connecting India Like Never Before', divider="gray")

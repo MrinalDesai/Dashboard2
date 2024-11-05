@@ -11,7 +11,11 @@ import pandas as pd
 import string
 import plotly.express as px
 
-st.set_page_config(layout="wide")
+st.set_page_config(page_title="Transportation Network Visualisation",
+                   page_icon="🕸",layout="wide"
+                   )
+
+
 st.title("Visualise your Transportation Network, Find Alternate routes and ask AI for suggestions.")
 
 st.write(""":blue[This section shows us how we can implement network analysis to Visualise Transport system.]

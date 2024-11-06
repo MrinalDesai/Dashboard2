@@ -26,7 +26,7 @@ USER2 = "MRINALSNOW02"
 ACCOUNT2 = "kakvlqh-cmb74873" 
 
 st.set_page_config(page_title="App Feedback",
-                   page_icon="💬",
+                   page_icon="📝",
                    )
 st.title("""Tell us how your Journey was and we will make sure your opinion counts """)
 st.write("""We use your data to Do Some Sentiment Analysis 🗣 and Fetch Some Ratings⭐⭐⭐⭐ your Experience:""")

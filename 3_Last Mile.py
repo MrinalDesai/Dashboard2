@@ -17,7 +17,9 @@ st.title('Introduction')
 st.header('Last Mile Connectivity', divider="gray")
 st.subheader("#️⃣Request a Stop on your nearest location📌 ", divider="gray")
 
-
+# st.set_page_config(page_title="Last Mile Connectivity",
+#                    page_icon="🚏",layout="wide"
+#                    )
 
     #btnResult = st.form_submit_button('View All the Pothole Location')
 

@@ -42,7 +42,7 @@ st.write("""👉Multimodal Transport should be used.
 
          \n👉Locating STRU stops near metro stops connecting suburban areas.
 
-        \n👉earmarking 10 per cent of its annual budget for road and highways for maintenance to 
+        \n👉Earmarking 10 per cent of its annual budget for road and highways for maintenance to 
          move towards the developed country norm of earmarking 40 per cent to 50 per cent of the budget 
          for roads and highways for maintenance.
          

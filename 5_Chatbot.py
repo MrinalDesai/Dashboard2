@@ -32,8 +32,8 @@ ACCOUNT2 = "kakvlqh-cmb74873"
 
 ############################################################
 
-st.set_page_config(page_title="Simplifying Traffic rules",
-                   page_icon="🧠",
+st.set_page_config(page_title="AI Document Chatbot",
+                   page_icon="💬",
                    )
 
 # Load environment variables from .env

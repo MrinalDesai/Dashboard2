@@ -3,7 +3,7 @@ import pandas as pd
 import plotly.graph_objects as go
 import plotly.express as px
 
-st.set_page_config(page_title="Transforming India’s Road Infrastructure",
+st.set_page_config(page_title="Road Infrastructure",
                    page_icon="🚗",
                    )
 st.title("""Transforming India’s Road Infrastructure

@@ -4,6 +4,10 @@ import pandas as pd
 import requests
 import snowflake.connector
 import streamlit as st
+
+st.set_page_config(page_title="'Analyst'",
+                   page_icon="🕵🏻",layout="wide"
+                   )
 st.header(':blue[CORTEX ANALYST]', divider="gray")
 st.subheader('Ask Your questions related to daily route and find your answers')
 st.subheader('The data will be parked in tables in Snowflake')

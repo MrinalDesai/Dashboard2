@@ -22,13 +22,18 @@ import streamlit as st
 # USER2 = os.getenv('USER2')
 # ACCOUNT2 = os.getenv('ACCOUNT2')
 
-PASSWORD = "passSNOW@1234"
 
-USER2 = "MRINALSNOW02"
-# "mrinalsnowtrial" "izoakvy-jbb52986" 
-#USER2 = "MRINALSNOW02"
-ACCOUNT2 = "kakvlqh-cmb74873" 
-#ACCOUNT2 ="kakvlqh-cmb74873",
+
+# USER2 = "MRINALSNOW05"
+# # "mrinalsnowtrial" "izoakvy-jbb52986" 
+# #USER2 = "MRINALSNOW02"
+# ACCOUNT2 = "kjssull-lvb47542" 
+# #ACCOUNT2 ="kakvlqh-cmb74873",
+
+
+PASSWORD = st.secrets["SPASSWORD"]
+USER2 = st.secrets['SUSER'] 
+ACCOUNT2 = st.secrets['SACCOUNT'] 
 
 ############################################################
 

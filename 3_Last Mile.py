@@ -23,11 +23,17 @@ st.subheader("#️⃣Request a Stop on your nearest location📌 ", divider="gra
 
     #btnResult = st.form_submit_button('View All the Pothole Location')
 
-PASSWORD = "passSNOW@1234"
+# PASSWORD = "passSNOW@1234"
 # USER2 = "mrinalsnowtrial"
 # ACCOUNT2 = "izoakvy-jbb52986" 
-USER2 = "MRINALSNOW02"
-ACCOUNT2 = "kakvlqh-cmb74873" 
+# USER2 = "MRINALSNOW02"
+# ACCOUNT2 = "kakvlqh-cmb74873" 
+# USER2 = "MRINALSNOW05"
+# ACCOUNT2 = "kjssull-lvb47542" 
+
+PASSWORD = st.secrets["SPASSWORD"]
+USER2 = st.secrets['SUSER'] 
+ACCOUNT2 = st.secrets['SACCOUNT'] 
 connection_params = {
     "account": ACCOUNT2,
     "user": USER2,
@@ -275,7 +281,7 @@ if submit:
 
 
 
-
+# https://kjssull-lvb47542.snowflakecomputing.com/console/login.
 # CREATE OR REPLACE table location (
 #   id integer autoincrement, -- 
 #   latitude NUMERIC(30,20),  -- variable string column

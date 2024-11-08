@@ -18,12 +18,20 @@ load_dotenv()
 # USER2 = os.getenv('USER2')
 # ACCOUNT2 = os.getenv('ACCOUNT2')
 
-PASSWORD = "passSNOW@1234"
-# USER2 = "mrinalsnowtrial"
-# ACCOUNT2 = "izoakvy-jbb52986" 
 
-USER2 = "MRINALSNOW02"
-ACCOUNT2 = "kakvlqh-cmb74873" 
+# # USER2 = "mrinalsnowtrial"
+# # ACCOUNT2 = "izoakvy-jbb52986" 
+
+# # USER2 = "MRINALSNOW02"
+# # ACCOUNT2 = "kakvlqh-cmb74873" 
+
+# USER2 = "MRINALSNOW05"
+# ACCOUNT2 = "kjssull-lvb47542" 
+
+
+PASSWORD = st.secrets["SPASSWORD"]
+USER2 = st.secrets['SUSER'] 
+ACCOUNT2 = st.secrets['SACCOUNT'] 
 
 st.set_page_config(page_title="App Feedback",
                    page_icon="📝",

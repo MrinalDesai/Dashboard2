@@ -33,6 +33,7 @@ st.write(":red[1.What was the total revenue for each route in the last quarter o
 st.write(":green[2.How does the profit margin vary across different regions over the entire available time period?]")
 st.write(":orange[3.For each month, what was the lowest daily revenue and on what date did that lowest revenue occur?]")
 st.write(":rainbow[4.Please create a bar graph for the total profit of each month for the year 2024.]")
+st.write(":rainbow[4.What is the percentage change of revenue between 2024 and 2023?.]")
 st.write("SAMPLE DATA")
 
 df_main= pd.read_csv("cortex ai files/daily_revenue_combined.csv")
@@ -49,20 +50,28 @@ df_main_route=df_main_route.head(5)
 st.write(df_main_route)
 
 #HOST = "izoakvy-jbb52986.snowflakecomputing.com"
-HOST = "kakvlqh-cmb74873.snowflakecomputing.com"
+#HOST = "kakvlqh-cmb74873.snowflakecomputing.com"
+HOST = "kjssull-lvb47542.snowflakecomputing.com"
+
 
 DATABASE = "CORTEX_ANALYST_DEMO"
 SCHEMA = "REVENUE_TIMESERIES"
 STAGE = "RAW_DATA"
 FILE = "revenue_timeseries.yaml"
 
+PASSWORD = st.secrets["SPASSWORD"]
+USER2 = st.secrets['SUSER'] 
+ACCOUNT2 = st.secrets['SACCOUNT'] 
+
 if 'CONN' not in st.session_state or st.session_state.CONN is None:
     st.session_state.CONN = snowflake.connector.connect(
-        user="MRINALSNOW02",
+        #user="MRINALSNOW02",
         #user="mrinalsnowtrial",
-        password="passSNOW@1234",
+        password=PASSWORD,
         #account="izoakvy-jbb52986",
-        account="kakvlqh-cmb74873",
+        #account="kakvlqh-cmb74873",
+        user=USER2,
+        account=ACCOUNT2,
         
         host=HOST,
         port=443,

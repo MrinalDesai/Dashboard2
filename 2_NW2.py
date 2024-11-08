@@ -28,12 +28,21 @@ st.write(""":blue[This section shows us how we can implement network analysis to
 df=pd.read_csv("stop_data.csv")
 df_r=pd.read_csv("route_data2.csv")
 
-PASSWORD = "passSNOW@1234"
+
 #USER2 = "mrinalsnowtrial"
 #ACCOUNT2 = "izoakvy-jbb52986" 
 
-USER2 ="MRINALSNOW02"
-ACCOUNT2="kakvlqh-cmb74873"
+# USER2 ="MRINALSNOW02"
+# ACCOUNT2="kakvlqh-cmb74873"
+
+# USER2 ="MRINALSNOW05"
+# ACCOUNT2="kjssull-lvb47542"
+
+
+PASSWORD = st.secrets["SPASSWORD"]
+USER2 = st.secrets['SUSER'] 
+ACCOUNT2 = st.secrets['SACCOUNT'] 
+
 connection_params = {
     "account": ACCOUNT2,
     "user": USER2,
